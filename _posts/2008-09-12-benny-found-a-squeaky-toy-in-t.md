@@ -1,6 +1,6 @@
 ---
 id: 522
-title: 'Benny found a squeaky toy in t...'
+title: 'Benny found a squeaky toy in t'
 date: '2008-09-12T00:45:38-04:00'
 author: DizkoDan
 layout: post

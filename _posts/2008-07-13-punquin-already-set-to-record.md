@@ -1,6 +1,6 @@
 ---
 id: 475
-title: '@punquin already set to record...'
+title: '@punquin already set to record'
 date: '2008-07-13T18:11:38-04:00'
 author: DizkoDan
 layout: post

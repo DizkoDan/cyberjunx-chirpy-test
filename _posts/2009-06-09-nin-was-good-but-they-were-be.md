@@ -1,6 +1,6 @@
 ---
 id: 977
-title: 'NIN was good, but they were be...'
+title: 'NIN was good, but they were be'
 date: '2009-06-09T21:35:21-04:00'
 author: DizkoDan
 layout: post

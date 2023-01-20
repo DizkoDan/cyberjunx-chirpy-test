@@ -1,6 +1,6 @@
 ---
 id: 896
-title: 'Belly full of migas... Ready t...'
+title: 'Belly full of migas... Ready t'
 date: '2009-03-22T12:37:52-04:00'
 author: DizkoDan
 layout: post

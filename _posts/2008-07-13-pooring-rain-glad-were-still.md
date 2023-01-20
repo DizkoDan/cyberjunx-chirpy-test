@@ -1,6 +1,6 @@
 ---
 id: 476
-title: 'Pooring rain. Glad we're still...'
+title: 'Pooring rain. Glad we're still'
 date: '2008-07-13T18:10:14-04:00'
 author: DizkoDan
 layout: post

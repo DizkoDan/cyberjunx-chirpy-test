@@ -1,6 +1,6 @@
 ---
 id: 447
-title: 'The disney cruise ship that pu...'
+title: 'The disney cruise ship that pu'
 date: '2008-06-10T20:55:59-04:00'
 author: DizkoDan
 layout: post

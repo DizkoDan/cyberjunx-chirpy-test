@@ -1,6 +1,6 @@
 ---
 id: 621
-title: 'is bored and unmotivated to do...'
+title: 'is bored and unmotivated to do'
 date: '2008-12-19T15:16:24-04:00'
 author: DizkoDan
 layout: post

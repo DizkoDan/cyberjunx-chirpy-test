@@ -1,6 +1,6 @@
 ---
 id: 1043
-title: 'Mission accomplished. Blueberr...'
+title: 'Mission accomplished. Blueberr'
 date: '2009-09-22T13:39:26-04:00'
 author: DizkoDan
 layout: post

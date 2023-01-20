@@ -1,6 +1,6 @@
 ---
 id: 1051
-title: 'Beautiful weather. Ice cold be...'
+title: 'Beautiful weather. Ice cold be'
 date: '2009-10-04T16:20:36-04:00'
 author: DizkoDan
 layout: post

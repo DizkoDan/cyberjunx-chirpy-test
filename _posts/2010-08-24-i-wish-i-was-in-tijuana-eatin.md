@@ -1,6 +1,6 @@
 ---
 id: 1344
-title: 'I wish I was in tijuana, eatin...'
+title: 'I wish I was in tijuana, eatin'
 date: '2010-08-24T06:51:46-04:00'
 author: DizkoDan
 layout: post

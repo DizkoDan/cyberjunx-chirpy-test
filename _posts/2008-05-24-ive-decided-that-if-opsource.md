@@ -1,6 +1,6 @@
 ---
 id: 423
-title: 'I've decided that if OpSource ...'
+title: 'I've decided that if OpSource '
 date: '2008-05-24T18:35:33-04:00'
 author: DizkoDan
 layout: post

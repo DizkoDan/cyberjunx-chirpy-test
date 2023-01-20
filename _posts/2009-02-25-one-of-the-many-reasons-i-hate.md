@@ -1,6 +1,6 @@
 ---
 id: 861
-title: 'one of the many reasons I hate...'
+title: 'one of the many reasons I hate'
 date: '2009-02-25T08:34:32-04:00'
 author: DizkoDan
 layout: post

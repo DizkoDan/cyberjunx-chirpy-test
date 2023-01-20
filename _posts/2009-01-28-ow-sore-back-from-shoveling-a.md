@@ -1,6 +1,6 @@
 ---
 id: 643
-title: 'Ow! Sore back from shoveling a...'
+title: 'Ow! Sore back from shoveling a'
 date: '2009-01-28T15:12:55-04:00'
 author: DizkoDan
 layout: post

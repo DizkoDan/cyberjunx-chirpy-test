@@ -1,6 +1,6 @@
 ---
 id: 1502
-title: 'At glory days for dinner and h...'
+title: 'At glory days for dinner and h'
 date: '2010-12-23T20:09:23-04:00'
 author: DizkoDan
 layout: post

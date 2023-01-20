@@ -1,6 +1,6 @@
 ---
 id: 940
-title: 'It's strange that the only tim...'
+title: 'It's strange that the only tim'
 date: '2009-05-06T21:23:37-04:00'
 author: DizkoDan
 layout: post

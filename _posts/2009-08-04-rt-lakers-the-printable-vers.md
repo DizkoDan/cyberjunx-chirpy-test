@@ -1,6 +1,6 @@
 ---
 id: 1013
-title: 'RT @Lakers: The printable vers...'
+title: 'RT @Lakers: The printable vers'
 date: '2009-08-04T14:25:26-04:00'
 author: DizkoDan
 layout: post

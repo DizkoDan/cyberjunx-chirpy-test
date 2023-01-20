@@ -1,6 +1,6 @@
 ---
 id: 7
-title: 'been a while...'
+title: 'been a while'
 date: '2005-02-17T21:00:00-04:00'
 author: DizkoDan
 layout: post

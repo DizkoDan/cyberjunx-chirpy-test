@@ -1,6 +1,6 @@
 ---
 id: 301
-title: 'There's something really wrong...'
+title: 'There's something really wrong'
 date: '2008-02-06T15:08:02-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/06/theres-something-really-wrong/'

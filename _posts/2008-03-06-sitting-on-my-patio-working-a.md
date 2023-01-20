@@ -1,6 +1,6 @@
 ---
 id: 327
-title: 'Sitting on my patio working, a...'
+title: 'Sitting on my patio working, a'
 date: '2008-03-06T15:27:16-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/06/sitting-on-my-patio-working-a/'

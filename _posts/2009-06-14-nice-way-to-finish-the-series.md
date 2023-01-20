@@ -1,6 +1,6 @@
 ---
 id: 982
-title: 'Nice way to finish the series ...'
+title: 'Nice way to finish the series '
 date: '2009-06-14T22:40:55-04:00'
 author: DizkoDan
 layout: post

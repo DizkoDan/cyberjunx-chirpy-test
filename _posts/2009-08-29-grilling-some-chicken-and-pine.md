@@ -1,6 +1,6 @@
 ---
 id: 1026
-title: 'Grilling some chicken and pine...'
+title: 'Grilling some chicken and pine'
 date: '2009-08-29T17:26:30-04:00'
 author: DizkoDan
 layout: post

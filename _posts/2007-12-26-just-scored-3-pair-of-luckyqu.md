@@ -1,6 +1,6 @@
 ---
 id: 266
-title: 'Just scored 3 pair of lucky&amp;qu...'
+title: 'Just scored 3 pair of lucky&amp;qu'
 date: '2007-12-26T14:39:50-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/26/just-scored-3-pair-of-luckyqu/'

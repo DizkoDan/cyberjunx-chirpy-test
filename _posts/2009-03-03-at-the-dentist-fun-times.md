@@ -1,6 +1,6 @@
 ---
 id: 867
-title: 'At the dentist. Fun times...'
+title: 'At the dentist. Fun times'
 date: '2009-03-03T18:46:21-04:00'
 author: DizkoDan
 layout: post

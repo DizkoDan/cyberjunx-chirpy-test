@@ -1,6 +1,6 @@
 ---
 id: 1193
-title: 'Something about a nun eating b...'
+title: 'Something about a nun eating b'
 date: '2010-07-30T18:26:20-04:00'
 author: DizkoDan
 layout: post

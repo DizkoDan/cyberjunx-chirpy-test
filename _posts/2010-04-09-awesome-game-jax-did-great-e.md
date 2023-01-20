@@ -1,6 +1,6 @@
 ---
 id: 1118
-title: 'Awesome game! Jax did great. E...'
+title: 'Awesome game! Jax did great. E'
 date: '2010-04-09T22:14:56-04:00'
 author: DizkoDan
 layout: post

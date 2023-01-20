@@ -1,6 +1,6 @@
 ---
 id: 1151
-title: 'Who's having fight night Satur...'
+title: 'Who's having fight night Satur'
 date: '2010-05-24T14:51:28-04:00'
 author: DizkoDan
 layout: post

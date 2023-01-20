@@ -1,6 +1,6 @@
 ---
 id: 1131
-title: 'My mind is already completely ...'
+title: 'My mind is already completely '
 date: '2010-04-30T08:19:09-04:00'
 author: DizkoDan
 layout: post

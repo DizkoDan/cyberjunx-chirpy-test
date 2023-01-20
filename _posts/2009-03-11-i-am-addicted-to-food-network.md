@@ -1,6 +1,6 @@
 ---
 id: 880
-title: 'I am addicted to food network ...'
+title: 'I am addicted to food network '
 date: '2009-03-11T22:10:18-04:00'
 author: DizkoDan
 layout: post

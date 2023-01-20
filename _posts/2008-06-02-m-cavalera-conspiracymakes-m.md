@@ -1,6 +1,6 @@
 ---
 id: 433
-title: '\m/ Cavalera Conspiracymakes m...'
+title: '\m/ Cavalera Conspiracymakes m'
 date: '2008-06-02T16:20:04-04:00'
 author: DizkoDan
 layout: post

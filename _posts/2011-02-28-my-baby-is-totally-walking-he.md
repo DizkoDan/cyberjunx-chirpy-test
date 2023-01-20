@@ -1,6 +1,6 @@
 ---
 id: 1537
-title: 'My baby is totally walking. He...'
+title: 'My baby is totally walking. He'
 date: '2011-02-28T21:01:09-04:00'
 author: DizkoDan
 layout: post

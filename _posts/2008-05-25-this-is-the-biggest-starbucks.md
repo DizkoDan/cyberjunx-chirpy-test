@@ -1,6 +1,6 @@
 ---
 id: 425
-title: 'This is the biggest starbucks ...'
+title: 'This is the biggest starbucks '
 date: '2008-05-25T04:49:03-04:00'
 author: DizkoDan
 layout: post

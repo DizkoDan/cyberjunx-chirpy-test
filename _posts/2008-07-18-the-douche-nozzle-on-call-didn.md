@@ -1,6 +1,6 @@
 ---
 id: 486
-title: 'The douche nozzle on-call didn...'
+title: 'The douche nozzle on-call didn'
 date: '2008-07-18T05:15:28-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 224
-title: 'OMG! This fugly chick was just...'
+title: 'OMG! This fugly chick was just'
 date: '2007-12-15T18:50:13-04:00'
 author: DizkoDan
 layout: post

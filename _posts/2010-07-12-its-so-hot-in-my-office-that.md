@@ -1,6 +1,6 @@
 ---
 id: 1184
-title: 'It's so hot in my office that ...'
+title: 'It's so hot in my office that '
 date: '2010-07-12T07:25:27-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 923
-title: 'Hahah! He's not even here yet....'
+title: 'Hahah! He's not even here yet.'
 date: '2009-04-18T20:35:37-04:00'
 author: DizkoDan
 layout: post

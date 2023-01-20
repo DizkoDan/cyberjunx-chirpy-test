@@ -1,6 +1,6 @@
 ---
 id: 1060
-title: 'Anyone want 2 tickets to tomor...'
+title: 'Anyone want 2 tickets to tomor'
 date: '2009-10-16T13:02:53-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1620
-title: 'So much for enjoying a night out watching sports. Shitty dj just came out. I've been warned of karaoke to come...'
+title: 'So much for enjoying a night out watching sports. Shitty dj just came out. I've been warned of karaoke to come'
 date: '2011-11-17T22:41:59-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 869
-title: 'Shot a man in Reno, just to wa...'
+title: 'Shot a man in Reno, just to wa'
 date: '2009-03-05T15:01:50-04:00'
 author: DizkoDan
 layout: post

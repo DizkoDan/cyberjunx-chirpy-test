@@ -1,6 +1,6 @@
 ---
 id: 1136
-title: 'It's beautiful out, It's cinco...'
+title: 'It's beautiful out, It's cinco'
 date: '2010-05-05T10:11:45-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1481
-title: 'Happy Thanksgiving everyone! I...'
+title: 'Happy Thanksgiving everyone! I'
 date: '2010-11-25T14:24:43-04:00'
 author: DizkoDan
 layout: post

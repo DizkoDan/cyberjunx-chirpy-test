@@ -1,6 +1,6 @@
 ---
 id: 930
-title: 'counting down for vacation. 2 ...'
+title: 'counting down for vacation. 2 '
 date: '2009-04-29T08:42:32-04:00'
 author: DizkoDan
 layout: post

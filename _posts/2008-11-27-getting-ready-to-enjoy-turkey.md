@@ -1,6 +1,6 @@
 ---
 id: 602
-title: 'Getting ready to enjoy turkey ...'
+title: 'Getting ready to enjoy turkey '
 date: '2008-11-27T15:38:58-04:00'
 author: DizkoDan
 layout: post

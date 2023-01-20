@@ -1,6 +1,6 @@
 ---
 id: 464
-title: 'At the data center doing maint...'
+title: 'At the data center doing maint'
 date: '2008-07-02T01:24:29-04:00'
 author: DizkoDan
 layout: post

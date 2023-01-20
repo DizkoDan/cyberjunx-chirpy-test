@@ -1,6 +1,6 @@
 ---
 id: 478
-title: 'They totally have a bunch of d...'
+title: 'They totally have a bunch of d'
 date: '2008-07-13T20:43:19-04:00'
 author: DizkoDan
 layout: post

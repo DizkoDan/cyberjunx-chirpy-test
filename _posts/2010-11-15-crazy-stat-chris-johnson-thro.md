@@ -1,6 +1,6 @@
 ---
 id: 1471
-title: 'Crazy stat: Chris Johnson thro...'
+title: 'Crazy stat: Chris Johnson thro'
 date: '2010-11-15T11:28:32-04:00'
 author: DizkoDan
 layout: post

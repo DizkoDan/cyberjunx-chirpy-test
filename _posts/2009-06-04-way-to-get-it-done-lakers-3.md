@@ -1,6 +1,6 @@
 ---
 id: 970
-title: 'Way to get it done @lakers! 3 ...'
+title: 'Way to get it done @lakers! 3 '
 date: '2009-06-04T23:36:35-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 957
-title: 'Eating massive quantities of w...'
+title: 'Eating massive quantities of w'
 date: '2009-05-21T16:37:39-04:00'
 author: DizkoDan
 layout: post

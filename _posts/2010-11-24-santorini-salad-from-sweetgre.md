@@ -1,6 +1,6 @@
 ---
 id: 1480
-title: 'Santorini salad from @sweetgre...'
+title: 'Santorini salad from @sweetgre'
 date: '2010-11-24T12:14:06-04:00'
 author: DizkoDan
 layout: post

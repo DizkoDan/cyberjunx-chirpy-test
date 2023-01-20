@@ -1,6 +1,6 @@
 ---
 id: 960
-title: 'Awesome! ABC in DC just blacke...'
+title: 'Awesome! ABC in DC just blacke'
 date: '2009-05-23T21:37:25-04:00'
 author: DizkoDan
 layout: post

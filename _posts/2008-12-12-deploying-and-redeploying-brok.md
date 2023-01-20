@@ -1,6 +1,6 @@
 ---
 id: 616
-title: 'deploying and redeploying brok...'
+title: 'deploying and redeploying brok'
 date: '2008-12-12T10:43:00-04:00'
 author: DizkoDan
 layout: post

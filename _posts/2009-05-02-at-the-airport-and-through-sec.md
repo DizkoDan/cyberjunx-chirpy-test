@@ -1,6 +1,6 @@
 ---
 id: 933
-title: 'At the airport and through sec...'
+title: 'At the airport and through sec'
 date: '2009-05-02T05:54:11-04:00'
 author: DizkoDan
 layout: post

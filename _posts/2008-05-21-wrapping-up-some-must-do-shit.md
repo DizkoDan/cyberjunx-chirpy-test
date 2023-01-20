@@ -1,6 +1,6 @@
 ---
 id: 409
-title: 'Wrapping up some must do shit ...'
+title: 'Wrapping up some must do shit '
 date: '2008-05-21T08:59:34-04:00'
 author: DizkoDan
 layout: post

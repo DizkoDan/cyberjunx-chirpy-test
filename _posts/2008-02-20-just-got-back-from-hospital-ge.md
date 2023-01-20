@@ -1,6 +1,6 @@
 ---
 id: 309
-title: 'Just got back from hospital ge...'
+title: 'Just got back from hospital ge'
 date: '2008-02-20T14:30:00-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/20/just-got-back-from-hospital-ge/'

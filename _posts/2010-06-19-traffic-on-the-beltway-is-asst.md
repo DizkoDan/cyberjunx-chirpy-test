@@ -1,6 +1,6 @@
 ---
 id: 1167
-title: 'Traffic on the beltway is asst...'
+title: 'Traffic on the beltway is asst'
 date: '2010-06-19T11:37:40-04:00'
 author: DizkoDan
 layout: post

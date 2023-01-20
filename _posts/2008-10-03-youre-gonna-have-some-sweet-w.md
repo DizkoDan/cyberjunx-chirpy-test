@@ -1,6 +1,6 @@
 ---
 id: 535
-title: 'You're gonna have some sweet w...'
+title: 'You're gonna have some sweet w'
 date: '2008-10-03T17:18:55-04:00'
 author: DizkoDan
 layout: post

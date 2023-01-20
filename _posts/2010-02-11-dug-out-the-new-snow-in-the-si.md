@@ -1,6 +1,6 @@
 ---
 id: 1104
-title: 'Dug out the new snow in the si...'
+title: 'Dug out the new snow in the si'
 date: '2010-02-11T11:02:52-04:00'
 author: DizkoDan
 layout: post

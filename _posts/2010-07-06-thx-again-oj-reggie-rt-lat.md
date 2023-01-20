@@ -1,6 +1,6 @@
 ---
 id: 1182
-title: 'Thx again OJ &amp; Reggie: RT @LAT...'
+title: 'Thx again OJ &amp; Reggie: RT @LAT'
 date: '2010-07-06T16:38:18-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 550
-title: 'Just landed at dulles. Yay! Ho...'
+title: 'Just landed at dulles. Yay! Ho'
 date: '2008-10-15T23:17:19-04:00'
 author: DizkoDan
 layout: post

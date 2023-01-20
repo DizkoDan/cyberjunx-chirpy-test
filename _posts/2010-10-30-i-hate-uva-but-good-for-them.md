@@ -1,6 +1,6 @@
 ---
 id: 1460
-title: 'I hate UVA, but good for them ...'
+title: 'I hate UVA, but good for them '
 date: '2010-10-30T15:21:58-04:00'
 author: DizkoDan
 layout: post

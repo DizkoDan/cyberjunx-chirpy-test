@@ -1,6 +1,6 @@
 ---
 id: 366
-title: 'Taxes are done. Actually getti...'
+title: 'Taxes are done. Actually getti'
 date: '2008-04-10T20:23:16-04:00'
 author: DizkoDan
 layout: post

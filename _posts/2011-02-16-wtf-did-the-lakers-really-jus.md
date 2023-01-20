@@ -1,6 +1,6 @@
 ---
 id: 1531
-title: 'WTF? Did the lakers really jus...'
+title: 'WTF? Did the lakers really jus'
 date: '2011-02-16T23:10:50-04:00'
 author: DizkoDan
 layout: post

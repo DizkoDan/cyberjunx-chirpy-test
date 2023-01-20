@@ -1,6 +1,6 @@
 ---
 id: 219
-title: 'Dear londom trash guys, it was...'
+title: 'Dear londom trash guys, it was'
 date: '2007-12-16T03:32:36-04:00'
 author: DizkoDan
 layout: post

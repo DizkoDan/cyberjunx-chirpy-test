@@ -1,6 +1,6 @@
 ---
 id: 983
-title: 'Wishing I was on a beach somew...'
+title: 'Wishing I was on a beach somew'
 date: '2009-06-17T18:27:58-04:00'
 author: DizkoDan
 layout: post

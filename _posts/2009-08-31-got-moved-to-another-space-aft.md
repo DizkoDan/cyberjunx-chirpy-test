@@ -1,6 +1,6 @@
 ---
 id: 1029
-title: 'got moved to another space aft...'
+title: 'got moved to another space aft'
 date: '2009-08-31T10:59:46-04:00'
 author: DizkoDan
 layout: post

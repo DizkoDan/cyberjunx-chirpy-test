@@ -1,6 +1,6 @@
 ---
 id: 482
-title: '@moosifer you have to watch de...'
+title: '@moosifer you have to watch de'
 date: '2008-07-16T21:09:33-04:00'
 author: DizkoDan
 layout: post

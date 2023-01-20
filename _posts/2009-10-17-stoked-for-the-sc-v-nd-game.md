@@ -1,6 +1,6 @@
 ---
 id: 1061
-title: 'Stoked for the SC v. ND game. ...'
+title: 'Stoked for the SC v. ND game. '
 date: '2009-10-17T15:37:35-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 626
-title: 'is ready for the long weekend ...'
+title: 'is ready for the long weekend '
 date: '2008-12-23T11:54:26-04:00'
 author: DizkoDan
 layout: post

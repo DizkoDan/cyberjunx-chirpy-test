@@ -1,6 +1,6 @@
 ---
 id: 586
-title: 'The caps need more goons. Defi...'
+title: 'The caps need more goons. Defi'
 date: '2008-11-10T21:09:05-04:00'
 author: DizkoDan
 layout: post

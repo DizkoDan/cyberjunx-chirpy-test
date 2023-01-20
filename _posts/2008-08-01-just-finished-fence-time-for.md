@@ -1,6 +1,6 @@
 ---
 id: 499
-title: 'Just finished fence. Time for ...'
+title: 'Just finished fence. Time for '
 date: '2008-08-01T15:02:50-04:00'
 author: DizkoDan
 layout: post

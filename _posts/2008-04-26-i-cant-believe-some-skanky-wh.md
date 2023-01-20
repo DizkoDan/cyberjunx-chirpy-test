@@ -1,6 +1,6 @@
 ---
 id: 385
-title: 'I can't believe some skanky wh...'
+title: 'I can't believe some skanky wh'
 date: '2008-04-26T22:20:57-04:00'
 author: DizkoDan
 layout: post

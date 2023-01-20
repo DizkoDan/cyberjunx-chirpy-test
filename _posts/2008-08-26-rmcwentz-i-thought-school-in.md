@@ -1,6 +1,6 @@
 ---
 id: 514
-title: '@rmcwentz I thought school in ...'
+title: '@rmcwentz I thought school in '
 date: '2008-08-26T10:50:46-04:00'
 author: DizkoDan
 layout: post

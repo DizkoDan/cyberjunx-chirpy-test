@@ -1,6 +1,6 @@
 ---
 id: 424
-title: 'The weather has been pretty ni...'
+title: 'The weather has been pretty ni'
 date: '2008-05-25T03:40:56-04:00'
 author: DizkoDan
 layout: post

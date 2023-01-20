@@ -1,6 +1,6 @@
 ---
 id: 256
-title: 'in case anyone needed a remind...'
+title: 'in case anyone needed a reminder'
 date: '2007-12-20T08:20:54-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/20/in-case-anyone-needed-a-remind/'

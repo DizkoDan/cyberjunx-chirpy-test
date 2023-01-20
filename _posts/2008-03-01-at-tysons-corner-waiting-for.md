@@ -1,6 +1,6 @@
 ---
 id: 323
-title: 'At tysons corner, waiting for ...'
+title: 'At tysons corner, waiting for '
 date: '2008-03-01T14:50:09-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/01/at-tysons-corner-waiting-for/'

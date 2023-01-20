@@ -1,6 +1,6 @@
 ---
 id: 563
-title: '@Moosifer sad, cuz he had lost...'
+title: '@Moosifer sad, cuz he had lost'
 date: '2008-10-24T20:57:32-04:00'
 author: DizkoDan
 layout: post

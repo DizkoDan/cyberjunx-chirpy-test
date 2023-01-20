@@ -1,6 +1,6 @@
 ---
 id: 915
-title: 'My dogs *really* like honey nu...'
+title: 'My dogs *really* like honey nu'
 date: '2009-04-10T10:23:50-04:00'
 author: DizkoDan
 layout: post

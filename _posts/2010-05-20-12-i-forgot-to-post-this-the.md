@@ -1,6 +1,6 @@
 ---
 id: 1147
-title: '1/2: I forgot to post this the...'
+title: '1/2: I forgot to post this the'
 date: '2010-05-20T07:55:12-04:00'
 author: DizkoDan
 layout: post

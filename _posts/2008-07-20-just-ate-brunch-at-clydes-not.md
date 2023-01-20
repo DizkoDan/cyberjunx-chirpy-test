@@ -1,6 +1,6 @@
 ---
 id: 493
-title: 'Just ate brunch at clydes. Not...'
+title: 'Just ate brunch at clydes. Not'
 date: '2008-07-20T13:03:22-04:00'
 author: DizkoDan
 layout: post

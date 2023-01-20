@@ -1,6 +1,6 @@
 ---
 id: 611
-title: 'going to potomac mills for lac...'
+title: 'going to potomac mills for lac'
 date: '2008-12-07T13:25:19-04:00'
 author: DizkoDan
 layout: post

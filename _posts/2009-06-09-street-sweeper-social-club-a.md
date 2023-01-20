@@ -1,6 +1,6 @@
 ---
 id: 976
-title: 'Street sweeper social club = a...'
+title: 'Street sweeper social club = a'
 date: '2009-06-09T19:14:59-04:00'
 author: DizkoDan
 layout: post

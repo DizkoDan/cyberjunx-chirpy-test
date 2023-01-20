@@ -1,6 +1,6 @@
 ---
 id: 926
-title: 'Who exactly gets their teeth w...'
+title: 'Who exactly gets their teeth w'
 date: '2009-04-24T19:06:22-04:00'
 author: DizkoDan
 layout: post

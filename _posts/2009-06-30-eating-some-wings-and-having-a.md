@@ -1,6 +1,6 @@
 ---
 id: 987
-title: 'Eating some wings and having a...'
+title: 'Eating some wings and having a'
 date: '2009-06-30T13:48:07-04:00'
 author: DizkoDan
 layout: post

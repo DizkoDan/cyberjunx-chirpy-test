@@ -1,6 +1,6 @@
 ---
 id: 444
-title: 'Made it to the hotel. We got t...'
+title: 'Made it to the hotel. We got t'
 date: '2008-06-07T19:18:51-04:00'
 author: DizkoDan
 layout: post

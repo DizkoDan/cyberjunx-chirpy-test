@@ -1,6 +1,6 @@
 ---
 id: 1045
-title: 'Anthrax! Ham radio! And liquor...'
+title: 'Anthrax! Ham radio! And liquor'
 date: '2009-09-24T21:14:52-04:00'
 author: DizkoDan
 layout: post

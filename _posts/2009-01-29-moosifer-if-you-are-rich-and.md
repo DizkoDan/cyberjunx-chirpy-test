@@ -1,6 +1,6 @@
 ---
 id: 644
-title: '@Moosifer If you are rich and ...'
+title: '@Moosifer If you are rich and '
 date: '2009-01-29T15:57:06-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 895
-title: 'Wow! Its actually sunny and no...'
+title: 'Wow! Its actually sunny and no'
 date: '2009-03-18T15:22:21-04:00'
 author: DizkoDan
 layout: post

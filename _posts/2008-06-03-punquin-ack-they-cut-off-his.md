@@ -1,6 +1,6 @@
 ---
 id: 434
-title: '@punquin ACK! they cut off his...'
+title: '@punquin ACK! they cut off his'
 date: '2008-06-03T09:41:22-04:00'
 author: DizkoDan
 layout: post

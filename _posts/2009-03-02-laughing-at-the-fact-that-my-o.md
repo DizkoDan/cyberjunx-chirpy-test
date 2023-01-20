@@ -1,6 +1,6 @@
 ---
 id: 865
-title: 'Laughing at the fact that my o...'
+title: 'Laughing at the fact that my o'
 date: '2009-03-02T09:19:16-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1101
-title: 'Lakeshow! There's actually a p...'
+title: 'Lakeshow! There's actually a p'
 date: '2010-01-26T20:30:04-04:00'
 author: DizkoDan
 layout: post

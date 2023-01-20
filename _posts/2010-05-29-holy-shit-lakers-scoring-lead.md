@@ -1,6 +1,6 @@
 ---
 id: 1154
-title: 'Holy shit! Lakers scoring lead...'
+title: 'Holy shit! Lakers scoring lead'
 date: '2010-05-29T21:47:40-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 457
-title: 'Having indian food since "some...'
+title: 'Having indian food since "some'
 date: '2008-06-16T20:24:54-04:00'
 author: DizkoDan
 layout: post

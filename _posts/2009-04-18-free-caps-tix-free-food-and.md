@@ -1,6 +1,6 @@
 ---
 id: 919
-title: 'Free caps tix + free food and ...'
+title: 'Free caps tix + free food and '
 date: '2009-04-18T11:56:46-04:00'
 author: DizkoDan
 layout: post

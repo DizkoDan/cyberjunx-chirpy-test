@@ -1,6 +1,6 @@
 ---
 id: 1500
-title: 'hahaha so apparently the heat ...'
+title: 'hahaha so apparently the heat '
 date: '2010-12-18T22:39:04-04:00'
 author: DizkoDan
 layout: post

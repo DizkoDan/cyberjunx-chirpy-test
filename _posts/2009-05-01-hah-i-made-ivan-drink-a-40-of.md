@@ -1,6 +1,6 @@
 ---
 id: 932
-title: 'Hah! I made Ivan drink a 40 of...'
+title: 'Hah! I made Ivan drink a 40 of'
 date: '2009-05-01T18:12:23-04:00'
 author: DizkoDan
 layout: post

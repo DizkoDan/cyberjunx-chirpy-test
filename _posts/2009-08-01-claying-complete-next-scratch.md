@@ -1,6 +1,6 @@
 ---
 id: 1012
-title: 'Claying complete. Next scratch...'
+title: 'Claying complete. Next scratch'
 date: '2009-08-01T14:12:06-04:00'
 author: DizkoDan
 layout: post

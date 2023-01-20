@@ -1,6 +1,6 @@
 ---
 id: 227
-title: 'Pete totally just read some be...'
+title: 'Pete totally just read some be'
 date: '2007-12-15T18:10:52-04:00'
 author: DizkoDan
 layout: post

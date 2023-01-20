@@ -1,6 +1,6 @@
 ---
 id: 35
-title: 'beers, steers, and queers....'
+title: 'beers, steers, and queers.'
 date: '2003-03-09T22:27:00-04:00'
 author: DizkoDan
 layout: post

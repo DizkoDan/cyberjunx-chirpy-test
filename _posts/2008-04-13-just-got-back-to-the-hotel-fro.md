@@ -1,6 +1,6 @@
 ---
 id: 369
-title: 'just got back to the hotel fro...'
+title: 'just got back to the hotel fro'
 date: '2008-04-13T02:08:35-04:00'
 author: DizkoDan
 layout: post

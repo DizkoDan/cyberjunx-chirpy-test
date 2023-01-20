@@ -1,6 +1,6 @@
 ---
 id: 1041
-title: 'Wow! Corp can suck it! So disa...'
+title: 'Wow! Corp can suck it! So disa'
 date: '2009-09-19T18:50:35-04:00'
 author: DizkoDan
 layout: post

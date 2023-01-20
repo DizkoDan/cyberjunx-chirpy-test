@@ -1,6 +1,6 @@
 ---
 id: 1153
-title: 'They are finally building a pf...'
+title: 'They are finally building a pf'
 date: '2010-05-27T19:17:53-04:00'
 author: DizkoDan
 layout: post

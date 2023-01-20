@@ -1,6 +1,6 @@
 ---
 id: 1110
-title: 'Wow! Huet sucks. How do you gi...'
+title: 'Wow! Huet sucks. How do you gi'
 date: '2010-03-07T14:50:01-04:00'
 author: DizkoDan
 layout: post

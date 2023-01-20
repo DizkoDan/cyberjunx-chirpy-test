@@ -1,6 +1,6 @@
 ---
 id: 365
-title: '@meltoids isn't that called &amp;q...'
+title: '@meltoids isn't that called &amp;q'
 date: '2008-04-10T11:22:08-04:00'
 author: DizkoDan
 layout: post

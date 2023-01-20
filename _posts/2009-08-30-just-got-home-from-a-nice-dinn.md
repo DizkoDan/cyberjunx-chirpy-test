@@ -1,6 +1,6 @@
 ---
 id: 1027
-title: 'Just got home from a nice dinn...'
+title: 'Just got home from a nice dinn'
 date: '2009-08-30T20:55:46-04:00'
 author: DizkoDan
 layout: post

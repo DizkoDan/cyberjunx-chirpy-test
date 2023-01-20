@@ -1,6 +1,6 @@
 ---
 id: 968
-title: 'Finally watching 'capote' (whi...'
+title: 'Finally watching 'capote' (whi'
 date: '2009-06-02T18:20:54-04:00'
 author: DizkoDan
 layout: post

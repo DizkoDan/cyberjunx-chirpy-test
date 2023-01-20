@@ -1,6 +1,6 @@
 ---
 id: 986
-title: 'He-brew = the best beer name e...'
+title: 'He-brew = the best beer name e'
 date: '2009-06-28T15:30:19-04:00'
 author: DizkoDan
 layout: post

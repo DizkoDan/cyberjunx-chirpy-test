@@ -1,6 +1,6 @@
 ---
 id: 963
-title: 'is very disappointed in the pe...'
+title: 'is very disappointed in the pe'
 date: '2009-05-26T00:00:52-04:00'
 author: DizkoDan
 layout: post

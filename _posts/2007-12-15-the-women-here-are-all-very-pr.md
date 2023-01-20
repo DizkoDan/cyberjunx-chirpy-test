@@ -1,6 +1,6 @@
 ---
 id: 231
-title: 'The women here are all very pr...'
+title: 'The women here are all very pr'
 date: '2007-12-15T16:48:07-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 368
-title: 'Just landed in LA. Gonna go ha...'
+title: 'Just landed in LA. Gonna go ha'
 date: '2008-04-12T12:25:14-04:00'
 author: DizkoDan
 layout: post

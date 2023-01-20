@@ -1,6 +1,6 @@
 ---
 id: 1053
-title: 'I love Bret Favre and all, but...'
+title: 'I love Bret Favre and all, but'
 date: '2009-10-05T21:43:18-04:00'
 author: DizkoDan
 layout: post

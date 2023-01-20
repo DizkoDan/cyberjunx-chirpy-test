@@ -1,6 +1,6 @@
 ---
 id: 1111
-title: 'Back at work today for the fir...'
+title: 'Back at work today for the fir'
 date: '2010-03-09T10:21:04-04:00'
 author: DizkoDan
 layout: post

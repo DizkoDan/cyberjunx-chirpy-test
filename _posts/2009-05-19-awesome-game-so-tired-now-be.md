@@ -1,6 +1,6 @@
 ---
 id: 956
-title: 'Awesome game! So tired now, be...'
+title: 'Awesome game! So tired now, be'
 date: '2009-05-19T23:53:18-04:00'
 author: DizkoDan
 layout: post

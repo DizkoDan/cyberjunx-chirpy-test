@@ -1,6 +1,6 @@
 ---
 id: 1105
-title: 'I'm seriously gonna cry like a...'
+title: 'I'm seriously gonna cry like a'
 date: '2010-02-08T20:37:02-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 502
-title: 'wtf?!?! I just read an article...'
+title: 'wtf?!?! I just read an article'
 date: '2008-08-06T09:45:49-04:00'
 author: DizkoDan
 layout: post

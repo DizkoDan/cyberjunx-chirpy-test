@@ -1,6 +1,6 @@
 ---
 id: 1055
-title: 'Stuffed full of indian food. S...'
+title: 'Stuffed full of indian food. S'
 date: '2009-10-09T21:05:07-04:00'
 author: DizkoDan
 layout: post

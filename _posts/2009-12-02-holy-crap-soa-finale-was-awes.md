@@ -1,6 +1,6 @@
 ---
 id: 1083
-title: 'Holy crap! SoA finale was awes...'
+title: 'Holy crap! SoA finale was awes'
 date: '2009-12-02T21:23:30-04:00'
 author: DizkoDan
 layout: post

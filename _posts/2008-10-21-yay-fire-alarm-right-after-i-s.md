@@ -1,6 +1,6 @@
 ---
 id: 559
-title: 'Yay fire alarm right after I s...'
+title: 'Yay fire alarm right after I s'
 date: '2008-10-21T08:35:12-04:00'
 author: DizkoDan
 layout: post

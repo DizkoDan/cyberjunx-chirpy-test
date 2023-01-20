@@ -1,6 +1,6 @@
 ---
 id: 897
-title: 'wishing that the weekend would...'
+title: 'wishing that the weekend would'
 date: '2009-03-26T14:48:19-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1433
-title: 'What is the deal with people u...'
+title: 'What is the deal with people u'
 date: '2010-09-16T10:06:00-04:00'
 author: DizkoDan
 layout: post

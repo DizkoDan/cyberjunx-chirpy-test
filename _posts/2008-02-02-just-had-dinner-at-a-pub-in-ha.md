@@ -1,6 +1,6 @@
 ---
 id: 291
-title: 'Just had dinner at a pub in ha...'
+title: 'Just had dinner at a pub in ha'
 date: '2008-02-02T15:39:56-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/02/just-had-dinner-at-a-pub-in-ha/'

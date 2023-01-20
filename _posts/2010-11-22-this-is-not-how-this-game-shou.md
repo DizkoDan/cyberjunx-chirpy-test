@@ -1,6 +1,6 @@
 ---
 id: 1477
-title: 'This is not how this game shou...'
+title: 'This is not how this game shou'
 date: '2010-11-22T21:13:20-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 395
-title: 'At ruby tuesday for dinner. Re...'
+title: 'At ruby tuesday for dinner. Re'
 date: '2008-05-12T21:17:23-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1090
-title: 'I really like the wings @mains...'
+title: 'I really like the wings @mains'
 date: '2009-12-17T17:55:25-04:00'
 author: DizkoDan
 layout: post

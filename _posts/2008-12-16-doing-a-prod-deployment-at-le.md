@@ -1,6 +1,6 @@
 ---
 id: 618
-title: 'doing a prod deployment. at le...'
+title: 'doing a prod deployment. at le'
 date: '2008-12-16T03:24:24-04:00'
 author: DizkoDan
 layout: post

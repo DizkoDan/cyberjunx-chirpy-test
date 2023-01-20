@@ -1,6 +1,6 @@
 ---
 id: 1462
-title: 'Big day for texas college foot...'
+title: 'Big day for texas college foot'
 date: '2010-11-06T23:39:06-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 927
-title: 'Watchin the caps game and maki...'
+title: 'Watchin the caps game and maki'
 date: '2009-04-26T15:00:59-04:00'
 author: DizkoDan
 layout: post

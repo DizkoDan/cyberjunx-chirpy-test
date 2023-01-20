@@ -1,6 +1,6 @@
 ---
 id: 1457
-title: 'Apparently my neighborhood is ...'
+title: 'Apparently my neighborhood is '
 date: '2010-10-27T19:51:50-04:00'
 author: DizkoDan
 layout: post

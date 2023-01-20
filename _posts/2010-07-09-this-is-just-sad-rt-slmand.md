@@ -1,6 +1,6 @@
 ---
 id: 1183
-title: 'this is just sad... RT @slmand...'
+title: 'this is just sad... RT @slmand'
 date: '2010-07-09T10:35:51-04:00'
 author: DizkoDan
 layout: post

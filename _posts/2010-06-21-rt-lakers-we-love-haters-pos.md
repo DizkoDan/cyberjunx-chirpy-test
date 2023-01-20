@@ -1,6 +1,6 @@
 ---
 id: 1174
-title: 'RT @Lakers: WE LOVE HATERS pos...'
+title: 'RT @Lakers: WE LOVE HATERS pos'
 date: '2010-06-21T10:39:15-04:00'
 author: DizkoDan
 layout: post

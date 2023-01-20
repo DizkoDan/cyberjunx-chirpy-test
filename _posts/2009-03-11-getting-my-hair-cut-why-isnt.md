@@ -1,6 +1,6 @@
 ---
 id: 878
-title: 'Getting my hair cut. Why isn't...'
+title: 'Getting my hair cut. Why isn't'
 date: '2009-03-11T15:59:35-04:00'
 author: DizkoDan
 layout: post

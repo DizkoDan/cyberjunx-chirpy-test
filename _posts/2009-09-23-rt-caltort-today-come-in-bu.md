@@ -1,6 +1,6 @@
 ---
 id: 1044
-title: 'RT: @caltort Today Come in, bu...'
+title: 'RT: @caltort Today Come in, bu'
 date: '2009-09-23T11:51:41-04:00'
 author: DizkoDan
 layout: post

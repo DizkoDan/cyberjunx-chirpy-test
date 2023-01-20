@@ -1,6 +1,6 @@
 ---
 id: 1249
-title: 'Why do corporate IT groups fin...'
+title: 'Why do corporate IT groups fin'
 date: '2010-08-20T06:54:23-04:00'
 author: DizkoDan
 layout: post

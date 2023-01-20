@@ -1,6 +1,6 @@
 ---
 id: 1059
-title: 'Is there such a thing as too m...'
+title: 'Is there such a thing as too m'
 date: '2009-10-15T17:58:36-04:00'
 author: DizkoDan
 layout: post

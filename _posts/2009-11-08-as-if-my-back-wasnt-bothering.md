@@ -1,6 +1,6 @@
 ---
 id: 1069
-title: 'As if my back wasn't bothering...'
+title: 'As if my back wasn't bothering'
 date: '2009-11-08T17:13:21-04:00'
 author: DizkoDan
 layout: post

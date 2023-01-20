@@ -1,6 +1,6 @@
 ---
 id: 561
-title: 'Holy crap I love costco! 2.45/...'
+title: 'Holy crap I love costco! 2.45/'
 date: '2008-10-23T17:19:49-04:00'
 author: DizkoDan
 layout: post

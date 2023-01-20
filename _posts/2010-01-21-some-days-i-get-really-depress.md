@@ -1,6 +1,6 @@
 ---
 id: 1099
-title: 'Some days I get really depress...'
+title: 'Some days I get really depress'
 date: '2010-01-21T17:47:54-04:00'
 author: DizkoDan
 layout: post

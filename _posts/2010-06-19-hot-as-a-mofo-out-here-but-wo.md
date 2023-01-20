@@ -1,6 +1,6 @@
 ---
 id: 1168
-title: 'Hot as a mofo out here, but wo...'
+title: 'Hot as a mofo out here, but wo'
 date: '2010-06-19T14:02:02-04:00'
 author: DizkoDan
 layout: post

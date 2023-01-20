@@ -1,6 +1,6 @@
 ---
 id: 318
-title: 'Think i'm gonna barf drinking ...'
+title: 'Think i'm gonna barf drinking '
 date: '2008-02-28T08:54:05-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/28/think-im-gonna-barf-drinking/'

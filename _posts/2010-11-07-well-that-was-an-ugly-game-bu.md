@@ -1,6 +1,6 @@
 ---
 id: 1463
-title: 'Well that was an ugly game, bu...'
+title: 'Well that was an ugly game, bu'
 date: '2010-11-07T01:54:42-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 290
-title: 'Waiting for a bus to take me t...'
+title: 'Waiting for a bus to take me t'
 date: '2008-02-02T04:26:47-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/02/waiting-for-a-bus-to-take-me-t/'

@@ -1,6 +1,6 @@
 ---
 id: 287
-title: 'Drinking a beer. Tired of work...'
+title: 'Drinking a beer. Tired of work'
 date: '2008-01-23T20:06:00-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/01/23/drinking-a-beer-tired-of-work/'

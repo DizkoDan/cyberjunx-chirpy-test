@@ -1,6 +1,6 @@
 ---
 id: 630
-title: 'is excited for the rose bowl. ...'
+title: 'is excited for the rose bowl. '
 date: '2009-01-01T17:41:53-04:00'
 author: DizkoDan
 layout: post

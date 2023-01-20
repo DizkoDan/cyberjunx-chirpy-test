@@ -1,6 +1,6 @@
 ---
 id: 1467
-title: 'Jim haslett just pulled into t...'
+title: 'Jim haslett just pulled into t'
 date: '2010-11-12T16:43:30-04:00'
 author: DizkoDan
 layout: post

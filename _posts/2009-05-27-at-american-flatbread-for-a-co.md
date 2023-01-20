@@ -1,6 +1,6 @@
 ---
 id: 964
-title: 'At american flatbread for a co...'
+title: 'At american flatbread for a co'
 date: '2009-05-27T19:15:47-04:00'
 author: DizkoDan
 layout: post

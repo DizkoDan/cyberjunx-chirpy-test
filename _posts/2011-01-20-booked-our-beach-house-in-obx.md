@@ -1,6 +1,6 @@
 ---
 id: 1514
-title: 'Booked our beach house in OBX ...'
+title: 'Booked our beach house in OBX '
 date: '2011-01-20T09:07:20-04:00'
 author: DizkoDan
 layout: post

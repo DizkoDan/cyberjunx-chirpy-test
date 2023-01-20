@@ -1,6 +1,6 @@
 ---
 id: 512
-title: 'Took today and tomorrow off cu...'
+title: 'Took today and tomorrow off cu'
 date: '2008-08-21T10:26:52-04:00'
 author: DizkoDan
 layout: post

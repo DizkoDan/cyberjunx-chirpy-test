@@ -1,6 +1,6 @@
 ---
 id: 946
-title: 'back at work today. wish I was...'
+title: 'back at work today. wish I was'
 date: '2009-05-11T07:16:49-04:00'
 author: DizkoDan
 layout: post

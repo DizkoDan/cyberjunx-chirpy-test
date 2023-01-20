@@ -1,6 +1,6 @@
 ---
 id: 1199
-title: 'RT @JetBlue: Back by VERY popu...'
+title: 'RT @JetBlue: Back by VERY popu'
 date: '2010-08-17T09:25:24-04:00'
 author: DizkoDan
 layout: post

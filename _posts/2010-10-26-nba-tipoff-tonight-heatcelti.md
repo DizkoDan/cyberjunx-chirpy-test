@@ -1,6 +1,6 @@
 ---
 id: 1454
-title: 'NBA tipoff tonight. Heat/Celti...'
+title: 'NBA tipoff tonight. Heat/Celti'
 date: '2010-10-26T19:03:32-04:00'
 author: DizkoDan
 layout: post

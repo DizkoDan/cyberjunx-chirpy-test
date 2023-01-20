@@ -1,6 +1,6 @@
 ---
 id: 615
-title: 'starving! waiting for pizza to...'
+title: 'starving! waiting for pizza to'
 date: '2008-12-11T19:48:31-04:00'
 author: DizkoDan
 layout: post

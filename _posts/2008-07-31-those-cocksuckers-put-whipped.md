@@ -1,6 +1,6 @@
 ---
 id: 497
-title: 'Those cocksuckers put whipped ...'
+title: 'Those cocksuckers put whipped '
 date: '2008-07-31T20:00:50-04:00'
 author: DizkoDan
 layout: post

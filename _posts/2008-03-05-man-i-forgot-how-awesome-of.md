@@ -1,6 +1,6 @@
 ---
 id: 326
-title: 'Man... I forgot how awesome of...'
+title: 'Man... I forgot how awesome of'
 date: '2008-03-05T15:31:28-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/05/man-i-forgot-how-awesome-of/'

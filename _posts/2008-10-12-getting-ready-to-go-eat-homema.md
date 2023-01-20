@@ -1,6 +1,6 @@
 ---
 id: 539
-title: 'Getting ready to go eat homema...'
+title: 'Getting ready to go eat homema'
 date: '2008-10-12T21:41:09-04:00'
 author: DizkoDan
 layout: post

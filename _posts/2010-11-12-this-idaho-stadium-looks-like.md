@@ -1,6 +1,6 @@
 ---
 id: 1468
-title: 'This Idaho stadium looks like ...'
+title: 'This Idaho stadium looks like '
 date: '2010-11-12T22:12:17-04:00'
 author: DizkoDan
 layout: post

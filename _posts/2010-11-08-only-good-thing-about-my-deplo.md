@@ -1,6 +1,6 @@
 ---
 id: 1465
-title: 'Only good thing about my deplo...'
+title: 'Only good thing about my deplo'
 date: '2010-11-08T14:23:15-04:00'
 author: DizkoDan
 layout: post

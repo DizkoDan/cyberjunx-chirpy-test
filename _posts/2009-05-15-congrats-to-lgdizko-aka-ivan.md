@@ -1,6 +1,6 @@
 ---
 id: 951
-title: 'Congrats to @lgdizko aka Ivan ...'
+title: 'Congrats to @lgdizko aka Ivan '
 date: '2009-05-15T07:13:23-04:00'
 author: DizkoDan
 layout: post

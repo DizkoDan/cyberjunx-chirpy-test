@@ -1,6 +1,6 @@
 ---
 id: 1511
-title: 'I'm gonna be the syrup, she ca...'
+title: 'I'm gonna be the syrup, she ca'
 date: '2011-01-11T07:05:16-04:00'
 author: DizkoDan
 layout: post

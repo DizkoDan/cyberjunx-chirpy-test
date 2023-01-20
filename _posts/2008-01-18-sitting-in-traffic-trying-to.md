@@ -1,6 +1,6 @@
 ---
 id: 286
-title: 'Sitting in traffic, trying to ...'
+title: 'Sitting in traffic, trying to '
 date: '2008-01-18T18:32:00-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/01/18/sitting-in-traffic-trying-to/'

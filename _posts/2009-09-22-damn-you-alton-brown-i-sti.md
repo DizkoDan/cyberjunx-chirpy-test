@@ -1,6 +1,6 @@
 ---
 id: 1042
-title: 'Damn you Alton Brown.... I sti...'
+title: 'Damn you Alton Brown.... I sti'
 date: '2009-09-22T07:21:05-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 500
-title: 'sitting outside working at sta...'
+title: 'sitting outside working at sta'
 date: '2008-08-05T10:10:35-04:00'
 author: DizkoDan
 layout: post

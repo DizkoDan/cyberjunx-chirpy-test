@@ -1,6 +1,6 @@
 ---
 id: 657
-title: 'has been at work for an hour a...'
+title: 'has been at work for an hour a'
 date: '2009-02-03T06:12:43-04:00'
 author: DizkoDan
 layout: post

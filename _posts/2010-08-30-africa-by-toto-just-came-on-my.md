@@ -1,6 +1,6 @@
 ---
 id: 1399
-title: 'Africa by Toto just came on my...'
+title: 'Africa by Toto just came on my'
 date: '2010-08-30T23:29:58-04:00'
 author: DizkoDan
 layout: post

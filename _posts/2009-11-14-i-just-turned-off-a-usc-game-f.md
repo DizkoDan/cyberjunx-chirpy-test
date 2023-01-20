@@ -1,6 +1,6 @@
 ---
 id: 1073
-title: 'I just turned off a usc game f...'
+title: 'I just turned off a usc game f'
 date: '2009-11-14T19:30:49-04:00'
 author: DizkoDan
 layout: post

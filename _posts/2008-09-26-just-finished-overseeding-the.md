@@ -1,6 +1,6 @@
 ---
 id: 531
-title: 'Just finished overseeding the ...'
+title: 'Just finished overseeding the '
 date: '2008-09-26T15:57:53-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1186
-title: 'Finally got my Incredible toda...'
+title: 'Finally got my Incredible toda'
 date: '2010-07-14T14:24:25-04:00'
 author: DizkoDan
 layout: post

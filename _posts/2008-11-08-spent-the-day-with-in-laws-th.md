@@ -1,6 +1,6 @@
 ---
 id: 583
-title: 'spent the day with in-laws, th...'
+title: 'spent the day with in-laws, th'
 date: '2008-11-08T22:53:09-04:00'
 author: DizkoDan
 layout: post

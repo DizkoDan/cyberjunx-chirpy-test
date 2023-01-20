@@ -1,6 +1,6 @@
 ---
 id: 261
-title: 'Security at heathrow is such a...'
+title: 'Security at heathrow is such a'
 date: '2007-12-21T05:41:59-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/21/security-at-heathrow-is-such-a/'

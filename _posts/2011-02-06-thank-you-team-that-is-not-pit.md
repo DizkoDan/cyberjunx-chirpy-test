@@ -1,6 +1,6 @@
 ---
 id: 1527
-title: 'thank you team that is not pit...'
+title: 'thank you team that is not pit'
 date: '2011-02-06T23:07:13-04:00'
 author: DizkoDan
 layout: post

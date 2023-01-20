@@ -1,6 +1,6 @@
 ---
 id: 943
-title: 'Had an awesome dinnwr at c &amp; o...'
+title: 'Had an awesome dinnwr at c &amp; o'
 date: '2009-05-07T23:49:25-04:00'
 author: DizkoDan
 layout: post

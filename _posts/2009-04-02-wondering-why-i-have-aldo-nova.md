@@ -1,6 +1,6 @@
 ---
 id: 907
-title: 'Wondering why I have Aldo Nova...'
+title: 'Wondering why I have Aldo Nova'
 date: '2009-04-02T18:02:14-04:00'
 author: DizkoDan
 layout: post

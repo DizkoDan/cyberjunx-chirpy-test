@@ -1,6 +1,6 @@
 ---
 id: 485
-title: 'Couldn't get back to sleep, so...'
+title: 'Couldn't get back to sleep, so'
 date: '2008-07-18T05:24:55-04:00'
 author: DizkoDan
 layout: post

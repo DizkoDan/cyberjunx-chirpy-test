@@ -1,6 +1,6 @@
 ---
 id: 462
-title: 'I hate it when I'm asked to go...'
+title: 'I hate it when I'm asked to go'
 date: '2008-06-26T15:09:11-04:00'
 author: DizkoDan
 layout: post

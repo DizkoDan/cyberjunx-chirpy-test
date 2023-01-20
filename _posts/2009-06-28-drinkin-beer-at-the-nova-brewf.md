@@ -1,6 +1,6 @@
 ---
 id: 985
-title: 'Drinkin beer at the nova brewf...'
+title: 'Drinkin beer at the nova brewf'
 date: '2009-06-28T14:04:32-04:00'
 author: DizkoDan
 layout: post

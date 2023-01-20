@@ -1,6 +1,6 @@
 ---
 id: 1179
-title: 'Guess who just got called to w...'
+title: 'Guess who just got called to w'
 date: '2010-07-02T15:33:04-04:00'
 author: DizkoDan
 layout: post

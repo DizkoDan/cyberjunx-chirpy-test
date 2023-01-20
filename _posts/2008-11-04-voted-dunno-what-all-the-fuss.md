@@ -1,6 +1,6 @@
 ---
 id: 578
-title: 'Voted. Dunno what all the fuss...'
+title: 'Voted. Dunno what all the fuss'
 date: '2008-11-04T21:28:02-04:00'
 author: DizkoDan
 layout: post

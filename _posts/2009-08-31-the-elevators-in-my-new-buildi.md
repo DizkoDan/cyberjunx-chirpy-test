@@ -1,6 +1,6 @@
 ---
 id: 1030
-title: 'the elevators in my new buildi...'
+title: 'the elevators in my new buildi'
 date: '2009-08-31T23:24:32-04:00'
 author: DizkoDan
 layout: post

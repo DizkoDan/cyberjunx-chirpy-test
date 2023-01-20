@@ -1,6 +1,6 @@
 ---
 id: 1448
-title: 'This is the craziest football ...'
+title: 'This is the craziest football '
 date: '2010-10-03T23:06:43-04:00'
 author: DizkoDan
 layout: post

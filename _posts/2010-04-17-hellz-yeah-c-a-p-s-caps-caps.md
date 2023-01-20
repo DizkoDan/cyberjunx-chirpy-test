@@ -1,6 +1,6 @@
 ---
 id: 1122
-title: 'Hellz yeah! C-A-P-S caps! Caps...'
+title: 'Hellz yeah! C-A-P-S caps! Caps'
 date: '2010-04-17T21:53:19-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 979
-title: 'Home. Ready for relaxing weeke...'
+title: 'Home. Ready for relaxing weeke'
 date: '2009-06-12T16:27:50-04:00'
 author: DizkoDan
 layout: post

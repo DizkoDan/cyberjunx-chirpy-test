@@ -1,6 +1,6 @@
 ---
 id: 636
-title: 'haz finally conquered the cabl...'
+title: 'haz finally conquered the cabl'
 date: '2009-01-16T16:25:39-04:00'
 author: DizkoDan
 layout: post

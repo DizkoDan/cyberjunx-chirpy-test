@@ -16,6 +16,7 @@ tags:
     - DIY
     - 'Home Improvement'
     - Remodel
+pin: true
 ---
 
 Man, time really flies by. I’m about to start another bathroom remodel project, so I guess I should close out this one! As many of my friends know, I got super frustrated at the end of this one and just kinda walked away from it for a while. I’ll add details below, but where did I last leave off? Tiling the tub.

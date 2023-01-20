@@ -1,6 +1,6 @@
 ---
 id: 454
-title: 'My bro totally got me an acous...'
+title: 'My bro totally got me an acous'
 date: '2008-06-13T21:55:28-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1025
-title: 'RT: awesome metal album @amazo...'
+title: 'RT: awesome metal album @amazo'
 date: '2009-08-29T13:22:02-04:00'
 author: DizkoDan
 layout: post

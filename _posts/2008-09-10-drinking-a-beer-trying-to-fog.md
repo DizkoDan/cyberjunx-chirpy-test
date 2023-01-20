@@ -1,6 +1,6 @@
 ---
 id: 520
-title: 'Drinking a beer, trying to fog...'
+title: 'Drinking a beer, trying to fog'
 date: '2008-09-10T17:15:57-04:00'
 author: DizkoDan
 layout: post

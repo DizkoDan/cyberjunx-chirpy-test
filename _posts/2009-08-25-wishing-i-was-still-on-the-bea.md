@@ -1,6 +1,6 @@
 ---
 id: 1022
-title: 'Wishing I was still on the bea...'
+title: 'Wishing I was still on the bea'
 date: '2009-08-25T12:14:58-04:00'
 author: DizkoDan
 layout: post

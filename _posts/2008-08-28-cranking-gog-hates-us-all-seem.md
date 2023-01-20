@@ -1,6 +1,6 @@
 ---
 id: 516
-title: 'Cranking Gog Hates Us All seem...'
+title: 'Cranking Gog Hates Us All seem'
 date: '2008-08-28T19:14:34-04:00'
 author: DizkoDan
 layout: post

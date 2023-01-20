@@ -1,6 +1,6 @@
 ---
 id: 15
-title: 'Out with the old...'
+title: 'Out with the old'
 date: '2004-07-10T21:51:00-04:00'
 author: DizkoDan
 layout: post

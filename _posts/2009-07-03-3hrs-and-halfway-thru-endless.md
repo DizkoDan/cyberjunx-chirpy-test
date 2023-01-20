@@ -1,6 +1,6 @@
 ---
 id: 988
-title: '3hrs and halfway thru endless ...'
+title: '3hrs and halfway thru endless '
 date: '2009-07-03T14:17:52-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 551
-title: '@Moosifer chinese food is abso...'
+title: '@Moosifer chinese food is abso'
 date: '2008-10-16T20:04:02-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1176
-title: 'Really, watching soccer is abo...'
+title: 'Really, watching soccer is abo'
 date: '2010-06-25T14:52:03-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 8
-title: 'Straight smack a nigga right in the face like this was handball...'
+title: 'Straight smack a nigga right in the face like this was handball'
 date: '2004-12-06T09:07:00-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1106
-title: 'Baby had a bit of a rough nigh...'
+title: 'Baby had a bit of a rough nigh'
 date: '2010-02-06T13:24:47-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 601
-title: 'Life ain't easy for a boy name...'
+title: 'Life ain't easy for a boy name'
 date: '2008-11-25T14:25:16-04:00'
 author: DizkoDan
 layout: post

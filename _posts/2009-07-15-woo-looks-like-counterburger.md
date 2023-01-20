@@ -1,6 +1,6 @@
 ---
 id: 997
-title: 'woo! looks like @counterburger...'
+title: 'woo! looks like @counterburger'
 date: '2009-07-15T11:23:51-04:00'
 author: DizkoDan
 layout: post

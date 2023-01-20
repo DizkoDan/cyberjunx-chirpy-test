@@ -1,6 +1,6 @@
 ---
 id: 477
-title: 'Fuck crue! If it doesn't stop ...'
+title: 'Fuck crue! If it doesn't stop '
 date: '2008-07-13T19:16:32-04:00'
 author: DizkoDan
 layout: post

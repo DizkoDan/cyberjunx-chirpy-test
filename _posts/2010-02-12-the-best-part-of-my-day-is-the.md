@@ -1,6 +1,6 @@
 ---
 id: 1103
-title: 'The best part of my day is the...'
+title: 'The best part of my day is the'
 date: '2010-02-12T07:07:20-04:00'
 author: DizkoDan
 layout: post

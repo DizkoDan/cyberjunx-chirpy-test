@@ -1,6 +1,6 @@
 ---
 id: 872
-title: 'why the hell was traffic so F'...'
+title: 'why the hell was traffic so F''
 date: '2009-03-10T07:39:58-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1123
-title: 'Loving watching the habs fall ...'
+title: 'Loving watching the habs fall '
 date: '2010-04-19T20:42:07-04:00'
 author: DizkoDan
 layout: post

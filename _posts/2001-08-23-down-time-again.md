@@ -1,6 +1,6 @@
 ---
 id: 47
-title: 'Down time again...'
+title: 'Down time again'
 date: '2001-08-23T19:50:00-04:00'
 author: DizkoDan
 layout: post

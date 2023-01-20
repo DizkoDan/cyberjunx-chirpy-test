@@ -1,6 +1,6 @@
 ---
 id: 1172
-title: 'Woo! Kix is about to hit the s...'
+title: 'Woo! Kix is about to hit the s'
 date: '2010-06-19T16:44:01-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1470
-title: 'This line is fuckin sick: ovi,...'
+title: 'This line is fuckin sick: ovi,'
 date: '2010-11-14T20:35:25-04:00'
 author: DizkoDan
 layout: post

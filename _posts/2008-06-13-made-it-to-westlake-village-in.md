@@ -1,6 +1,6 @@
 ---
 id: 453
-title: 'Made it to westlake village in...'
+title: 'Made it to westlake village in'
 date: '2008-06-13T19:28:29-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1006
-title: 'There is very little 'talent' ...'
+title: 'There is very little 'talent' '
 date: '2009-07-28T19:35:56-04:00'
 author: DizkoDan
 layout: post

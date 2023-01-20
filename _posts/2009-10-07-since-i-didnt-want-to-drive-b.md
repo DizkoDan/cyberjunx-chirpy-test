@@ -1,6 +1,6 @@
 ---
 id: 1054
-title: 'Since I didn't want to drive b...'
+title: 'Since I didn't want to drive b'
 date: '2009-10-07T19:29:09-04:00'
 author: DizkoDan
 layout: post

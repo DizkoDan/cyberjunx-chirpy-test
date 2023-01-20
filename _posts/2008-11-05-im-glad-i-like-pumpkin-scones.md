@@ -1,6 +1,6 @@
 ---
 id: 579
-title: 'I'm glad I like pumpkin scones...'
+title: 'I'm glad I like pumpkin scones'
 date: '2008-11-05T10:03:09-04:00'
 author: DizkoDan
 layout: post

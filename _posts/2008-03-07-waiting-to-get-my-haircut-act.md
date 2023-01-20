@@ -1,6 +1,6 @@
 ---
 id: 329
-title: 'Waiting to get my haircut. Act...'
+title: 'Waiting to get my haircut. Act'
 date: '2008-03-07T16:19:53-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/07/waiting-to-get-my-haircut-act/'

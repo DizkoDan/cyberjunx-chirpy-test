@@ -1,6 +1,6 @@
 ---
 id: 1076
-title: 'At the mall with 2 women. I co...'
+title: 'At the mall with 2 women. I co'
 date: '2009-11-20T22:18:07-04:00'
 author: DizkoDan
 layout: post

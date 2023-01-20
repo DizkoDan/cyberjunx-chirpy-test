@@ -1,6 +1,6 @@
 ---
 id: 1466
-title: 'I cant believe one of these aw...'
+title: 'I cant believe one of these aw'
 date: '2010-11-12T07:47:27-04:00'
 author: DizkoDan
 layout: post

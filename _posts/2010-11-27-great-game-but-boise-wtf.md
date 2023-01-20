@@ -1,6 +1,6 @@
 ---
 id: 1485
-title: 'Great game, but Boise.... wtf?...'
+title: 'Great game, but Boise.... wtf?'
 date: '2010-11-27T02:53:37-04:00'
 author: DizkoDan
 layout: post

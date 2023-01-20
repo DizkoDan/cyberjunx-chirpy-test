@@ -1,6 +1,6 @@
 ---
 id: 271
-title: 'Watchin the skins vs cowboys g...'
+title: 'Watchin the skins vs cowboys g'
 date: '2007-12-30T17:37:56-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/30/watchin-the-skins-vs-cowboys-g/'

@@ -1,6 +1,6 @@
 ---
 id: 466
-title: '@rmcwentz you guys wanna do so...'
+title: '@rmcwentz you guys wanna do so'
 date: '2008-07-04T18:46:28-04:00'
 author: DizkoDan
 layout: post

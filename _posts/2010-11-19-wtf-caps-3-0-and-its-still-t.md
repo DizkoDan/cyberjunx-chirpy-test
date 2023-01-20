@@ -1,6 +1,6 @@
 ---
 id: 1473
-title: 'WTF caps? 3-0 and it's still t...'
+title: 'WTF caps? 3-0 and it's still t'
 date: '2010-11-19T21:02:39-04:00'
 author: DizkoDan
 layout: post

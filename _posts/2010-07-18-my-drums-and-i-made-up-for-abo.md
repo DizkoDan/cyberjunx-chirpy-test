@@ -1,6 +1,6 @@
 ---
 id: 1187
-title: 'My drums and I made up for abo...'
+title: 'My drums and I made up for abo'
 date: '2010-07-18T14:04:52-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 989
-title: 'Finished the endless setlist. ...'
+title: 'Finished the endless setlist. '
 date: '2009-07-03T17:51:57-04:00'
 author: DizkoDan
 layout: post

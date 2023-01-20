@@ -1,6 +1,6 @@
 ---
 id: 1453
-title: 'Hellz yeah! Hat trick for my b...'
+title: 'Hellz yeah! Hat trick for my b'
 date: '2010-10-23T21:24:23-04:00'
 author: DizkoDan
 layout: post

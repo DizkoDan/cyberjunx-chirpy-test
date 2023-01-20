@@ -1,6 +1,6 @@
 ---
 id: 1503
-title: 'ugh. hate shootouts. great gam...'
+title: 'ugh. hate shootouts. great gam'
 date: '2010-12-23T23:03:49-04:00'
 author: DizkoDan
 layout: post

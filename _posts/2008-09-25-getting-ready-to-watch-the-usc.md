@@ -1,6 +1,6 @@
 ---
 id: 530
-title: 'Getting ready to watch the usc...'
+title: 'Getting ready to watch the usc'
 date: '2008-09-25T20:40:28-04:00'
 author: DizkoDan
 layout: post

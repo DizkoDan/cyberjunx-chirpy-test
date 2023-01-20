@@ -1,6 +1,6 @@
 ---
 id: 429
-title: 'On the plane, waiting to push ...'
+title: 'On the plane, waiting to push '
 date: '2008-05-26T05:57:48-04:00'
 author: DizkoDan
 layout: post

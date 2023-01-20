@@ -1,6 +1,6 @@
 ---
 id: 1404
-title: 'USC football time! Been a long...'
+title: 'USC football time! Been a long'
 date: '2010-09-02T23:05:59-04:00'
 author: DizkoDan
 layout: post

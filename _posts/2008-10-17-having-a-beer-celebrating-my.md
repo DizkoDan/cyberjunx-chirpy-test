@@ -1,6 +1,6 @@
 ---
 id: 553
-title: 'Having a beer, celebrating my ...'
+title: 'Having a beer, celebrating my '
 date: '2008-10-17T15:38:58-04:00'
 author: DizkoDan
 layout: post

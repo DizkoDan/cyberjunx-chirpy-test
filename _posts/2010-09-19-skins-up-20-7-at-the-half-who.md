@@ -1,6 +1,6 @@
 ---
 id: 1434
-title: 'Skins up 20-7 at the half. Who...'
+title: 'Skins up 20-7 at the half. Who'
 date: '2010-09-19T17:30:23-04:00'
 author: DizkoDan
 layout: post

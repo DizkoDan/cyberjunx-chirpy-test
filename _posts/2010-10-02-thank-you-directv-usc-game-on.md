@@ -1,6 +1,6 @@
 ---
 id: 1447
-title: 'Thank you directv! USC game on...'
+title: 'Thank you directv! USC game on'
 date: '2010-10-02T20:03:51-04:00'
 author: DizkoDan
 layout: post

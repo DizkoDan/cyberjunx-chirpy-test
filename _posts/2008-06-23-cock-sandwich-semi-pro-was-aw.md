@@ -1,6 +1,6 @@
 ---
 id: 460
-title: 'Cock sandwich! Semi-pro was aw...'
+title: 'Cock sandwich! Semi-pro was aw'
 date: '2008-06-23T21:54:03-04:00'
 author: DizkoDan
 layout: post

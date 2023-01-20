@@ -1,6 +1,6 @@
 ---
 id: 991
-title: 'I just got served! Literally, ...'
+title: 'I just got served! Literally, '
 date: '2009-07-06T17:01:48-04:00'
 author: DizkoDan
 layout: post

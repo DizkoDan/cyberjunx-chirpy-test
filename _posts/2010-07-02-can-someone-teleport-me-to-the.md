@@ -1,6 +1,6 @@
 ---
 id: 1178
-title: 'Can someone teleport me to the...'
+title: 'Can someone teleport me to the'
 date: '2010-07-02T09:36:22-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 966
-title: 'Nice! @lakers got it done in s...'
+title: 'Nice! @lakers got it done in s'
 date: '2009-05-29T23:38:53-04:00'
 author: DizkoDan
 layout: post

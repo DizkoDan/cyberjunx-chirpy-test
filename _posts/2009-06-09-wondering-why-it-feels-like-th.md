@@ -1,6 +1,6 @@
 ---
 id: 974
-title: 'wondering why it feels like th...'
+title: 'wondering why it feels like th'
 date: '2009-06-09T05:08:21-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 408
-title: '45 mins to get through immigra...'
+title: '45 mins to get through immigra'
 date: '2008-05-21T03:02:44-04:00'
 author: DizkoDan
 layout: post

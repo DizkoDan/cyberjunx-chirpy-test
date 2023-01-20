@@ -1,6 +1,6 @@
 ---
 id: 1109
-title: 'Dear Baby, please come today o...'
+title: 'Dear Baby, please come today o'
 date: '2010-02-04T17:05:00-04:00'
 author: DizkoDan
 layout: post

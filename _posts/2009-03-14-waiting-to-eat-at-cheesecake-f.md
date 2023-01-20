@@ -1,6 +1,6 @@
 ---
 id: 894
-title: 'Waiting to eat at cheesecake f...'
+title: 'Waiting to eat at cheesecake f'
 date: '2009-03-14T19:57:38-04:00'
 author: DizkoDan
 layout: post

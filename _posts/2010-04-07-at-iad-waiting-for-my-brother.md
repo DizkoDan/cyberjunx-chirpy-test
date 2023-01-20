@@ -1,6 +1,6 @@
 ---
 id: 1116
-title: 'At IAD waiting for my brother ...'
+title: 'At IAD waiting for my brother '
 date: '2010-04-07T16:59:15-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 876
-title: 'Back at the dentist since I ha...'
+title: 'Back at the dentist since I ha'
 date: '2009-03-10T15:43:55-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1078
-title: 'Mastodon's Divinations kicks m...'
+title: 'Mastodon's Divinations kicks m'
 date: '2009-11-25T09:05:48-04:00'
 author: DizkoDan
 layout: post

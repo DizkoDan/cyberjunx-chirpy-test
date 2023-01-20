@@ -1,6 +1,6 @@
 ---
 id: 1071
-title: 'It is now time to make the roc...'
+title: 'It is now time to make the roc'
 date: '2009-11-10T14:52:50-04:00'
 author: DizkoDan
 layout: post

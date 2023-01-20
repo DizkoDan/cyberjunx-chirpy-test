@@ -1,6 +1,6 @@
 ---
 id: 612
-title: 'blah, blah, blah...'
+title: 'blah, blah, blah'
 date: '2008-12-08T14:26:19-04:00'
 author: DizkoDan
 layout: post

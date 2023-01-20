@@ -1,6 +1,6 @@
 ---
 id: 567
-title: 'zzZzzZzzZzz...'
+title: 'zzZzzZzzZzz'
 date: '2008-10-28T10:03:56-04:00'
 author: DizkoDan
 layout: post

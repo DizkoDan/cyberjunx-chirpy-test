@@ -1,6 +1,6 @@
 ---
 id: 1157
-title: 'ugh... Reports: NCAA hands USC...'
+title: 'ugh... Reports: NCAA hands USC'
 date: '2010-06-10T07:11:37-04:00'
 author: DizkoDan
 layout: post

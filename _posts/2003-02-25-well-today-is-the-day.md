@@ -1,6 +1,6 @@
 ---
 id: 38
-title: 'Well, today is the day...'
+title: 'Well, today is the day'
 date: '2003-02-25T04:21:00-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 380
-title: 'Going to have lunch with Steph...'
+title: 'Going to have lunch with Steph'
 date: '2008-04-22T13:41:12-04:00'
 author: DizkoDan
 layout: post

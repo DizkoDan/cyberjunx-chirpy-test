@@ -1,6 +1,6 @@
 ---
 id: 262
-title: 'On the plane waiting to takeof...'
+title: 'On the plane waiting to takeof'
 date: '2007-12-21T07:17:19-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/21/on-the-plane-waiting-to-takeof/'

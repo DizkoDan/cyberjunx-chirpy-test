@@ -1,6 +1,6 @@
 ---
 id: 599
-title: 'hate to admit it, but i'm real...'
+title: 'hate to admit it, but i'm real'
 date: '2008-11-23T19:13:07-04:00'
 author: DizkoDan
 layout: post

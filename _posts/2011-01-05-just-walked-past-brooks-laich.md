@@ -1,6 +1,6 @@
 ---
 id: 1510
-title: 'Just walked past Brooks Laich ...'
+title: 'Just walked past Brooks Laich '
 date: '2011-01-05T16:50:01-04:00'
 author: DizkoDan
 layout: post

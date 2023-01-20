@@ -1,6 +1,6 @@
 ---
 id: 1009
-title: 'note to self... always double ...'
+title: 'note to self... always double '
 date: '2009-07-29T23:40:42-04:00'
 author: DizkoDan
 layout: post

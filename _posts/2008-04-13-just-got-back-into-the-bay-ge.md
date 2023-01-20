@@ -1,6 +1,6 @@
 ---
 id: 370
-title: 'Just got back into the bay. Ge...'
+title: 'Just got back into the bay. Ge'
 date: '2008-04-13T18:29:44-04:00'
 author: DizkoDan
 layout: post

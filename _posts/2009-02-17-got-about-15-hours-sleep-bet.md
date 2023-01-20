@@ -1,6 +1,6 @@
 ---
 id: 847
-title: 'Got about 1.5 hours sleep. Bet...'
+title: 'Got about 1.5 hours sleep. Bet'
 date: '2009-02-17T21:52:49-04:00'
 author: DizkoDan
 layout: post

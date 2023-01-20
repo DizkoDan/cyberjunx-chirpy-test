@@ -1,6 +1,6 @@
 ---
 id: 473
-title: 'Sitting in the parking lot at ...'
+title: 'Sitting in the parking lot at '
 date: '2008-07-13T16:32:35-04:00'
 author: DizkoDan
 layout: post

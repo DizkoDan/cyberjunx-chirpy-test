@@ -1,6 +1,6 @@
 ---
 id: 580
-title: '@cprichard good luck! more lik...'
+title: '@cprichard good luck! more lik'
 date: '2008-11-06T10:51:25-04:00'
 author: DizkoDan
 layout: post

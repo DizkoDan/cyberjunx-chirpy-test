@@ -1,6 +1,6 @@
 ---
 id: 598
-title: 'eating at chutzpah, then to a ...'
+title: 'eating at chutzpah, then to a '
 date: '2008-11-22T14:47:39-04:00'
 author: DizkoDan
 layout: post

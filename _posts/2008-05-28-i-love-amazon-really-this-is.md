@@ -1,6 +1,6 @@
 ---
 id: 431
-title: 'I love amazon. Really! This is...'
+title: 'I love amazon. Really! This is'
 date: '2008-05-28T16:06:38-04:00'
 author: DizkoDan
 layout: post

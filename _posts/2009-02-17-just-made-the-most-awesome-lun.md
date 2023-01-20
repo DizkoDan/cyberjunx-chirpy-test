@@ -1,6 +1,6 @@
 ---
 id: 844
-title: 'Just made the most awesome lun...'
+title: 'Just made the most awesome lun'
 date: '2009-02-17T16:13:49-04:00'
 author: DizkoDan
 layout: post

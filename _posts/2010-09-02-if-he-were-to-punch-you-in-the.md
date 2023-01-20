@@ -1,6 +1,6 @@
 ---
 id: 1405
-title: 'If he were to punch you in the...'
+title: 'If he were to punch you in the'
 date: '2010-09-02T23:37:52-04:00'
 author: DizkoDan
 layout: post

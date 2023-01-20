@@ -1,6 +1,6 @@
 ---
 id: 315
-title: 'Benny is down here crying, bec...'
+title: 'Benny is down here crying, bec'
 date: '2008-02-26T21:54:59-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/26/benny-is-down-here-crying-bec/'

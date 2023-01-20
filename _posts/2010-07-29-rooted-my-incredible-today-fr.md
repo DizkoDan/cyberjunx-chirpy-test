@@ -1,6 +1,6 @@
 ---
 id: 1192
-title: 'Rooted my incredible today. Fr...'
+title: 'Rooted my incredible today. Fr'
 date: '2010-07-29T21:00:56-04:00'
 author: DizkoDan
 layout: post

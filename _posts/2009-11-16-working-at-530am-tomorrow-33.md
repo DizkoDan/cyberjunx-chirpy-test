@@ -1,6 +1,6 @@
 ---
 id: 1074
-title: 'Working at 5:30am tomorrow 3:3...'
+title: 'Working at 5:30am tomorrow 3:3'
 date: '2009-11-16T20:41:13-04:00'
 author: DizkoDan
 layout: post

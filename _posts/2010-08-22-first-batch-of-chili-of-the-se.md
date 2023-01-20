@@ -1,6 +1,6 @@
 ---
 id: 1340
-title: 'First batch of chili of the se...'
+title: 'First batch of chili of the se'
 date: '2010-08-22T15:19:38-04:00'
 author: DizkoDan
 layout: post

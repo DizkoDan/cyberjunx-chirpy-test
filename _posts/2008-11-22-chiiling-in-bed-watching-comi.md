@@ -1,6 +1,6 @@
 ---
 id: 597
-title: 'chiiling in bed, watching comi...'
+title: 'chiiling in bed, watching comi'
 date: '2008-11-22T00:14:30-04:00'
 author: DizkoDan
 layout: post

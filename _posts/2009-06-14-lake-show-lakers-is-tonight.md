@@ -1,6 +1,6 @@
 ---
 id: 981
-title: 'Lake show! @lakers Is tonight ...'
+title: 'Lake show! @lakers Is tonight '
 date: '2009-06-14T20:01:48-04:00'
 author: DizkoDan
 layout: post

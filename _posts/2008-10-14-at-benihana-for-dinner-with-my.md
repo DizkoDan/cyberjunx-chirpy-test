@@ -1,6 +1,6 @@
 ---
 id: 542
-title: 'At benihana for dinner with my...'
+title: 'At benihana for dinner with my'
 date: '2008-10-14T22:14:29-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1084
-title: 'I hate oregon st., but this ye...'
+title: 'I hate oregon st., but this ye'
 date: '2009-12-03T21:55:06-04:00'
 author: DizkoDan
 layout: post

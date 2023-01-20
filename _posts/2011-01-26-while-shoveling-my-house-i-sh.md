@@ -1,6 +1,6 @@
 ---
 id: 1518
-title: 'While shoveling my house, i sh...'
+title: 'While shoveling my house, i sh'
 date: '2011-01-26T22:25:53-04:00'
 author: DizkoDan
 layout: post

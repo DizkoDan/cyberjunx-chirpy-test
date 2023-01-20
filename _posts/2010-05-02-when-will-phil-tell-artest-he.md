@@ -1,6 +1,6 @@
 ---
 id: 1132
-title: 'When will phil tell Artest he'...'
+title: 'When will phil tell Artest he''
 date: '2010-05-02T17:58:46-04:00'
 author: DizkoDan
 layout: post

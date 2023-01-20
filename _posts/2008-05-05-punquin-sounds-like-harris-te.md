@@ -1,6 +1,6 @@
 ---
 id: 390
-title: '@punquin sounds like harris te...'
+title: '@punquin sounds like harris te'
 date: '2008-05-05T10:29:03-04:00'
 author: DizkoDan
 layout: post

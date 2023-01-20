@@ -1,6 +1,6 @@
 ---
 id: 1015
-title: 'ooh eee ooh ah ah twing twang ...'
+title: 'ooh eee ooh ah ah twing twang '
 date: '2009-08-12T07:45:58-04:00'
 author: DizkoDan
 layout: post

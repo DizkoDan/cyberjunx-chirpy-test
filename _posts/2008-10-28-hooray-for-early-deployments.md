@@ -1,6 +1,6 @@
 ---
 id: 566
-title: 'hooray for early deployments! ...'
+title: 'hooray for early deployments! '
 date: '2008-10-28T05:22:23-04:00'
 author: DizkoDan
 layout: post

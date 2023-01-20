@@ -1,6 +1,6 @@
 ---
 id: 967
-title: 'Going to the black cat to see ...'
+title: 'Going to the black cat to see '
 date: '2009-05-30T19:48:20-04:00'
 author: DizkoDan
 layout: post

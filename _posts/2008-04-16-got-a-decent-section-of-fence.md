@@ -1,6 +1,6 @@
 ---
 id: 375
-title: 'Got a decent section of fence ...'
+title: 'Got a decent section of fence '
 date: '2008-04-16T15:46:23-04:00'
 author: DizkoDan
 layout: post

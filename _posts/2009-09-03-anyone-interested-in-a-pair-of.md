@@ -1,6 +1,6 @@
 ---
 id: 1031
-title: 'Anyone interested in a pair of...'
+title: 'Anyone interested in a pair of'
 date: '2009-09-03T12:27:31-04:00'
 author: DizkoDan
 layout: post

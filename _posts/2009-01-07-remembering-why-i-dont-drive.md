@@ -1,6 +1,6 @@
 ---
 id: 631
-title: 'Remembering why I don't drive ...'
+title: 'Remembering why I don't drive '
 date: '2009-01-07T10:14:59-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 221
-title: 'bedtime now. gonna take tomorr...'
+title: 'bedtime now. gonna take tomorr'
 date: '2007-12-15T21:13:26-04:00'
 author: DizkoDan
 layout: post

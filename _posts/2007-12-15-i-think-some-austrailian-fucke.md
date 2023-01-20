@@ -1,6 +1,6 @@
 ---
 id: 225
-title: 'I think some austrailian fucke...'
+title: 'I think some austrailian fucke'
 date: '2007-12-15T18:40:53-04:00'
 author: DizkoDan
 layout: post

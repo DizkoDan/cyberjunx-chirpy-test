@@ -1,6 +1,6 @@
 ---
 id: 1070
-title: 'Been up since 3am for work. Ju...'
+title: 'Been up since 3am for work. Ju'
 date: '2009-11-10T13:39:12-04:00'
 author: DizkoDan
 layout: post

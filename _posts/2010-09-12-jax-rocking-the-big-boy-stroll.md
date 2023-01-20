@@ -1,6 +1,6 @@
 ---
 id: 1415
-title: 'Jax rocking the big boy stroll...'
+title: 'Jax rocking the big boy stroll'
 date: '2010-09-12T15:09:15-04:00'
 author: DizkoDan
 layout: post

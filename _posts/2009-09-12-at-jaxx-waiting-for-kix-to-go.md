@@ -1,6 +1,6 @@
 ---
 id: 1037
-title: 'At jaxx waiting for kix to go ...'
+title: 'At jaxx waiting for kix to go '
 date: '2009-09-12T23:40:25-04:00'
 author: DizkoDan
 layout: post

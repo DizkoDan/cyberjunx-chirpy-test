@@ -1,6 +1,6 @@
 ---
 id: 392
-title: 'Just had an ass ton of pasta a...'
+title: 'Just had an ass ton of pasta a'
 date: '2008-05-08T20:17:46-04:00'
 author: DizkoDan
 layout: post

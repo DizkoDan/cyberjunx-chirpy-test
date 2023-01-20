@@ -1,6 +1,6 @@
 ---
 id: 313
-title: '@justj *hugs* hope everything ...'
+title: '@justj *hugs* hope everything '
 date: '2008-02-26T08:58:02-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/26/justj-hugs-hope-everything/'

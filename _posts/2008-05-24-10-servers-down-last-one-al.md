@@ -1,6 +1,6 @@
 ---
 id: 419
-title: '10 servers down... last one al...'
+title: '10 servers down... last one al'
 date: '2008-05-24T16:41:04-04:00'
 author: DizkoDan
 layout: post

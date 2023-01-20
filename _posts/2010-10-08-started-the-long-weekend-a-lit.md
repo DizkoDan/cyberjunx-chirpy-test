@@ -1,6 +1,6 @@
 ---
 id: 1449
-title: 'Started the long weekend a lit...'
+title: 'Started the long weekend a lit'
 date: '2010-10-08T12:27:30-04:00'
 author: DizkoDan
 layout: post

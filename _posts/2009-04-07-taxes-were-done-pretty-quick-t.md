@@ -1,6 +1,6 @@
 ---
 id: 913
-title: 'Taxes were done pretty quick t...'
+title: 'Taxes were done pretty quick t'
 date: '2009-04-07T08:26:01-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 50
-title: 'Have I mentioned how much my job sucks...'
+title: 'Have I mentioned how much my job sucks'
 date: '2001-06-02T09:54:00-04:00'
 author: DizkoDan
 layout: post

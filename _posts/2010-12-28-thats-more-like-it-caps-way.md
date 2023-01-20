@@ -1,6 +1,6 @@
 ---
 id: 1504
-title: 'That's more like it caps! Way ...'
+title: 'That's more like it caps! Way '
 date: '2010-12-28T22:28:26-04:00'
 author: DizkoDan
 layout: post

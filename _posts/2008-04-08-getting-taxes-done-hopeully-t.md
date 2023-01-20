@@ -1,6 +1,6 @@
 ---
 id: 363
-title: 'Getting taxes done. Hopeully t...'
+title: 'Getting taxes done. Hopeully t'
 date: '2008-04-08T19:19:09-04:00'
 author: DizkoDan
 layout: post

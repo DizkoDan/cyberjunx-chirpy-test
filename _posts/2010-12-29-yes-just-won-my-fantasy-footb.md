@@ -1,6 +1,6 @@
 ---
 id: 1505
-title: 'Yes! Just won my fantasy footb...'
+title: 'Yes! Just won my fantasy footb'
 date: '2010-12-29T00:26:09-04:00'
 author: DizkoDan
 layout: post

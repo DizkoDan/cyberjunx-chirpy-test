@@ -1,6 +1,6 @@
 ---
 id: 1181
-title: 'That fight was awesome! Lesner...'
+title: 'That fight was awesome! Lesner'
 date: '2010-07-04T00:20:53-04:00'
 author: DizkoDan
 layout: post

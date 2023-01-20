@@ -1,6 +1,6 @@
 ---
 id: 467
-title: 'Sitting at the lake in ashburn...'
+title: 'Sitting at the lake in ashburn'
 date: '2008-07-04T20:24:00-04:00'
 author: DizkoDan
 layout: post

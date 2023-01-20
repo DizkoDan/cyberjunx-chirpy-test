@@ -1,6 +1,6 @@
 ---
 id: 401
-title: 'There's something odd when I g...'
+title: 'There's something odd when I g'
 date: '2008-05-16T15:24:07-04:00'
 author: DizkoDan
 layout: post

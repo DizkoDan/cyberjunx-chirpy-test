@@ -1,6 +1,6 @@
 ---
 id: 619
-title: 'Sleep didn't happen today. Han...'
+title: 'Sleep didn't happen today. Han'
 date: '2008-12-16T17:01:16-04:00'
 author: DizkoDan
 layout: post

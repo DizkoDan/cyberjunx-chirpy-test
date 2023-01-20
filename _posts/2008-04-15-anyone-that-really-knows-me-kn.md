@@ -1,6 +1,6 @@
 ---
 id: 373
-title: 'Anyone that really knows me kn...'
+title: 'Anyone that really knows me kn'
 date: '2008-04-15T20:20:10-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 469
-title: 'Took 2day off for extended hol...'
+title: 'Took 2day off for extended hol'
 date: '2008-07-07T12:15:11-04:00'
 author: DizkoDan
 layout: post

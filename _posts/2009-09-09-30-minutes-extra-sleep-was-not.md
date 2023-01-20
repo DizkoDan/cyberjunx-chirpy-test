@@ -1,6 +1,6 @@
 ---
 id: 1033
-title: '30 minutes extra sleep was not...'
+title: '30 minutes extra sleep was not'
 date: '2009-09-09T07:42:46-04:00'
 author: DizkoDan
 layout: post

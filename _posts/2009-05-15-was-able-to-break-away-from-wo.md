@@ -1,6 +1,6 @@
 ---
 id: 952
-title: 'Was able to break away from wo...'
+title: 'Was able to break away from wo'
 date: '2009-05-15T10:43:51-04:00'
 author: DizkoDan
 layout: post

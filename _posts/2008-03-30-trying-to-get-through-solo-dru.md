@@ -1,6 +1,6 @@
 ---
 id: 346
-title: 'Trying to get through solo dru...'
+title: 'Trying to get through solo dru'
 date: '2008-03-30T14:55:51-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/30/trying-to-get-through-solo-dru/'

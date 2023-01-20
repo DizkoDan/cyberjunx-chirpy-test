@@ -1,6 +1,6 @@
 ---
 id: 1038
-title: 'Cereal bars are good, but I'm ...'
+title: 'Cereal bars are good, but I'm '
 date: '2009-09-16T09:51:40-04:00'
 author: DizkoDan
 layout: post

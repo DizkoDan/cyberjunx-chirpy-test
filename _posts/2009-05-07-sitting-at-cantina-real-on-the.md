@@ -1,6 +1,6 @@
 ---
 id: 942
-title: 'Sitting at cantina real on the...'
+title: 'Sitting at cantina real on the'
 date: '2009-05-07T18:30:25-04:00'
 author: DizkoDan
 layout: post

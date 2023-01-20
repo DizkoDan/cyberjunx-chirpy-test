@@ -1,6 +1,6 @@
 ---
 id: 430
-title: 'Just landed. So glad to be bac...'
+title: 'Just landed. So glad to be bac'
 date: '2008-05-26T14:48:22-04:00'
 author: DizkoDan
 layout: post

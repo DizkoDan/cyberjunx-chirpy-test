@@ -1,6 +1,6 @@
 ---
 id: 442
-title: 'Security in the international ...'
+title: 'Security in the international '
 date: '2008-06-07T13:27:30-04:00'
 author: DizkoDan
 layout: post

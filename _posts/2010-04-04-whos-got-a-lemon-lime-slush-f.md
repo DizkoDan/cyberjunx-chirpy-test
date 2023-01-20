@@ -1,6 +1,6 @@
 ---
 id: 1114
-title: 'Who's got a lemon-lime slush f...'
+title: 'Who's got a lemon-lime slush f'
 date: '2010-04-04T16:19:25-04:00'
 author: DizkoDan
 layout: post

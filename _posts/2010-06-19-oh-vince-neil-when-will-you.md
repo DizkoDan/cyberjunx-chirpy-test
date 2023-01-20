@@ -1,6 +1,6 @@
 ---
 id: 1173
-title: 'Oh Vince Neil... When will you...'
+title: 'Oh Vince Neil... When will you'
 date: '2010-06-19T18:31:56-04:00'
 author: DizkoDan
 layout: post

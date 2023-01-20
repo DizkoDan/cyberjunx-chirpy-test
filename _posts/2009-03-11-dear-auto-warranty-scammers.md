@@ -1,6 +1,6 @@
 ---
 id: 879
-title: 'Dear auto warranty scammers......'
+title: 'Dear auto warranty scammers...'
 date: '2009-03-11T17:21:31-04:00'
 author: DizkoDan
 layout: post

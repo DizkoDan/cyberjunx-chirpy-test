@@ -1,6 +1,6 @@
 ---
 id: 917
-title: 'working a half day today, then...'
+title: 'working a half day today, then'
 date: '2009-04-17T09:40:45-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 697
-title: 'says: it's just about 5:00am. ...'
+title: 'says: it's just about 5:00am. '
 date: '2009-02-05T05:52:48-04:00'
 author: DizkoDan
 layout: post

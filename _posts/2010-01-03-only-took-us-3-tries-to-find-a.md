@@ -1,6 +1,6 @@
 ---
 id: 1096
-title: 'Only took us 3 tries to find a...'
+title: 'Only took us 3 tries to find a'
 date: '2010-01-03T18:40:20-04:00'
 author: DizkoDan
 layout: post

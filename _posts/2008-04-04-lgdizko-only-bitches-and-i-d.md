@@ -1,6 +1,6 @@
 ---
 id: 357
-title: '@lgdizko only bitches (and I d...'
+title: '@lgdizko only bitches (and I d'
 date: '2008-04-04T14:06:04-04:00'
 author: DizkoDan
 layout: post

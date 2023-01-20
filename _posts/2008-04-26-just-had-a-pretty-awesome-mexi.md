@@ -1,6 +1,6 @@
 ---
 id: 384
-title: 'Just had a pretty awesome mexi...'
+title: 'Just had a pretty awesome mexi'
 date: '2008-04-26T19:20:05-04:00'
 author: DizkoDan
 layout: post

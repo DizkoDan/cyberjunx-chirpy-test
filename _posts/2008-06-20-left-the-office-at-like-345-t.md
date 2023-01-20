@@ -1,6 +1,6 @@
 ---
 id: 459
-title: 'Left the office at like 3:45 t...'
+title: 'Left the office at like 3:45 t'
 date: '2008-06-20T16:23:26-04:00'
 author: DizkoDan
 layout: post

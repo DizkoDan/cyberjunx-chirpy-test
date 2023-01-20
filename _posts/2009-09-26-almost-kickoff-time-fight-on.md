@@ -1,6 +1,6 @@
 ---
 id: 1047
-title: 'Almost kickoff time. Fight on ...'
+title: 'Almost kickoff time. Fight on '
 date: '2009-09-26T22:24:31-04:00'
 author: DizkoDan
 layout: post

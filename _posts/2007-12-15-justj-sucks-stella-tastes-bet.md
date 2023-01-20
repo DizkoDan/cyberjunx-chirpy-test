@@ -1,6 +1,6 @@
 ---
 id: 232
-title: 'JustJ sucks. Stella tastes bet...'
+title: 'JustJ sucks. Stella tastes bet'
 date: '2007-12-15T16:19:38-04:00'
 author: DizkoDan
 layout: post

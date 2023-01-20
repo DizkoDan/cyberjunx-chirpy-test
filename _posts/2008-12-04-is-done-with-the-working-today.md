@@ -1,6 +1,6 @@
 ---
 id: 608
-title: 'is done with the working today...'
+title: 'is done with the working today'
 date: '2008-12-04T13:53:00-04:00'
 author: DizkoDan
 layout: post

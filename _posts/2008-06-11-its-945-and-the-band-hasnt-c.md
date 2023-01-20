@@ -1,6 +1,6 @@
 ---
 id: 451
-title: 'Its 9:45 and the band hasn't c...'
+title: 'Its 9:45 and the band hasn't c'
 date: '2008-06-11T23:44:57-04:00'
 author: DizkoDan
 layout: post

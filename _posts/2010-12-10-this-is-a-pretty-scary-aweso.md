@@ -1,6 +1,6 @@
 ---
 id: 1488
-title: 'This is a pretty (scary) aweso...'
+title: 'This is a pretty (scary) aweso'
 date: '2010-12-10T21:07:47-04:00'
 author: DizkoDan
 layout: post

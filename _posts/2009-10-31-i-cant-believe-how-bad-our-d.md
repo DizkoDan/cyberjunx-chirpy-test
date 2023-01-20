@@ -1,6 +1,6 @@
 ---
 id: 1065
-title: 'I can't believe how bad our D ...'
+title: 'I can't believe how bad our D '
 date: '2009-10-31T23:40:36-04:00'
 author: DizkoDan
 layout: post

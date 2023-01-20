@@ -1,6 +1,6 @@
 ---
 id: 632
-title: 'working on trying to get the h...'
+title: 'working on trying to get the h'
 date: '2009-01-07T21:02:33-04:00'
 author: DizkoDan
 layout: post

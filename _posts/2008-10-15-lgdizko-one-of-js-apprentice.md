@@ -1,6 +1,6 @@
 ---
 id: 544
-title: '@lgdizko one of j's apprentice...'
+title: '@lgdizko one of j's apprentice'
 date: '2008-10-15T14:14:17-04:00'
 author: DizkoDan
 layout: post

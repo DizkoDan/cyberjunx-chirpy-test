@@ -1,6 +1,6 @@
 ---
 id: 935
-title: 'Just left Venice, weather is a...'
+title: 'Just left Venice, weather is a'
 date: '2009-05-03T19:56:42-04:00'
 author: DizkoDan
 layout: post

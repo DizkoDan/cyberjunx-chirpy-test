@@ -1,6 +1,6 @@
 ---
 id: 916
-title: 'It's a nice change when the fi...'
+title: 'It's a nice change when the fi'
 date: '2009-04-14T08:04:45-04:00'
 author: DizkoDan
 layout: post

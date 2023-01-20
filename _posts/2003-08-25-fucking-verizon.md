@@ -1,6 +1,6 @@
 ---
 id: 31
-title: 'Fucking Verizon...'
+title: 'Fucking Verizon'
 date: '2003-08-25T18:49:00-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1524
-title: 'Sleep was only a partial succe...'
+title: 'Sleep was only a partial succe'
 date: '2011-02-02T21:29:24-04:00'
 author: DizkoDan
 layout: post

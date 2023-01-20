@@ -1,6 +1,6 @@
 ---
 id: 1082
-title: 'Drew Brees = total badass. Tha...'
+title: 'Drew Brees = total badass. Tha'
 date: '2009-12-01T00:12:58-04:00'
 author: DizkoDan
 layout: post

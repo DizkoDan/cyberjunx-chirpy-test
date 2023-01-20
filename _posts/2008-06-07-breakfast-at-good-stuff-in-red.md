@@ -1,6 +1,6 @@
 ---
 id: 439
-title: 'Breakfast at good stuff in red...'
+title: 'Breakfast at good stuff in red'
 date: '2008-06-07T11:41:21-04:00'
 author: DizkoDan
 layout: post

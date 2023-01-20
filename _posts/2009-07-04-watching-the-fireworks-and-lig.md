@@ -1,6 +1,6 @@
 ---
 id: 990
-title: 'Watching the fireworks and lig...'
+title: 'Watching the fireworks and lig'
 date: '2009-07-04T21:38:42-04:00'
 author: DizkoDan
 layout: post

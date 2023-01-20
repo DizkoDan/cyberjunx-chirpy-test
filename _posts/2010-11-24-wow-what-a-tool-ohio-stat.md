@@ -1,6 +1,6 @@
 ---
 id: 1479
-title: 'Wow! What a tool.... Ohio Stat...'
+title: 'Wow! What a tool.... Ohio Stat'
 date: '2010-11-24T11:22:38-04:00'
 author: DizkoDan
 layout: post

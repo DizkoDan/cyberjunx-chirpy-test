@@ -1,6 +1,6 @@
 ---
 id: 954
-title: 'Finally got guitar hero: metal...'
+title: 'Finally got guitar hero: metal'
 date: '2009-05-19T17:41:33-04:00'
 author: DizkoDan
 layout: post

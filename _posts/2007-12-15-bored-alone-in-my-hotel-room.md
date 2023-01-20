@@ -1,6 +1,6 @@
 ---
 id: 222
-title: 'bored. alone in my hotel room....'
+title: 'bored. alone in my hotel room.'
 date: '2007-12-15T20:45:39-04:00'
 author: DizkoDan
 layout: post

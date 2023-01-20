@@ -1,6 +1,6 @@
 ---
 id: 939
-title: 'Lucy says dog beach was great ...'
+title: 'Lucy says dog beach was great '
 date: '2009-05-06T18:01:50-04:00'
 author: DizkoDan
 layout: post

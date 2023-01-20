@@ -1,6 +1,6 @@
 ---
 id: 541
-title: 'Bummed. The guy we buy our om ...'
+title: 'Bummed. The guy we buy our om '
 date: '2008-10-14T19:57:37-04:00'
 author: DizkoDan
 layout: post

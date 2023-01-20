@@ -1,6 +1,6 @@
 ---
 id: 432
-title: 'US 'soccer' is such a joke. Th...'
+title: 'US 'soccer' is such a joke. Th'
 date: '2008-05-28T16:45:35-04:00'
 author: DizkoDan
 layout: post

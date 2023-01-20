@@ -1,6 +1,6 @@
 ---
 id: 1535
-title: 'My baby is so awesome. He just...'
+title: 'My baby is so awesome. He just'
 date: '2011-02-27T19:27:01-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 525
-title: 'At the crystal city sports pub...'
+title: 'At the crystal city sports pub'
 date: '2008-09-13T19:27:59-04:00'
 author: DizkoDan
 layout: post

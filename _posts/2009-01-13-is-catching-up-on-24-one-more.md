@@ -1,6 +1,6 @@
 ---
 id: 634
-title: 'Is catching up on 24. One more...'
+title: 'Is catching up on 24. One more'
 date: '2009-01-13T22:51:16-04:00'
 author: DizkoDan
 layout: post

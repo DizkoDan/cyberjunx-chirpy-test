@@ -1,6 +1,6 @@
 ---
 id: 1459
-title: 'Wow! Ice is already going down...'
+title: 'Wow! Ice is already going down'
 date: '2010-10-28T11:10:50-04:00'
 author: DizkoDan
 layout: post

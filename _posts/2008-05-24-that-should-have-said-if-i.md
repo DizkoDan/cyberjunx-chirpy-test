@@ -1,6 +1,6 @@
 ---
 id: 422
-title: 'That should have said... If I ...'
+title: 'That should have said... If I '
 date: '2008-05-24T18:36:55-04:00'
 author: DizkoDan
 layout: post

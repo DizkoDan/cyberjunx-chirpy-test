@@ -1,6 +1,6 @@
 ---
 id: 1149
-title: 'I'm dreaming of my bed. zzZzzZ...'
+title: 'I'm dreaming of my bed. zzZzzZ'
 date: '2010-05-23T05:57:58-04:00'
 author: DizkoDan
 layout: post

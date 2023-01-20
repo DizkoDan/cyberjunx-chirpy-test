@@ -1,6 +1,6 @@
 ---
 id: 1523
-title: 'Finally escaped work. Burger, ...'
+title: 'Finally escaped work. Burger, '
 date: '2011-02-02T15:11:09-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 569
-title: '@cprichard hah! that is awesom...'
+title: '@cprichard hah! that is awesom'
 date: '2008-10-29T21:38:46-04:00'
 author: DizkoDan
 layout: post

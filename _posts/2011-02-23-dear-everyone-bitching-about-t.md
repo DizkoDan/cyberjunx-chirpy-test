@@ -1,6 +1,6 @@
 ---
 id: 1533
-title: 'Dear everyone bitching about t...'
+title: 'Dear everyone bitching about t'
 date: '2011-02-23T10:02:47-04:00'
 author: DizkoDan
 layout: post

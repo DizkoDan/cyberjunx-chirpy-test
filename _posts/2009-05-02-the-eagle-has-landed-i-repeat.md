@@ -1,6 +1,6 @@
 ---
 id: 934
-title: 'The eagle has landed. I repeat...'
+title: 'The eagle has landed. I repeat'
 date: '2009-05-02T12:42:45-04:00'
 author: DizkoDan
 layout: post

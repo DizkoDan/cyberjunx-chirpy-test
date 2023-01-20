@@ -1,6 +1,6 @@
 ---
 id: 415
-title: '@punquin wish I could take you...'
+title: '@punquin wish I could take you'
 date: '2008-05-22T17:44:48-04:00'
 author: DizkoDan
 layout: post

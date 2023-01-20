@@ -1,6 +1,6 @@
 ---
 id: 383
-title: '@punquin hope you are ok. Andy...'
+title: '@punquin hope you are ok. Andy'
 date: '2008-04-26T16:58:56-04:00'
 author: DizkoDan
 layout: post

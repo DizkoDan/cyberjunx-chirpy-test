@@ -1,6 +1,6 @@
 ---
 id: 1519
-title: 'Finally done shoveling. Only a...'
+title: 'Finally done shoveling. Only a'
 date: '2011-01-27T13:48:37-04:00'
 author: DizkoDan
 layout: post

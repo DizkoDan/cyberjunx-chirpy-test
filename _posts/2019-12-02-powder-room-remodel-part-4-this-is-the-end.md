@@ -14,6 +14,7 @@ tags:
     - DIY
     - 'Home Improvement'
     - Remodel
+pin: true
 ---
 
 Well I finally finished all of the major work in the bathroom over the holiday week. All that’s left to be done are little things like hanging pictures and such. Overall, I’m pretty happy with the way things turned out. I left things at the end of the last post having just finished the wainscoting. I had actually already installed the toilet as well, so let’s start there.

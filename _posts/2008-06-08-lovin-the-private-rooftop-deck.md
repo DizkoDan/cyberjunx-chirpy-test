@@ -1,6 +1,6 @@
 ---
 id: 445
-title: 'Lovin the private rooftop deck...'
+title: 'Lovin the private rooftop deck'
 date: '2008-06-08T13:23:49-04:00'
 author: DizkoDan
 layout: post

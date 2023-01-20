@@ -1,6 +1,6 @@
 ---
 id: 1501
-title: 'Nice! Caps finally end the str...'
+title: 'Nice! Caps finally end the str'
 date: '2010-12-19T23:04:52-04:00'
 author: DizkoDan
 layout: post

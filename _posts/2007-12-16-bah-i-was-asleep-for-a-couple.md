@@ -1,6 +1,6 @@
 ---
 id: 244
-title: 'bah! I was asleep for a couple...'
+title: 'bah! I was asleep for a couple'
 date: '2007-12-16T23:23:14-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/16/bah-i-was-asleep-for-a-couple/'

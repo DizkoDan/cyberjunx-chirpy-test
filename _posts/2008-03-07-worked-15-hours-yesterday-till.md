@@ -1,6 +1,6 @@
 ---
 id: 328
-title: 'Worked 15 hours yesterday till...'
+title: 'Worked 15 hours yesterday till'
 date: '2008-03-07T07:43:38-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/07/worked-15-hours-yesterday-till/'

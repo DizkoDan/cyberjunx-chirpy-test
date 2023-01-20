@@ -1,6 +1,6 @@
 ---
 id: 428
-title: 'On the train back to heathrow....'
+title: 'On the train back to heathrow.'
 date: '2008-05-26T03:59:47-04:00'
 author: DizkoDan
 layout: post

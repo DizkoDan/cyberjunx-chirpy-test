@@ -1,6 +1,6 @@
 ---
 id: 1100
-title: 'Caps/Pens &amp; Lakers/Cavs at the...'
+title: 'Caps/Pens &amp; Lakers/Cavs at the'
 date: '2010-01-21T20:51:16-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1023
-title: 'Is it odd that I had a massive...'
+title: 'Is it odd that I had a massive'
 date: '2009-08-27T17:33:35-04:00'
 author: DizkoDan
 layout: post

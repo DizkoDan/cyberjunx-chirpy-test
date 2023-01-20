@@ -1,6 +1,6 @@
 ---
 id: 1517
-title: 'Only took me a half hour to ge...'
+title: 'Only took me a half hour to ge'
 date: '2011-01-26T18:12:20-04:00'
 author: DizkoDan
 layout: post

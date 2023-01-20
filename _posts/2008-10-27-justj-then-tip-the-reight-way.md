@@ -1,6 +1,6 @@
 ---
 id: 565
-title: '@justj then tip the reight way...'
+title: '@justj then tip the reight way'
 date: '2008-10-27T18:30:03-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 202
-title: 'This is the good part...'
+title: 'This is the good part'
 date: '2007-08-29T11:10:31-04:00'
 author: DizkoDan
 layout: post

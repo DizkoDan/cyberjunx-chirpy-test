@@ -1,6 +1,6 @@
 ---
 id: 607
-title: 'is doing a deployment, wishing...'
+title: 'is doing a deployment, wishing'
 date: '2008-12-04T07:03:40-04:00'
 author: DizkoDan
 layout: post

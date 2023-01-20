@@ -1,6 +1,6 @@
 ---
 id: 1194
-title: 'Can't believe that my baby boy...'
+title: 'Can't believe that my baby boy'
 date: '2010-08-05T08:15:33-04:00'
 author: DizkoDan
 layout: post

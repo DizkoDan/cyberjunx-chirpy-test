@@ -1,6 +1,6 @@
 ---
 id: 230
-title: '@justj you still suck! Miss yo...'
+title: '@justj you still suck! Miss yo'
 date: '2007-12-15T17:16:42-04:00'
 author: DizkoDan
 layout: post

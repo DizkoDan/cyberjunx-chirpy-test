@@ -1,6 +1,6 @@
 ---
 id: 555
-title: '@Moosifer that definitely woul...'
+title: '@Moosifer that definitely woul'
 date: '2008-10-17T18:14:51-04:00'
 author: DizkoDan
 layout: post

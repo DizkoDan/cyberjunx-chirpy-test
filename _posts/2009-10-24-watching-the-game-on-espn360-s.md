@@ -1,6 +1,6 @@
 ---
 id: 1063
-title: 'Watching the game on espn360 s...'
+title: 'Watching the game on espn360 s'
 date: '2009-10-24T20:32:27-04:00'
 author: DizkoDan
 layout: post

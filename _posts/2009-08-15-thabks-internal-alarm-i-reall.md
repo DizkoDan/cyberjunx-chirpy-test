@@ -1,6 +1,6 @@
 ---
 id: 1018
-title: 'Thabks internal alarm, I reall...'
+title: 'Thabks internal alarm, I reall'
 date: '2009-08-15T06:03:08-04:00'
 author: DizkoDan
 layout: post

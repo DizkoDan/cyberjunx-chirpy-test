@@ -1,6 +1,6 @@
 ---
 id: 532
-title: 'Sitting out in a park with chi...'
+title: 'Sitting out in a park with chi'
 date: '2008-10-02T17:37:56-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 337
-title: 'My anti lj strike post. Grow u...'
+title: 'My anti lj strike post. Grow u'
 date: '2008-03-21T13:16:15-04:00'
 author: DizkoDan
 layout: post

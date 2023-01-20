@@ -1,6 +1,6 @@
 ---
 id: 1088
-title: 'Maybe its just me, but if I'm ...'
+title: 'Maybe its just me, but if I'm '
 date: '2009-12-10T15:47:10-04:00'
 author: DizkoDan
 layout: post

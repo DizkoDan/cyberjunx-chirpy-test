@@ -1,6 +1,6 @@
 ---
 id: 258
-title: 'Had a really nice dinner with ...'
+title: 'Had a really nice dinner with '
 date: '2007-12-20T17:57:29-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/20/had-a-really-nice-dinner-with/'

@@ -1,6 +1,6 @@
 ---
 id: 911
-title: 'Holy crap I'm feeling all the ...'
+title: 'Holy crap I'm feeling all the '
 date: '2009-04-05T22:48:49-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 272
-title: 'At this place called crystal c...'
+title: 'At this place called crystal c'
 date: '2008-01-01T17:31:54-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/01/01/at-this-place-called-crystal-c/'

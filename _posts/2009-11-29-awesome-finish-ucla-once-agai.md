@@ -1,6 +1,6 @@
 ---
 id: 1081
-title: 'Awesome finish! UCLA once agai...'
+title: 'Awesome finish! UCLA once agai'
 date: '2009-11-29T02:44:12-04:00'
 author: DizkoDan
 layout: post

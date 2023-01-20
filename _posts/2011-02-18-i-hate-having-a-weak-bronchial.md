@@ -1,6 +1,6 @@
 ---
 id: 1532
-title: 'I hate having a weak bronchial...'
+title: 'I hate having a weak bronchial'
 date: '2011-02-18T09:57:11-04:00'
 author: DizkoDan
 layout: post

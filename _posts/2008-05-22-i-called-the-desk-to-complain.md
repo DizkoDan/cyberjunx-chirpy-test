@@ -1,6 +1,6 @@
 ---
 id: 414
-title: 'I called the desk to complain ...'
+title: 'I called the desk to complain '
 date: '2008-05-22T16:18:52-04:00'
 author: DizkoDan
 layout: post

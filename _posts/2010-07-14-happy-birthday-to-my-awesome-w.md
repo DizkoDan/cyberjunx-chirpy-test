@@ -1,6 +1,6 @@
 ---
 id: 1185
-title: 'Happy Birthday to my awesome w...'
+title: 'Happy Birthday to my awesome w'
 date: '2010-07-14T07:19:52-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1438
-title: 'Yay! RT @sweetgreen: Our new R...'
+title: 'Yay! RT @sweetgreen: Our new R'
 date: '2010-09-21T10:34:19-04:00'
 author: DizkoDan
 layout: post

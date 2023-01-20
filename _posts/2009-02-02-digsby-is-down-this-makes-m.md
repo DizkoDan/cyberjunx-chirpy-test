@@ -1,6 +1,6 @@
 ---
 id: 651
-title: 'digsby is down... this makes m...'
+title: 'digsby is down... this makes m'
 date: '2009-02-02T10:32:00-04:00'
 author: DizkoDan
 layout: post

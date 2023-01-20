@@ -1,6 +1,6 @@
 ---
 id: 604
-title: 'At the ccsp for the usc game. ...'
+title: 'At the ccsp for the usc game. '
 date: '2008-11-29T20:06:23-04:00'
 author: DizkoDan
 layout: post

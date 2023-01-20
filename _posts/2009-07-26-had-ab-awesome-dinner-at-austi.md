@@ -1,6 +1,6 @@
 ---
 id: 1004
-title: 'Had ab awesome dinner at austi...'
+title: 'Had ab awesome dinner at austi'
 date: '2009-07-26T20:40:20-04:00'
 author: DizkoDan
 layout: post

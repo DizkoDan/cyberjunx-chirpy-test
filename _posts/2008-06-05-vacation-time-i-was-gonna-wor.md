@@ -1,6 +1,6 @@
 ---
 id: 435
-title: 'Vacation time! I was gonna wor...'
+title: 'Vacation time! I was gonna wor'
 date: '2008-06-05T20:17:21-04:00'
 author: DizkoDan
 layout: post

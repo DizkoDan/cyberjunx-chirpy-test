@@ -1,6 +1,6 @@
 ---
 id: 1509
-title: 'Ralph Friegen 75-50 &amp; 7 bowls ...'
+title: 'Ralph Friegen 75-50 &amp; 7 bowls '
 date: '2011-01-02T21:32:56-04:00'
 author: DizkoDan
 layout: post

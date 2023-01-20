@@ -1,6 +1,6 @@
 ---
 id: 1441
-title: 'Passed on @sweetgreen since li...'
+title: 'Passed on @sweetgreen since li'
 date: '2010-09-24T12:10:19-04:00'
 author: DizkoDan
 layout: post

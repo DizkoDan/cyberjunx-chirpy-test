@@ -1,6 +1,6 @@
 ---
 id: 456
-title: 'At LAX. Good news... Got 1st c...'
+title: 'At LAX. Good news... Got 1st c'
 date: '2008-06-15T23:24:13-04:00'
 author: DizkoDan
 layout: post

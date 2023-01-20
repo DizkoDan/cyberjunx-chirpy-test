@@ -1,6 +1,6 @@
 ---
 id: 381
-title: '@meltoids &quot;what are you d...'
+title: '@meltoids &quot;what are you d'
 date: '2008-04-24T12:27:10-04:00'
 author: DizkoDan
 layout: post

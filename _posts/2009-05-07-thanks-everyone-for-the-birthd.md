@@ -1,6 +1,6 @@
 ---
 id: 941
-title: 'Thanks everyone for the birthd...'
+title: 'Thanks everyone for the birthd'
 date: '2009-05-07T15:22:01-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1032
-title: 'Kickoff time! Fight on trojans...'
+title: 'Kickoff time! Fight on trojans'
 date: '2009-09-05T15:36:39-04:00'
 author: DizkoDan
 layout: post

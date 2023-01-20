@@ -1,6 +1,6 @@
 ---
 id: 510
-title: '@rmcwentz did you get that mem...'
+title: '@rmcwentz did you get that mem'
 date: '2008-08-19T10:09:50-04:00'
 author: DizkoDan
 layout: post

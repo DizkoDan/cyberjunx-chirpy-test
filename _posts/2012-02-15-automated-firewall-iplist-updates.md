@@ -38,7 +38,12 @@ The crontab entry:
 `<br></br>45 23 * * * /root/scripts/update_pingdom_ips.sh >/dev/null 2>&1<br></br>`
 
 The script:  
-`<br></br>#!/bin/bash<br></br># Grab the latest pingdom monitoring IP's from their RSS feed, and translate them to IPLIST for CSF/LFD.<br></br>#<br></br>DATE=`date +%d%b%Y-%H%M`<br></br>MAX_BACKUPS=5`
+```bash
+#!/bin/bash
+# Grab the latest pingdom monitoring IP's from their RSS feed, and translate them to IPLIST for CSF/LFD.
+#
+DATE=`date +%d%b%Y-%H%M`
+MAX_BACKUPS=5
 
 cd /root/pingdom  
 mv pingdom\_ips pingdom\_ips-$DATE
@@ -62,3 +67,4 @@ wget https://www.pingdom.com/rss/probe\_servers.xml -O /root/probe\_servers.xml 
 cat /root/probe\_servers.xml | grep IP | sed -e 's/.\*IP: //g' | sed -e 's/; Host.\*//g' | grep -v IP &gt; /root/pingdom/pingdom\_ips  
 rm /home/dan/www/pingdom\_ips  
 cp /root/pingdom/pingdom\_ips /PATH/TO/WEBROOT/pingdom\_ips
+```

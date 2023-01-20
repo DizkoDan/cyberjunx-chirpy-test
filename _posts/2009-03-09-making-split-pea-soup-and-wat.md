@@ -1,6 +1,6 @@
 ---
 id: 871
-title: 'Making split pea soup, and wat...'
+title: 'Making split pea soup, and wat'
 date: '2009-03-09T18:19:48-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1146
-title: '2/2: I suggest if your pets ea...'
+title: '2/2: I suggest if your pets ea'
 date: '2010-05-20T07:57:33-04:00'
 author: DizkoDan
 layout: post

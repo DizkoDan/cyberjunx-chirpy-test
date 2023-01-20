@@ -1,6 +1,6 @@
 ---
 id: 1169
-title: 'Sorry Tracii, Phil says this i...'
+title: 'Sorry Tracii, Phil says this i'
 date: '2010-06-19T14:31:18-04:00'
 author: DizkoDan
 layout: post

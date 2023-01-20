@@ -1,6 +1,6 @@
 ---
 id: 1145
-title: 'Getting all-u-can eat wings @m...'
+title: 'Getting all-u-can eat wings @m'
 date: '2010-05-19T18:53:39-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 961
-title: 'Sweet, directv opened up a nat...'
+title: 'Sweet, directv opened up a nat'
 date: '2009-05-23T21:51:09-04:00'
 author: DizkoDan
 layout: post

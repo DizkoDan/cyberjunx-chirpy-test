@@ -1,6 +1,6 @@
 ---
 id: 572
-title: 'Stupid fire drills when its be...'
+title: 'Stupid fire drills when its be'
 date: '2008-10-30T10:24:33-04:00'
 author: DizkoDan
 layout: post

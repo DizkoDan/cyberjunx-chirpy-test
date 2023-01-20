@@ -1,6 +1,6 @@
 ---
 id: 288
-title: 'Off to the UK again...'
+title: 'Off to the UK again'
 date: '2008-01-31T20:25:05-04:00'
 author: DizkoDan
 layout: post

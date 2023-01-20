@@ -1,6 +1,6 @@
 ---
 id: 1450
-title: 'At sam and omie's for breakfas...'
+title: 'At sam and omie's for breakfas'
 date: '2010-10-10T08:47:36-04:00'
 author: DizkoDan
 layout: post

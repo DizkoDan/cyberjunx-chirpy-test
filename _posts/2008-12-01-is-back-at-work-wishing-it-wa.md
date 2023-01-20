@@ -1,6 +1,6 @@
 ---
 id: 605
-title: 'is back at work, wishing it wa...'
+title: 'is back at work, wishing it wa'
 date: '2008-12-01T09:59:25-04:00'
 author: DizkoDan
 layout: post

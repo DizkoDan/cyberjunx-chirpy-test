@@ -1,6 +1,6 @@
 ---
 id: 524
-title: 'Managed to get a haircut sched...'
+title: 'Managed to get a haircut sched'
 date: '2008-09-12T17:10:08-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 868
-title: 'Waited like 40 mins at dentist...'
+title: 'Waited like 40 mins at dentist'
 date: '2009-03-03T20:50:25-04:00'
 author: DizkoDan
 layout: post

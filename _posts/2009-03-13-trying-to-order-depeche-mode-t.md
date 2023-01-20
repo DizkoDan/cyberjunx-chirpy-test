@@ -1,6 +1,6 @@
 ---
 id: 893
-title: 'trying to order Depeche Mode t...'
+title: 'trying to order Depeche Mode t'
 date: '2009-03-13T12:21:32-04:00'
 author: DizkoDan
 layout: post

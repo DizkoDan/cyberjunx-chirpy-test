@@ -1,6 +1,6 @@
 ---
 id: 487
-title: 'I'm done working for the day. ...'
+title: 'I'm done working for the day. '
 date: '2008-07-18T12:25:40-04:00'
 author: DizkoDan
 layout: post

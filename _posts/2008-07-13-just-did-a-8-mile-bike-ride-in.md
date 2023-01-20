@@ -1,6 +1,6 @@
 ---
 id: 472
-title: 'Just did a 8 mile bike ride in...'
+title: 'Just did a 8 mile bike ride in'
 date: '2008-07-13T13:13:48-04:00'
 author: DizkoDan
 layout: post

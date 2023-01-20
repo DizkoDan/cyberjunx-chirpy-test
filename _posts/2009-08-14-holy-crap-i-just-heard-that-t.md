@@ -1,6 +1,6 @@
 ---
 id: 1016
-title: 'Holy crap! I just heard that t...'
+title: 'Holy crap! I just heard that t'
 date: '2009-08-14T12:43:33-04:00'
 author: DizkoDan
 layout: post

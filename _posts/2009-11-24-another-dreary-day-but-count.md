@@ -1,6 +1,6 @@
 ---
 id: 1077
-title: 'Another dreary day, but @count...'
+title: 'Another dreary day, but @count'
 date: '2009-11-24T12:17:54-04:00'
 author: DizkoDan
 layout: post

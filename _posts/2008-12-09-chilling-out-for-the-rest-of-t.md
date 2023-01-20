@@ -1,6 +1,6 @@
 ---
 id: 613
-title: 'Chilling out for the rest of t...'
+title: 'Chilling out for the rest of t'
 date: '2008-12-09T13:44:15-04:00'
 author: DizkoDan
 layout: post

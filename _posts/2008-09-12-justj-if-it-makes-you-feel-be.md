@@ -1,6 +1,6 @@
 ---
 id: 523
-title: '@justj if it makes you feel be...'
+title: '@justj if it makes you feel be'
 date: '2008-09-12T11:49:58-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 350
-title: 'At pantera, wishing i wasn't w...'
+title: 'At pantera, wishing i wasn't w'
 date: '2008-04-02T09:34:17-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/02/at-pantera-wishing-i-wasnt-w/'

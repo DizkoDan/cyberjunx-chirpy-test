@@ -1,6 +1,6 @@
 ---
 id: 239
-title: 'heh. just figured out why it w...'
+title: 'heh. just figured out why it w'
 date: '2007-12-16T06:12:55-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/16/heh-just-figured-out-why-it-w/'

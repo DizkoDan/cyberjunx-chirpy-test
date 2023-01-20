@@ -1,6 +1,6 @@
 ---
 id: 1075
-title: 'I have a few google voice invi...'
+title: 'I have a few google voice invi'
 date: '2009-11-19T11:36:34-04:00'
 author: DizkoDan
 layout: post

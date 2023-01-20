@@ -1,6 +1,6 @@
 ---
 id: 910
-title: 'Awesome game! Wish I lived clo...'
+title: 'Awesome game! Wish I lived clo'
 date: '2009-04-05T18:02:36-04:00'
 author: DizkoDan
 layout: post

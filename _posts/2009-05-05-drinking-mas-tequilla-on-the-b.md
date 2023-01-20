@@ -1,6 +1,6 @@
 ---
 id: 937
-title: 'Drinking mas tequilla on the b...'
+title: 'Drinking mas tequilla on the b'
 date: '2009-05-05T21:12:39-04:00'
 author: DizkoDan
 layout: post

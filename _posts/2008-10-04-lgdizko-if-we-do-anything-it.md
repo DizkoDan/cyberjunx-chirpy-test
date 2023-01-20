@@ -1,6 +1,6 @@
 ---
 id: 536
-title: '@lgdizko if we do anything, it...'
+title: '@lgdizko if we do anything, it'
 date: '2008-10-04T12:06:51-04:00'
 author: DizkoDan
 layout: post

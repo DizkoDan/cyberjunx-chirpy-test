@@ -1,6 +1,6 @@
 ---
 id: 623
-title: 'Makin chili and watchin footba...'
+title: 'Makin chili and watchin footba'
 date: '2008-12-21T16:22:47-04:00'
 author: DizkoDan
 layout: post

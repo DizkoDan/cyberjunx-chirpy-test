@@ -1,6 +1,6 @@
 ---
 id: 33
-title: 'Another one bites the dust...'
+title: 'Another one bites the dust'
 date: '2003-04-26T09:03:00-04:00'
 author: DizkoDan
 layout: post

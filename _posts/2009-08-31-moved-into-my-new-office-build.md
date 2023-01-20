@@ -1,6 +1,6 @@
 ---
 id: 1028
-title: 'moved into my new office build...'
+title: 'moved into my new office build'
 date: '2009-08-31T09:16:03-04:00'
 author: DizkoDan
 layout: post

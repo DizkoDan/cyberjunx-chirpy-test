@@ -1,6 +1,6 @@
 ---
 id: 1048
-title: 'Tuesday morning deployments su...'
+title: 'Tuesday morning deployments su'
 date: '2009-09-28T11:28:38-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 446
-title: 'Intarweb died on phone yesterd...'
+title: 'Intarweb died on phone yesterd'
 date: '2008-06-09T11:08:38-04:00'
 author: DizkoDan
 layout: post

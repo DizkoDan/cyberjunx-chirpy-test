@@ -1,6 +1,6 @@
 ---
 id: 491
-title: '@Moosifer wtf is a jungle gril...'
+title: '@Moosifer wtf is a jungle gril'
 date: '2008-07-25T19:02:12-04:00'
 author: DizkoDan
 layout: post

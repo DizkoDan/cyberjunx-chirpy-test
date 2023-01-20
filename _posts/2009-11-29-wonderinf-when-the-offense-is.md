@@ -1,6 +1,6 @@
 ---
 id: 1080
-title: 'Wonderinf when the offense is ...'
+title: 'Wonderinf when the offense is '
 date: '2009-11-29T01:12:11-04:00'
 author: DizkoDan
 layout: post

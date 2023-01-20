@@ -1,6 +1,6 @@
 ---
 id: 1120
-title: 'The rumor is that Peter Steele...'
+title: 'The rumor is that Peter Steele'
 date: '2010-04-15T08:48:06-04:00'
 author: DizkoDan
 layout: post

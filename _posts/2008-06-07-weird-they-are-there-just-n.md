@@ -1,6 +1,6 @@
 ---
 id: 440
-title: 'Weird they are there... Just n...'
+title: 'Weird they are there... Just n'
 date: '2008-06-07T10:47:16-04:00'
 author: DizkoDan
 layout: post

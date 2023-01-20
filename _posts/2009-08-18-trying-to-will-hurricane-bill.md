@@ -1,6 +1,6 @@
 ---
 id: 1019
-title: 'Trying to will hurricane Bill ...'
+title: 'Trying to will hurricane Bill '
 date: '2009-08-18T08:03:07-04:00'
 author: DizkoDan
 layout: post

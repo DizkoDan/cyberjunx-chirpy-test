@@ -1,6 +1,6 @@
 ---
 id: 1451
-title: 'Haha this is for you Wes: http...'
+title: 'Haha this is for you Wes: http'
 date: '2010-10-12T18:46:16-04:00'
 author: DizkoDan
 layout: post

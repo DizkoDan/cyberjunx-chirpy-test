@@ -1,6 +1,6 @@
 ---
 id: 906
-title: 'Having a beer at Jackson's, wa...'
+title: 'Having a beer at Jackson's, wa'
 date: '2009-03-31T16:12:23-04:00'
 author: DizkoDan
 layout: post

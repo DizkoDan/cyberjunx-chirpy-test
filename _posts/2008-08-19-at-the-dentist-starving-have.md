@@ -1,6 +1,6 @@
 ---
 id: 511
-title: 'At the dentist. Starving, have...'
+title: 'At the dentist. Starving, have'
 date: '2008-08-19T17:37:29-04:00'
 author: DizkoDan
 layout: post

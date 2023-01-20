@@ -1,6 +1,6 @@
 ---
 id: 640
-title: 'Gettin the truck washed, then ...'
+title: 'Gettin the truck washed, then '
 date: '2009-01-25T13:59:19-04:00'
 author: DizkoDan
 layout: post

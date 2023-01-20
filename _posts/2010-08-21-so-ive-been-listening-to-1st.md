@@ -1,6 +1,6 @@
 ---
 id: 1339
-title: 'So I've been listening to 1st ...'
+title: 'So I've been listening to 1st '
 date: '2010-08-21T23:16:00-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1482
-title: 'Wow! Another hat trick for Sem...'
+title: 'Wow! Another hat trick for Sem'
 date: '2010-11-26T19:23:26-04:00'
 author: DizkoDan
 layout: post

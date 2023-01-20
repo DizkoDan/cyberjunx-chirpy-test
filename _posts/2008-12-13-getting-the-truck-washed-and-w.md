@@ -1,6 +1,6 @@
 ---
 id: 617
-title: 'Getting the truck washed and w...'
+title: 'Getting the truck washed and w'
 date: '2008-12-13T16:58:22-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1097
-title: 'Not sure how I feel about Lane...'
+title: 'Not sure how I feel about Lane'
 date: '2010-01-13T11:22:15-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 418
-title: 'i dont think i could possibly ...'
+title: 'i dont think i could possibly '
 date: '2008-05-24T13:12:59-04:00'
 author: DizkoDan
 layout: post

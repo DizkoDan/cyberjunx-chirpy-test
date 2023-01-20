@@ -1,6 +1,6 @@
 ---
 id: 521
-title: 'Its amazing how helpful playin...'
+title: 'Its amazing how helpful playin'
 date: '2008-09-10T18:01:44-04:00'
 author: DizkoDan
 layout: post

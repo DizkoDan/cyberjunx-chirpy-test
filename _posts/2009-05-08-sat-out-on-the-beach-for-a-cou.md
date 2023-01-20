@@ -1,6 +1,6 @@
 ---
 id: 944
-title: 'Sat out on the beach for a cou...'
+title: 'Sat out on the beach for a cou'
 date: '2009-05-08T16:24:39-04:00'
 author: DizkoDan
 layout: post

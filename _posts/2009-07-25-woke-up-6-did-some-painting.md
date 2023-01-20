@@ -1,6 +1,6 @@
 ---
 id: 1003
-title: 'Woke up @ 6, did some painting...'
+title: 'Woke up @ 6, did some painting'
 date: '2009-07-25T10:28:09-04:00'
 author: DizkoDan
 layout: post

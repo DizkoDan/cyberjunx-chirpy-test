@@ -1,6 +1,6 @@
 ---
 id: 1439
-title: 'If you're gonna sign up for ho...'
+title: 'If you're gonna sign up for ho'
 date: '2010-09-23T07:23:10-04:00'
 author: DizkoDan
 layout: post

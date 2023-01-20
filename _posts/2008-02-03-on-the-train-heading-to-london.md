@@ -1,6 +1,6 @@
 ---
 id: 295
-title: 'On the train heading to london...'
+title: 'On the train heading to london'
 date: '2008-02-03T11:26:46-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/03/on-the-train-heading-to-london/'

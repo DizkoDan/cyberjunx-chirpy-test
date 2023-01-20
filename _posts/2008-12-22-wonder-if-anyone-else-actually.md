@@ -1,6 +1,6 @@
 ---
 id: 625
-title: 'Wonder if anyone else actually...'
+title: 'Wonder if anyone else actually'
 date: '2008-12-22T16:37:52-04:00'
 author: DizkoDan
 layout: post

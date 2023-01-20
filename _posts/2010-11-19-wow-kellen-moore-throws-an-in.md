@@ -1,6 +1,6 @@
 ---
 id: 1474
-title: 'Wow! Kellen Moore throws an IN...'
+title: 'Wow! Kellen Moore throws an IN'
 date: '2010-11-19T23:05:13-04:00'
 author: DizkoDan
 layout: post

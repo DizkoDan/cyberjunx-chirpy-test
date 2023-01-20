@@ -1,6 +1,6 @@
 ---
 id: 1526
-title: 'I seem to have forgot to spam ...'
+title: 'I seem to have forgot to spam '
 date: '2011-02-05T18:18:20-04:00'
 author: DizkoDan
 layout: post

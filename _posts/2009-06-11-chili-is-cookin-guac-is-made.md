@@ -1,6 +1,6 @@
 ---
 id: 978
-title: 'Chili is cookin. Guac is made....'
+title: 'Chili is cookin. Guac is made.'
 date: '2009-06-11T18:31:43-04:00'
 author: DizkoDan
 layout: post

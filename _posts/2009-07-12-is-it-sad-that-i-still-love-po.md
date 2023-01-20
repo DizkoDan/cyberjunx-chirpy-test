@@ -1,6 +1,6 @@
 ---
 id: 995
-title: 'Is it sad that I still love po...'
+title: 'Is it sad that I still love po'
 date: '2009-07-12T20:25:55-04:00'
 author: DizkoDan
 layout: post

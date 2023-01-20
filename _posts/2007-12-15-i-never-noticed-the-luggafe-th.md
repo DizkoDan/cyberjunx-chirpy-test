@@ -1,6 +1,6 @@
 ---
 id: 229
-title: 'I never noticed the luggafe th...'
+title: 'I never noticed the luggafe th'
 date: '2007-12-15T17:43:33-04:00'
 author: DizkoDan
 layout: post

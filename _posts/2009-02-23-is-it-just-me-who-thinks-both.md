@@ -1,6 +1,6 @@
 ---
 id: 860
-title: 'is it just me who thinks both ...'
+title: 'is it just me who thinks both '
 date: '2009-02-23T09:57:20-04:00'
 author: DizkoDan
 layout: post

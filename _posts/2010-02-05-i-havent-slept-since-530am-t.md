@@ -1,6 +1,6 @@
 ---
 id: 1107
-title: 'I haven't slept since 5:30am t...'
+title: 'I haven't slept since 5:30am t'
 date: '2010-02-05T11:19:26-04:00'
 author: DizkoDan
 layout: post

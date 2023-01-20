@@ -1,6 +1,6 @@
 ---
 id: 637
-title: 'Hacking up my new billing syte...'
+title: 'Hacking up my new billing syte'
 date: '2009-01-20T22:08:10-04:00'
 author: DizkoDan
 layout: post

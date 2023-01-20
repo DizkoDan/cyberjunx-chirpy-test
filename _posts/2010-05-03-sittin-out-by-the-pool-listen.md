@@ -1,6 +1,6 @@
 ---
 id: 1134
-title: 'Sittin out by the pool, listen...'
+title: 'Sittin out by the pool, listen'
 date: '2010-05-03T14:18:16-04:00'
 author: DizkoDan
 layout: post

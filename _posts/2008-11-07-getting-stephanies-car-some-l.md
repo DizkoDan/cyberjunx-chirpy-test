@@ -1,6 +1,6 @@
 ---
 id: 582
-title: 'getting stephanie's car some l...'
+title: 'getting stephanie's car some l'
 date: '2008-11-07T16:31:12-04:00'
 author: DizkoDan
 layout: post

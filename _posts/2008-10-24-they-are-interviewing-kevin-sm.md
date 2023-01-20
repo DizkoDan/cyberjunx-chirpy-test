@@ -1,6 +1,6 @@
 ---
 id: 562
-title: 'They are interviewing Kevin Sm...'
+title: 'They are interviewing Kevin Sm'
 date: '2008-10-24T20:46:31-04:00'
 author: DizkoDan
 layout: post

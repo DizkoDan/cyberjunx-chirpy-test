@@ -1,6 +1,6 @@
 ---
 id: 1052
-title: 'Why is the heater in my buildi...'
+title: 'Why is the heater in my buildi'
 date: '2009-10-05T07:07:45-04:00'
 author: DizkoDan
 layout: post

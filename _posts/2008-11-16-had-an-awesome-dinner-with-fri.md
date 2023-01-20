@@ -1,6 +1,6 @@
 ---
 id: 590
-title: 'had an awesome dinner with fri...'
+title: 'had an awesome dinner with fri'
 date: '2008-11-16T23:14:47-04:00'
 author: DizkoDan
 layout: post

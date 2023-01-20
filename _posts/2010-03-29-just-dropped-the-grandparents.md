@@ -1,6 +1,6 @@
 ---
 id: 1113
-title: 'just dropped the grandparents ...'
+title: 'just dropped the grandparents '
 date: '2010-03-29T05:23:10-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 492
-title: '@Moosifer that would be potbel...'
+title: '@Moosifer that would be potbel'
 date: '2008-07-25T18:54:30-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1050
-title: 'Good game trojans! Finally kep...'
+title: 'Good game trojans! Finally kep'
 date: '2009-10-03T23:47:45-04:00'
 author: DizkoDan
 layout: post

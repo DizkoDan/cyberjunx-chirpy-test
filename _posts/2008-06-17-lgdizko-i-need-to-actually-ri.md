@@ -1,6 +1,6 @@
 ---
 id: 458
-title: '@lgdizko I need to actually ri...'
+title: '@lgdizko I need to actually ri'
 date: '2008-06-17T15:44:21-04:00'
 author: DizkoDan
 layout: post

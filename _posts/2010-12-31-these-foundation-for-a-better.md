@@ -1,6 +1,6 @@
 ---
 id: 1506
-title: 'These "foundation for a better...'
+title: 'These "foundation for a better'
 date: '2010-12-31T23:16:28-04:00'
 author: DizkoDan
 layout: post

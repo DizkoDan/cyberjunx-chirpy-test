@@ -1,6 +1,6 @@
 ---
 id: 1609
-title: 'In honor of the chili cookoff at the harris hot house today...'
+title: 'In honor of the chili cookoff at the harris hot house today'
 date: '2011-10-08T12:19:16-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 465
-title: 'Leaving the data center. Maint...'
+title: 'Leaving the data center. Maint'
 date: '2008-07-02T04:32:22-04:00'
 author: DizkoDan
 layout: post

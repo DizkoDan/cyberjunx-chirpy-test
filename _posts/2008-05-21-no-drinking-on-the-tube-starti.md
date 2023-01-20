@@ -1,6 +1,6 @@
 ---
 id: 410
-title: 'No drinking on the tube starti...'
+title: 'No drinking on the tube starti'
 date: '2008-05-21T11:11:44-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 843
-title: 'Taking the afternoon off to ch...'
+title: 'Taking the afternoon off to ch'
 date: '2009-02-17T14:53:30-04:00'
 author: DizkoDan
 layout: post

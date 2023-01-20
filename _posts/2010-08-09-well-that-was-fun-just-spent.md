@@ -1,6 +1,6 @@
 ---
 id: 1196
-title: 'Well that was fun. Just spent ...'
+title: 'Well that was fun. Just spent '
 date: '2010-08-09T22:25:26-04:00'
 author: DizkoDan
 layout: post

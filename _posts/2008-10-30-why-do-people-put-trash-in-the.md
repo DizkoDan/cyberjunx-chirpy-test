@@ -1,6 +1,6 @@
 ---
 id: 573
-title: 'Why do people put trash in the...'
+title: 'Why do people put trash in the'
 date: '2008-10-30T15:11:27-04:00'
 author: DizkoDan
 layout: post

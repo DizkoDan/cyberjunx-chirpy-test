@@ -1,6 +1,6 @@
 ---
 id: 398
-title: '@Moosifer It's awesome! PF Chi...'
+title: '@Moosifer It's awesome! PF Chi'
 date: '2008-05-14T09:37:25-04:00'
 author: DizkoDan
 layout: post

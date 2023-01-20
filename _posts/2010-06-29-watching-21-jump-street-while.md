@@ -1,6 +1,6 @@
 ---
 id: 1177
-title: 'Watching 21 Jump Street while ...'
+title: 'Watching 21 Jump Street while '
 date: '2010-06-29T01:27:12-04:00'
 author: DizkoDan
 layout: post

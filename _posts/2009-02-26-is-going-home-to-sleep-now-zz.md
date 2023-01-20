@@ -1,6 +1,6 @@
 ---
 id: 862
-title: 'is going home to sleep now. zz...'
+title: 'is going home to sleep now. zz'
 date: '2009-02-26T08:12:49-04:00'
 author: DizkoDan
 layout: post

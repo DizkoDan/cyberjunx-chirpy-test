@@ -1,6 +1,6 @@
 ---
 id: 1135
-title: '$1 tacos at The Pit = awesome!...'
+title: '$1 tacos at The Pit = awesome!'
 date: '2010-05-04T14:31:05-04:00'
 author: DizkoDan
 layout: post

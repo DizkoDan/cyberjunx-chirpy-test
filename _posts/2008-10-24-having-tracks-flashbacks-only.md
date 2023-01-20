@@ -1,6 +1,6 @@
 ---
 id: 564
-title: 'Having tracks flashbacks. Only...'
+title: 'Having tracks flashbacks. Only'
 date: '2008-10-24T22:11:55-04:00'
 author: DizkoDan
 layout: post

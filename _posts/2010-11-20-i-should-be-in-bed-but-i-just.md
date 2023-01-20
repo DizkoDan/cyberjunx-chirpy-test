@@ -1,6 +1,6 @@
 ---
 id: 1475
-title: 'I should be in bed, but I just...'
+title: 'I should be in bed, but I just'
 date: '2010-11-20T02:24:49-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1472
-title: 'The chili is cooking! Who's hu...'
+title: 'The chili is cooking! Who's hu'
 date: '2010-11-18T16:38:53-04:00'
 author: DizkoDan
 layout: post

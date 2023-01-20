@@ -1,6 +1,6 @@
 ---
 id: 377
-title: 'I feel like such a slacker. I ...'
+title: 'I feel like such a slacker. I '
 date: '2008-04-17T17:10:22-04:00'
 author: DizkoDan
 layout: post

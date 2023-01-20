@@ -1,6 +1,6 @@
 ---
 id: 1175
-title: 'I am amused looking out the wi...'
+title: 'I am amused looking out the wi'
 date: '2010-06-24T07:18:31-04:00'
 author: DizkoDan
 layout: post

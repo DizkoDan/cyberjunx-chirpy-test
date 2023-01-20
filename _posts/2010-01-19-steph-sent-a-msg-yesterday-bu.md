@@ -1,6 +1,6 @@
 ---
 id: 1098
-title: 'Steph sent a msg yesterday, bu...'
+title: 'Steph sent a msg yesterday, bu'
 date: '2010-01-19T09:10:28-04:00'
 author: DizkoDan
 layout: post

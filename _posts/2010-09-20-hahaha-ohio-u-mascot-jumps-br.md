@@ -1,6 +1,6 @@
 ---
 id: 1436
-title: 'Hahaha Ohio U. mascot jumps Br...'
+title: 'Hahaha Ohio U. mascot jumps Br'
 date: '2010-09-20T14:30:00-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1034
-title: 'I wasn't in a hurry to get it ...'
+title: 'I wasn't in a hurry to get it '
 date: '2009-09-09T19:52:46-04:00'
 author: DizkoDan
 layout: post

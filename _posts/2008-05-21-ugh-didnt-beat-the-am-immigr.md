@@ -1,6 +1,6 @@
 ---
 id: 406
-title: 'Ugh. Didn't beat the AM immigr...'
+title: 'Ugh. Didn't beat the AM immigr'
 date: '2008-05-21T02:07:30-04:00'
 author: DizkoDan
 layout: post

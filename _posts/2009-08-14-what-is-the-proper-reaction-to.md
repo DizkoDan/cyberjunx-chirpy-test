@@ -1,6 +1,6 @@
 ---
 id: 1017
-title: 'What is the proper reaction to...'
+title: 'What is the proper reaction to'
 date: '2009-08-14T14:10:08-04:00'
 author: DizkoDan
 layout: post

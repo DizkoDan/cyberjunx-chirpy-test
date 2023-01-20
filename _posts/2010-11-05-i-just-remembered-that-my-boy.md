@@ -1,6 +1,6 @@
 ---
 id: 1461
-title: 'I just remembered that my boy ...'
+title: 'I just remembered that my boy '
 date: '2010-11-05T11:21:00-04:00'
 author: DizkoDan
 layout: post

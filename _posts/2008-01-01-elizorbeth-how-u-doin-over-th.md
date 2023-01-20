@@ -1,6 +1,6 @@
 ---
 id: 279
-title: '@elizorbeth how u doin over th...'
+title: '@elizorbeth how u doin over th'
 date: '2008-01-01T21:39:27-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/01/01/elizorbeth-how-u-doin-over-th/'

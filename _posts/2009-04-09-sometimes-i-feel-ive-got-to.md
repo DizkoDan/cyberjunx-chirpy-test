@@ -1,6 +1,6 @@
 ---
 id: 914
-title: 'Sometimes I feel I've got to.....'
+title: 'Sometimes I feel I've got to..'
 date: '2009-04-09T18:33:03-04:00'
 author: DizkoDan
 layout: post

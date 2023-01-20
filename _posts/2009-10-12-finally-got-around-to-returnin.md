@@ -1,6 +1,6 @@
 ---
 id: 1056
-title: 'Finally got around to returnin...'
+title: 'Finally got around to returnin'
 date: '2009-10-12T12:19:13-04:00'
 author: DizkoDan
 layout: post

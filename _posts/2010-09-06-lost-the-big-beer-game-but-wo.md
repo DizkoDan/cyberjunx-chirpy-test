@@ -1,6 +1,6 @@
 ---
 id: 1408
-title: 'Lost the big beer game, but wo...'
+title: 'Lost the big beer game, but wo'
 date: '2010-09-06T18:54:02-04:00'
 author: DizkoDan
 layout: post

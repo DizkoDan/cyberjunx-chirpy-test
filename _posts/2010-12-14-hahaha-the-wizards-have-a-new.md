@@ -1,6 +1,6 @@
 ---
 id: 1489
-title: 'Hahaha the wizards have a new ...'
+title: 'Hahaha the wizards have a new '
 date: '2010-12-14T20:13:05-04:00'
 author: DizkoDan
 layout: post

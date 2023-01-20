@@ -1,6 +1,6 @@
 ---
 id: 863
-title: 'Wondering why Manny Ramirez th...'
+title: 'Wondering why Manny Ramirez th'
 date: '2009-02-27T14:54:40-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 928
-title: 'totally forgot to take my alle...'
+title: 'totally forgot to take my alle'
 date: '2009-04-28T06:00:12-04:00'
 author: DizkoDan
 layout: post

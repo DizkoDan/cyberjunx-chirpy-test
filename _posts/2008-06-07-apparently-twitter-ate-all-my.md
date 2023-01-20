@@ -1,6 +1,6 @@
 ---
 id: 441
-title: 'Apparently twitter ate all my ...'
+title: 'Apparently twitter ate all my '
 date: '2008-06-07T10:45:38-04:00'
 author: DizkoDan
 layout: post

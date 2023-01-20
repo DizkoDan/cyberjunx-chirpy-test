@@ -1,6 +1,6 @@
 ---
 id: 557
-title: '@justj that's good for us, cuz...'
+title: '@justj that's good for us, cuz'
 date: '2008-10-18T19:49:11-04:00'
 author: DizkoDan
 layout: post

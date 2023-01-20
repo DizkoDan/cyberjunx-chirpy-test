@@ -1,6 +1,6 @@
 ---
 id: 1138
-title: 'Made it home. Even with 3 stop...'
+title: 'Made it home. Even with 3 stop'
 date: '2010-05-09T16:17:50-04:00'
 author: DizkoDan
 layout: post

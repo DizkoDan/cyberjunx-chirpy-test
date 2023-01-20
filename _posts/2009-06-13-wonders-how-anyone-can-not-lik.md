@@ -1,6 +1,6 @@
 ---
 id: 980
-title: 'Wonders how anyone can not lik...'
+title: 'Wonders how anyone can not lik'
 date: '2009-06-13T21:42:54-04:00'
 author: DizkoDan
 layout: post

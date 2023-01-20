@@ -1,6 +1,6 @@
 ---
 id: 496
-title: 'Eating at cheesecake factory :...'
+title: 'Eating at cheesecake factory :'
 date: '2008-07-31T18:34:16-04:00'
 author: DizkoDan
 layout: post

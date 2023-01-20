@@ -1,6 +1,6 @@
 ---
 id: 228
-title: 'Hah! I just read my last post....'
+title: 'Hah! I just read my last post.'
 date: '2007-12-15T18:00:53-04:00'
 author: DizkoDan
 layout: post

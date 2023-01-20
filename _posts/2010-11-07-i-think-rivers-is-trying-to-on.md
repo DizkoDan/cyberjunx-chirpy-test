@@ -1,6 +1,6 @@
 ---
 id: 1464
-title: 'I think Rivers is trying to on...'
+title: 'I think Rivers is trying to on'
 date: '2010-11-07T16:41:08-04:00'
 author: DizkoDan
 layout: post

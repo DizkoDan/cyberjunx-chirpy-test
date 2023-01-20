@@ -1,6 +1,6 @@
 ---
 id: 483
-title: 'Totally not feeling the whole ...'
+title: 'Totally not feeling the whole '
 date: '2008-07-17T09:14:03-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1049
-title: 'New AIC album = pretty good. N...'
+title: 'New AIC album = pretty good. N'
 date: '2009-10-02T08:31:47-04:00'
 author: DizkoDan
 layout: post

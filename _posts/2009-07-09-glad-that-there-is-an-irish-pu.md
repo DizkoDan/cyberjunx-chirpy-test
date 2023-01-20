@@ -1,6 +1,6 @@
 ---
 id: 993
-title: 'Glad that there is an irish pu...'
+title: 'Glad that there is an irish pu'
 date: '2009-07-09T16:12:56-04:00'
 author: DizkoDan
 layout: post

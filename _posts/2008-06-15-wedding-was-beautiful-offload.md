@@ -1,6 +1,6 @@
 ---
 id: 455
-title: 'Wedding was beautiful. Offload...'
+title: 'Wedding was beautiful. Offload'
 date: '2008-06-15T03:13:37-04:00'
 author: DizkoDan
 layout: post

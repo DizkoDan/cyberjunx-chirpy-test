@@ -1,6 +1,6 @@
 ---
 id: 402
-title: 'yay! just found out I have to ...'
+title: 'yay! just found out I have to '
 date: '2008-05-19T18:09:22-04:00'
 author: DizkoDan
 layout: post

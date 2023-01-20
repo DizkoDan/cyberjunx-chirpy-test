@@ -1,6 +1,6 @@
 ---
 id: 1130
-title: 'So I guess my new status is "G...'
+title: 'So I guess my new status is "G'
 date: '2010-04-29T05:38:08-04:00'
 author: DizkoDan
 layout: post

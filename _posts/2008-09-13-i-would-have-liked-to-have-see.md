@@ -1,6 +1,6 @@
 ---
 id: 527
-title: 'I would have liked to have see...'
+title: 'I would have liked to have see'
 date: '2008-09-13T23:43:06-04:00'
 author: DizkoDan
 layout: post

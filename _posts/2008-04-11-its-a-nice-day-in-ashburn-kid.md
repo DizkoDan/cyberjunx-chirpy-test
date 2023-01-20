@@ -1,6 +1,6 @@
 ---
 id: 367
-title: 'Its a nice day in ashburn, kid...'
+title: 'Its a nice day in ashburn, kid'
 date: '2008-04-11T14:28:48-04:00'
 author: DizkoDan
 layout: post

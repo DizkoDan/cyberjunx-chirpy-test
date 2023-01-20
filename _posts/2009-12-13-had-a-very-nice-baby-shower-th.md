@@ -1,6 +1,6 @@
 ---
 id: 1089
-title: 'Had a very nice baby shower th...'
+title: 'Had a very nice baby shower th'
 date: '2009-12-13T21:44:44-04:00'
 author: DizkoDan
 layout: post

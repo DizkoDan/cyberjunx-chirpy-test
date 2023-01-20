@@ -1,6 +1,6 @@
 ---
 id: 508
-title: 'Rocking the fuck out to lamb o...'
+title: 'Rocking the fuck out to lamb o'
 date: '2008-08-15T16:28:53-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 543
-title: 'Watching gabe play spider wars...'
+title: 'Watching gabe play spider wars'
 date: '2008-10-15T13:45:41-04:00'
 author: DizkoDan
 layout: post

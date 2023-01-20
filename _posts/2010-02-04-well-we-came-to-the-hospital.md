@@ -1,6 +1,6 @@
 ---
 id: 1108
-title: 'Well, we came to the hospital ...'
+title: 'Well, we came to the hospital '
 date: '2010-02-04T22:36:23-04:00'
 author: DizkoDan
 layout: post

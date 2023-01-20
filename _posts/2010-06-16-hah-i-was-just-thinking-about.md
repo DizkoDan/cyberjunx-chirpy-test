@@ -1,6 +1,6 @@
 ---
 id: 1161
-title: 'Hah! I was just thinking about...'
+title: 'Hah! I was just thinking about'
 date: '2010-06-16T21:31:03-04:00'
 author: DizkoDan
 layout: post

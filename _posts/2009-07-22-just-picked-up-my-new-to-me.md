@@ -1,6 +1,6 @@
 ---
 id: 999
-title: 'Just picked up my new (to me) ...'
+title: 'Just picked up my new (to me) '
 date: '2009-07-22T17:31:42-04:00'
 author: DizkoDan
 layout: post

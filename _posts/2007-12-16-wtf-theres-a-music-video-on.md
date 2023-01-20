@@ -1,6 +1,6 @@
 ---
 id: 240
-title: 'Wtf? There's a music video on ...'
+title: 'Wtf? There's a music video on '
 date: '2007-12-16T06:50:51-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/16/wtf-theres-a-music-video-on/'

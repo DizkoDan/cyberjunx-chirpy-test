@@ -1,6 +1,6 @@
 ---
 id: 1406
-title: 'Wow Oregon. 72-0 against New M...'
+title: 'Wow Oregon. 72-0 against New M'
 date: '2010-09-04T21:19:23-04:00'
 author: DizkoDan
 layout: post

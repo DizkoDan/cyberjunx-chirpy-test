@@ -1,6 +1,6 @@
 ---
 id: 1064
-title: 'Game time! Once again a nation...'
+title: 'Game time! Once again a nation'
 date: '2009-10-31T20:09:26-04:00'
 author: DizkoDan
 layout: post

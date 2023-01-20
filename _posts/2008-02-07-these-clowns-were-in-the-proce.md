@@ -1,6 +1,6 @@
 ---
 id: 303
-title: 'These clowns were in the proce...'
+title: 'These clowns were in the proce'
 date: '2008-02-07T03:44:39-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/07/these-clowns-were-in-the-proce/'

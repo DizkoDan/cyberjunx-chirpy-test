@@ -1,6 +1,6 @@
 ---
 id: 1410
-title: 'Great game! Too bad the wrong ...'
+title: 'Great game! Too bad the wrong '
 date: '2010-09-06T23:37:29-04:00'
 author: DizkoDan
 layout: post

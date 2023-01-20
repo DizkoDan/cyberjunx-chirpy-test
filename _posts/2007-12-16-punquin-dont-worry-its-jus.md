@@ -1,6 +1,6 @@
 ---
 id: 218
-title: '@punquin don't worry, it's jus...'
+title: '@punquin don't worry, it's jus'
 date: '2007-12-16T03:33:54-04:00'
 author: DizkoDan
 layout: post

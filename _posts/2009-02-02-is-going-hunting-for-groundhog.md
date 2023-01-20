@@ -1,6 +1,6 @@
 ---
 id: 652
-title: 'is going hunting for groundhog...'
+title: 'is going hunting for groundhog'
 date: '2009-02-02T14:18:35-04:00'
 author: DizkoDan
 layout: post

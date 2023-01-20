@@ -1,6 +1,6 @@
 ---
 id: 2058
-title: 'Powder Room Remodel Part 1: Here I Go Again...'
+title: 'Powder Room Remodel Part 1: Here I Go Again'
 date: '2019-10-21T12:42:33-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 958
-title: 'You know what time is it? Lake...'
+title: 'You know what time is it? Lake'
 date: '2009-05-21T20:37:49-04:00'
 author: DizkoDan
 layout: post

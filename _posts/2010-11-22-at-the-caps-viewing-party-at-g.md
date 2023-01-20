@@ -1,6 +1,6 @@
 ---
 id: 1476
-title: 'At the caps viewing party at g...'
+title: 'At the caps viewing party at g'
 date: '2010-11-22T20:14:09-04:00'
 author: DizkoDan
 layout: post

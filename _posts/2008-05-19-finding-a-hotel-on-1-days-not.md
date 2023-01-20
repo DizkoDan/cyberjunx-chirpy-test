@@ -1,6 +1,6 @@
 ---
 id: 403
-title: 'Finding a hotel on 1 day's not...'
+title: 'Finding a hotel on 1 day's not'
 date: '2008-05-19T18:48:57-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 480
-title: '@rmcwentz gordon beircsh = liq...'
+title: '@rmcwentz gordon beircsh = liq'
 date: '2008-07-15T14:02:48-04:00'
 author: DizkoDan
 layout: post

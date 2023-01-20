@@ -1,6 +1,6 @@
 ---
 id: 546
-title: 'Hah. I'm sitting next to raven...'
+title: 'Hah. I'm sitting next to raven'
 date: '2008-10-15T16:02:37-04:00'
 author: DizkoDan
 layout: post

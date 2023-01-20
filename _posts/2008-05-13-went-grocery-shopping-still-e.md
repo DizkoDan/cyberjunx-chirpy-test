@@ -1,6 +1,6 @@
 ---
 id: 396
-title: 'Went grocery shopping. Still e...'
+title: 'Went grocery shopping. Still e'
 date: '2008-05-13T21:00:55-04:00'
 author: DizkoDan
 layout: post

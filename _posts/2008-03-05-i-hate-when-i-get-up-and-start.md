@@ -1,6 +1,6 @@
 ---
 id: 325
-title: 'I hate when I get up and start...'
+title: 'I hate when I get up and start'
 date: '2008-03-05T11:22:43-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/05/i-hate-when-i-get-up-and-start/'

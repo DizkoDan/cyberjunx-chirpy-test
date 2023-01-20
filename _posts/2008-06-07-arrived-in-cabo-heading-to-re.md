@@ -1,6 +1,6 @@
 ---
 id: 443
-title: 'Arrived in Cabo. Heading to re...'
+title: 'Arrived in Cabo. Heading to re'
 date: '2008-06-07T17:45:07-04:00'
 author: DizkoDan
 layout: post

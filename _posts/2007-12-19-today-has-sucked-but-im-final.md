@@ -1,6 +1,6 @@
 ---
 id: 253
-title: 'today has sucked. but im final...'
+title: 'today has sucked. but im final'
 date: '2007-12-19T10:27:24-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/19/today-has-sucked-but-im-final/'

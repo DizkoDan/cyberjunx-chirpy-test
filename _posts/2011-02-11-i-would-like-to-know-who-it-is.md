@@ -1,6 +1,6 @@
 ---
 id: 1529
-title: 'I would like to know who it is...'
+title: 'I would like to know who it is'
 date: '2011-02-11T15:31:34-04:00'
 author: DizkoDan
 layout: post

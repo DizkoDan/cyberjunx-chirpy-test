@@ -1,6 +1,6 @@
 ---
 id: 1007
-title: 'Stephanie is trying to ignore ...'
+title: 'Stephanie is trying to ignore '
 date: '2009-07-28T19:51:14-04:00'
 author: DizkoDan
 layout: post

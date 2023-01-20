@@ -1,6 +1,6 @@
 ---
 id: 503
-title: 'Watching harold and kumar esca...'
+title: 'Watching harold and kumar esca'
 date: '2008-08-06T21:14:52-04:00'
 author: DizkoDan
 layout: post

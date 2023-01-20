@@ -1,6 +1,6 @@
 ---
 id: 984
-title: 'Dear weekend, please come back...'
+title: 'Dear weekend, please come back'
 date: '2009-06-21T22:46:47-04:00'
 author: DizkoDan
 layout: post

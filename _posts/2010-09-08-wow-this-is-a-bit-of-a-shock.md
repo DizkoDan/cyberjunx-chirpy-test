@@ -1,6 +1,6 @@
 ---
 id: 1411
-title: 'Wow! This is a bit of a shock ...'
+title: 'Wow! This is a bit of a shock '
 date: '2010-09-08T21:24:04-04:00'
 author: DizkoDan
 layout: post

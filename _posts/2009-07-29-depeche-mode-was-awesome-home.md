@@ -1,6 +1,6 @@
 ---
 id: 1008
-title: 'Depeche Mode was awesome! Home...'
+title: 'Depeche Mode was awesome! Home'
 date: '2009-07-29T00:02:07-04:00'
 author: DizkoDan
 layout: post

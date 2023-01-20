@@ -1,6 +1,6 @@
 ---
 id: 1068
-title: 'Wow lowest score in a win sinc...'
+title: 'Wow lowest score in a win sinc'
 date: '2009-11-08T00:43:11-04:00'
 author: DizkoDan
 layout: post

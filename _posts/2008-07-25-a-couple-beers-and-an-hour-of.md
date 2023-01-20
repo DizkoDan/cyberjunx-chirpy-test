@@ -1,6 +1,6 @@
 ---
 id: 490
-title: 'A couple beers and an hour of ...'
+title: 'A couple beers and an hour of '
 date: '2008-07-25T18:21:20-04:00'
 author: DizkoDan
 layout: post

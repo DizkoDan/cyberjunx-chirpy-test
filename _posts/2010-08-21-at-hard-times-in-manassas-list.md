@@ -1,6 +1,6 @@
 ---
 id: 1338
-title: 'At hard times in manassas list...'
+title: 'At hard times in manassas list'
 date: '2010-08-21T22:25:40-04:00'
 author: DizkoDan
 layout: post

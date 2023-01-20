@@ -1,6 +1,6 @@
 ---
 id: 1000
-title: 'RT @caltort: Leesburg caltort ...'
+title: 'RT @caltort: Leesburg caltort '
 date: '2009-07-24T11:36:10-04:00'
 author: DizkoDan
 layout: post

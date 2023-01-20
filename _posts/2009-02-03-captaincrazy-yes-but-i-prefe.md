@@ -1,6 +1,6 @@
 ---
 id: 660
-title: '@captaincrazy yes, but i prefe...'
+title: '@captaincrazy yes, but i prefe'
 date: '2009-02-03T12:22:51-04:00'
 author: DizkoDan
 layout: post

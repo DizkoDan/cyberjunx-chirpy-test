@@ -1,6 +1,6 @@
 ---
 id: 518
-title: '@justj myspace is the kmart of...'
+title: '@justj myspace is the kmart of'
 date: '2008-09-03T15:45:37-04:00'
 author: DizkoDan
 layout: post

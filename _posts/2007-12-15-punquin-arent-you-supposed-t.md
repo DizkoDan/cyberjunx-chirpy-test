@@ -1,6 +1,6 @@
 ---
 id: 226
-title: '@punquin aren't you supposed t...'
+title: '@punquin aren't you supposed t'
 date: '2007-12-15T18:35:22-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 519
-title: 'Backing up data on my windo2 m...'
+title: 'Backing up data on my windo2 m'
 date: '2008-09-06T00:40:54-04:00'
 author: DizkoDan
 layout: post

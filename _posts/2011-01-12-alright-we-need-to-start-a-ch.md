@@ -1,6 +1,6 @@
 ---
 id: 1512
-title: 'Alright, we need to start a ch...'
+title: 'Alright, we need to start a ch'
 date: '2011-01-12T21:36:37-04:00'
 author: DizkoDan
 layout: post

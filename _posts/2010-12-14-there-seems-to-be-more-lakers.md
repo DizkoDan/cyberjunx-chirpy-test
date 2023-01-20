@@ -1,6 +1,6 @@
 ---
 id: 1491
-title: 'There seems to be more Lakers ...'
+title: 'There seems to be more Lakers '
 date: '2010-12-14T20:21:26-04:00'
 author: DizkoDan
 layout: post

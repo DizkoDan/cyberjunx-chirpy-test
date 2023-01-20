@@ -1,6 +1,6 @@
 ---
 id: 505
-title: '@meltoids fucking awesome! Do ...'
+title: '@meltoids fucking awesome! Do '
 date: '2008-08-07T19:21:02-04:00'
 author: DizkoDan
 layout: post

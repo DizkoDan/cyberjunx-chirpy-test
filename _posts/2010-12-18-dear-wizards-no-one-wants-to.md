@@ -1,6 +1,6 @@
 ---
 id: 1498
-title: 'Dear Wizards, no one wants to ...'
+title: 'Dear Wizards, no one wants to '
 date: '2010-12-18T20:05:29-04:00'
 author: DizkoDan
 layout: post

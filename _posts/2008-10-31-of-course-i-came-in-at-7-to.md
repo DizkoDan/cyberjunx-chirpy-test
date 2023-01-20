@@ -1,6 +1,6 @@
 ---
 id: 576
-title: 'Of course... I came in at 7 to...'
+title: 'Of course... I came in at 7 to'
 date: '2008-10-31T13:05:04-04:00'
 author: DizkoDan
 layout: post

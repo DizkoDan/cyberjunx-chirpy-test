@@ -1,6 +1,6 @@
 ---
 id: 297
-title: 'Just walked like 4 miles in se...'
+title: 'Just walked like 4 miles in se'
 date: '2008-02-05T07:59:05-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/05/just-walked-like-4-miles-in-se/'

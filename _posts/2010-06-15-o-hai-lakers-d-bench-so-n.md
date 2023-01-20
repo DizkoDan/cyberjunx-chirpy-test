@@ -1,6 +1,6 @@
 ---
 id: 1159
-title: 'O hai @Lakers  D &amp; bench. So n...'
+title: 'O hai @Lakers  D &amp; bench. So n'
 date: '2010-06-15T23:37:45-04:00'
 author: DizkoDan
 layout: post

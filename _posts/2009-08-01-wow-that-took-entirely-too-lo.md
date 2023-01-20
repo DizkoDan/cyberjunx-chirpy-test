@@ -1,6 +1,6 @@
 ---
 id: 1011
-title: 'Wow! That took entirely too lo...'
+title: 'Wow! That took entirely too lo'
 date: '2009-08-01T12:38:13-04:00'
 author: DizkoDan
 layout: post

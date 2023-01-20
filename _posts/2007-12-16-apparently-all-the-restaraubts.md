@@ -1,6 +1,6 @@
 ---
 id: 243
-title: 'Apparently all the restaraubts...'
+title: 'Apparently all the restaraubts'
 date: '2007-12-16T16:15:27-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/16/apparently-all-the-restaraubts/'

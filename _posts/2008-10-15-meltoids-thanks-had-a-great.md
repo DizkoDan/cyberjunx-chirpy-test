@@ -1,6 +1,6 @@
 ---
 id: 547
-title: '@meltoids thanks! Had a great ...'
+title: '@meltoids thanks! Had a great '
 date: '2008-10-15T15:45:06-04:00'
 author: DizkoDan
 layout: post

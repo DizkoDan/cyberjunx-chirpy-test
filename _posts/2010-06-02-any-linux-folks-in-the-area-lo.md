@@ -1,6 +1,6 @@
 ---
 id: 1155
-title: 'Any linux folks in the area lo...'
+title: 'Any linux folks in the area lo'
 date: '2010-06-02T11:44:51-04:00'
 author: DizkoDan
 layout: post

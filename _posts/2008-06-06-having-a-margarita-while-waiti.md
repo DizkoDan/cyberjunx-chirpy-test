@@ -1,6 +1,6 @@
 ---
 id: 437
-title: 'Having a margarita while waiti...'
+title: 'Having a margarita while waiti'
 date: '2008-06-06T15:25:19-04:00'
 author: DizkoDan
 layout: post

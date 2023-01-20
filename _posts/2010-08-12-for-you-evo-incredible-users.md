@@ -1,6 +1,6 @@
 ---
 id: 1197
-title: 'For you evo &amp; incredible users...'
+title: 'For you evo &amp; incredible users'
 date: '2010-08-12T03:22:21-04:00'
 author: DizkoDan
 layout: post

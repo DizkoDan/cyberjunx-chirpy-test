@@ -1,6 +1,6 @@
 ---
 id: 387
-title: 'Meshuggah was pretty badass! W...'
+title: 'Meshuggah was pretty badass! W'
 date: '2008-04-26T22:48:59-04:00'
 author: DizkoDan
 layout: post

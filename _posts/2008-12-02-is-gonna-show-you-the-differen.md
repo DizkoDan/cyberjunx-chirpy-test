@@ -1,6 +1,6 @@
 ---
 id: 606
-title: 'is gonna show you the differen...'
+title: 'is gonna show you the differen'
 date: '2008-12-02T10:31:15-04:00'
 author: DizkoDan
 layout: post

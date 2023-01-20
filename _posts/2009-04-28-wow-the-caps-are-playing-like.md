@@ -1,6 +1,6 @@
 ---
 id: 929
-title: 'Wow! The caps are playing like...'
+title: 'Wow! The caps are playing like'
 date: '2009-04-28T20:36:31-04:00'
 author: DizkoDan
 layout: post

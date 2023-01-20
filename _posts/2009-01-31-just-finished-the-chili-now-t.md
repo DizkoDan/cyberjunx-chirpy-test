@@ -1,6 +1,6 @@
 ---
 id: 650
-title: 'just finished the chili, now t...'
+title: 'just finished the chili, now t'
 date: '2009-01-31T17:39:05-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 1525
-title: 'Russian Circles - Station soun...'
+title: 'Russian Circles - Station soun'
 date: '2011-02-03T01:09:00-04:00'
 author: DizkoDan
 layout: post

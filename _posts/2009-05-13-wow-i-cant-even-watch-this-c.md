@@ -1,6 +1,6 @@
 ---
 id: 949
-title: 'Wow! I can't even watch this c...'
+title: 'Wow! I can't even watch this c'
 date: '2009-05-13T20:25:51-04:00'
 author: DizkoDan
 layout: post

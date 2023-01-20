@@ -1,6 +1,6 @@
 ---
 id: 1035
-title: 'Walking the wo&amp;d trail from rt...'
+title: 'Walking the wo&amp;d trail from rt'
 date: '2009-09-10T15:05:30-04:00'
 author: DizkoDan
 layout: post

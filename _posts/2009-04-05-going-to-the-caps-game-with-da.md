@@ -1,6 +1,6 @@
 ---
 id: 909
-title: 'Going to the caps game with Da...'
+title: 'Going to the caps game with Da'
 date: '2009-04-05T15:11:38-04:00'
 author: DizkoDan
 layout: post

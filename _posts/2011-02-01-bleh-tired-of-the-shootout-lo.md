@@ -1,6 +1,6 @@
 ---
 id: 1522
-title: 'Bleh. Tired of the shootout lo...'
+title: 'Bleh. Tired of the shootout lo'
 date: '2011-02-01T23:13:39-04:00'
 author: DizkoDan
 layout: post

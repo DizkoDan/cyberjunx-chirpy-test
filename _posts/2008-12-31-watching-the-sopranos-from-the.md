@@ -1,6 +1,6 @@
 ---
 id: 628
-title: 'watching the sopranos from the...'
+title: 'watching the sopranos from the'
 date: '2008-12-31T14:43:23-04:00'
 author: DizkoDan
 layout: post

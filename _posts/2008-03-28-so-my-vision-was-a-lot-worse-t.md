@@ -1,6 +1,6 @@
 ---
 id: 343
-title: 'So my vision was a lot worse t...'
+title: 'So my vision was a lot worse t'
 date: '2008-03-28T19:39:52-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/28/so-my-vision-was-a-lot-worse-t/'

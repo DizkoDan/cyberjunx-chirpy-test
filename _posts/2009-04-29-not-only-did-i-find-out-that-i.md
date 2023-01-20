@@ -1,6 +1,6 @@
 ---
 id: 931
-title: 'not only did I find out that I...'
+title: 'not only did I find out that I'
 date: '2009-04-29T18:27:05-04:00'
 author: DizkoDan
 layout: post

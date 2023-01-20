@@ -1,6 +1,6 @@
 ---
 id: 355
-title: 'Bored and restless...'
+title: 'Bored and restless'
 date: '2008-04-02T19:17:40-04:00'
 layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/02/bored-and-restless/'

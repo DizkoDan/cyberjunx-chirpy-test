@@ -24,7 +24,7 @@ title: Dan's Worthless Blog                          # the main title
 tagline: Using a key to gouge expletives on another's vehicle is a sign of trust and friendship.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Occasional ramblings from a tech nerd, DIYer, beer geek, and music lover.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://DizkoDan.github.io'
@@ -39,7 +39,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Dan
-  email: example@domain.com             # change to your email address
+  email: dan@half-asleep.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/DizkoDan      # change to your twitter homepage
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/assets/img/favicons/android-chrome-192x192.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -170,6 +170,9 @@ defaults:
 sass:
   style: compressed
 
+show_excerpts: true
+excerpt_separator: <!--end_excerpt-->
+
 compress_html:
   clippings: all
   comments: all
@@ -191,7 +194,7 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [all]
   layouts:
     category: category
     tag: tag

@@ -1,6 +1,6 @@
 ---
 id: 975
-title: 'At merriweather for NIN. Seats...'
+title: 'At merriweather for NIN. Seats'
 date: '2009-06-09T18:36:32-04:00'
 author: DizkoDan
 layout: post

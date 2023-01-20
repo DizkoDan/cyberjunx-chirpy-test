@@ -1,6 +1,6 @@
 ---
 id: 470
-title: 'Got county sticker. Got sammic...'
+title: 'Got county sticker. Got sammic'
 date: '2008-07-07T13:11:06-04:00'
 author: DizkoDan
 layout: post

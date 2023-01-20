@@ -1,6 +1,6 @@
 ---
 id: 1190
-title: 'I'm disappointed in the level ...'
+title: 'I'm disappointed in the level '
 date: '2010-07-20T20:20:39-04:00'
 author: DizkoDan
 layout: post

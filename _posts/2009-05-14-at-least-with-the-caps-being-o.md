@@ -1,6 +1,6 @@
 ---
 id: 950
-title: 'at least with the caps being o...'
+title: 'at least with the caps being o'
 date: '2009-05-14T06:58:33-04:00'
 author: DizkoDan
 layout: post

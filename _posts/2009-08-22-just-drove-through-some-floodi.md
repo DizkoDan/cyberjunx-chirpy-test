@@ -1,6 +1,6 @@
 ---
 id: 1021
-title: 'Just drove through some floodi...'
+title: 'Just drove through some floodi'
 date: '2009-08-22T18:08:07-04:00'
 author: DizkoDan
 layout: post

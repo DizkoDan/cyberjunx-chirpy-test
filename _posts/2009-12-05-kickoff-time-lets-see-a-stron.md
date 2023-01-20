@@ -1,6 +1,6 @@
 ---
 id: 1085
-title: 'Kickoff time. Lets see a stron...'
+title: 'Kickoff time. Lets see a stron'
 date: '2009-12-05T16:40:17-04:00'
 author: DizkoDan
 layout: post

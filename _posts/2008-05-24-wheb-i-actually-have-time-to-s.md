@@ -1,6 +1,6 @@
 ---
 id: 421
-title: 'Wheb I actually have time to s...'
+title: 'Wheb I actually have time to s'
 date: '2008-05-24T18:22:10-04:00'
 author: DizkoDan
 layout: post

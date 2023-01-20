@@ -1,6 +1,6 @@
 ---
 id: 1150
-title: 'RT @LakersReporter: The 32 3-p...'
+title: 'RT @LakersReporter: The 32 3-p'
 date: '2010-05-24T08:40:53-04:00'
 author: DizkoDan
 layout: post

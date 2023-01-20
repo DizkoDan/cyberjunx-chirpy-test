@@ -1,6 +1,6 @@
 ---
 id: 994
-title: 'New cheap trick songs sound li...'
+title: 'New cheap trick songs sound li'
 date: '2009-07-12T19:13:57-04:00'
 author: DizkoDan
 layout: post

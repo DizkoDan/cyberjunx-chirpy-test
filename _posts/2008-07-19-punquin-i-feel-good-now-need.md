@@ -1,6 +1,6 @@
 ---
 id: 489
-title: '@punquin I feel good now. Need...'
+title: '@punquin I feel good now. Need'
 date: '2008-07-19T12:57:50-04:00'
 author: DizkoDan
 layout: post

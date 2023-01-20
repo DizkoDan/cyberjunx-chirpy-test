@@ -1,6 +1,6 @@
 ---
 id: 998
-title: 'That was tasty. @counterburger...'
+title: 'That was tasty. @counterburger'
 date: '2009-07-15T12:25:25-04:00'
 author: DizkoDan
 layout: post

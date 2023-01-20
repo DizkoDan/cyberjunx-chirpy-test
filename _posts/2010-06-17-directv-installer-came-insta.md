@@ -1,6 +1,6 @@
 ---
 id: 1162
-title: 'DirecTV installer came &amp; insta...'
+title: 'DirecTV installer came &amp; insta'
 date: '2010-06-17T15:31:35-04:00'
 author: DizkoDan
 layout: post

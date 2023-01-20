@@ -1,6 +1,6 @@
 ---
 id: 592
-title: 'getting my hair cut, then FOOD...'
+title: 'getting my hair cut, then FOOD'
 date: '2008-11-19T19:28:08-04:00'
 author: DizkoDan
 layout: post

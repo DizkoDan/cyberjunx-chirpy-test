@@ -1,6 +1,6 @@
 ---
 id: 947
-title: 'Game 7 bitches! Way to go caps...'
+title: 'Game 7 bitches! Way to go caps'
 date: '2009-05-11T21:58:30-04:00'
 author: DizkoDan
 layout: post

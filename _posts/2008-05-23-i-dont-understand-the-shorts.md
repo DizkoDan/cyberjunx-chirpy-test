@@ -1,6 +1,6 @@
 ---
 id: 416
-title: 'I don't understand the shorts ...'
+title: 'I don't understand the shorts '
 date: '2008-05-23T15:00:51-04:00'
 author: DizkoDan
 layout: post

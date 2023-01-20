@@ -1,6 +1,6 @@
 ---
 id: 1067
-title: 'Spent about 2.5 hrs raking up ...'
+title: 'Spent about 2.5 hrs raking up '
 date: '2009-11-07T17:07:13-04:00'
 author: DizkoDan
 layout: post

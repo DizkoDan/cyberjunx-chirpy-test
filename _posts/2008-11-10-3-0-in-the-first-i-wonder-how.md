@@ -1,6 +1,6 @@
 ---
 id: 585
-title: '3-0 in the first. I wonder how...'
+title: '3-0 in the first. I wonder how'
 date: '2008-11-10T20:37:37-04:00'
 author: DizkoDan
 layout: post

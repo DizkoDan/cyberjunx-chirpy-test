@@ -1,6 +1,6 @@
 ---
 id: 1483
-title: 'How did Criner get *that* open...'
+title: 'How did Criner get *that* open'
 date: '2010-11-26T20:48:36-04:00'
 author: DizkoDan
 layout: post

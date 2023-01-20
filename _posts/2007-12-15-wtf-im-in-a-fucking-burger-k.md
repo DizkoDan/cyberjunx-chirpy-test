@@ -1,6 +1,6 @@
 ---
 id: 223
-title: 'Wtf? I'm in a fucking burger k...'
+title: 'Wtf? I'm in a fucking burger k'
 date: '2007-12-15T19:07:00-04:00'
 author: DizkoDan
 layout: post

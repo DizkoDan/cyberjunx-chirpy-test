@@ -1,6 +1,6 @@
 ---
 id: 427
-title: 'Cricket is the dumbest sport e...'
+title: 'Cricket is the dumbest sport e'
 date: '2008-05-25T15:44:27-04:00'
 author: DizkoDan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 587
-title: 'Wow! The caps actually won! Co...'
+title: 'Wow! The caps actually won! Co'
 date: '2008-11-10T22:34:42-04:00'
 author: DizkoDan
 layout: post

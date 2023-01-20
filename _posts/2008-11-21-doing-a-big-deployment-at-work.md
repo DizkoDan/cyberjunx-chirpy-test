@@ -1,6 +1,6 @@
 ---
 id: 595
-title: 'doing a big deployment at work...'
+title: 'doing a big deployment at work'
 date: '2008-11-21T04:24:00-04:00'
 author: DizkoDan
 layout: post

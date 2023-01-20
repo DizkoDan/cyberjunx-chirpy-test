@@ -1,6 +1,6 @@
 ---
 id: 235
-title: 'Drinking tea and eating a muff...'
+title: 'Drinking tea and eating a muff'
 date: '2007-12-15T07:55:55-04:00'
 author: DizkoDan
 layout: post
