@@ -1,0 +1,49 @@
+---
+id: 700
+title: 'Foxmarks Bookmark Syncing Available for Internet Explorer, Safari'
+date: '2009-02-05T10:05:00-04:00'
+author: DizkoDan
+excerpt: ' <p><img src="http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks_ie_splash.png" width="504" height="215" style="display:block;" />Windows/Mac: Foxmarks, our favorite way to keep Firefox bookmarks synced across computers, is now offered for <a class="autolink" title="Click here to read more posts tagged INTERNET EXPLORER" href="http://lifehacker.com/tag/internet-explorer/">Internet Explorer</a> and Safari, giving anyone with multiple computers or browsers a pain-free way to keep it all together.</p> <p>Foxmarks offers basically the same type of background bookmark-syncing awesomeness for IE and Safari as it does for Firefox, with a few key exceptions:</p> <ul> <li><strong>No password syncing:</strong> A tough break, but not too hard to overcome by <a href="http://lifehacker.com/5063176/how-to-use-dropbox-as-the-ultimate-password-syncer">using Dropbox as a cross-platform password syncer</a>.</li> <li><strong>No <a href="http://lifehacker.com/software/bookmarks/hack-attack-back-up-and-sync-your-firefox-bookmarks-with-your-personal-server-235519.php">syncing bookmarks to your own server</a>:</strong> Probably not a deal-breaker for most users, but we hope it makes a showing some day soon.</li> <li><strong>iPhone sync only for Mac Safari:</strong> Actually, this isn''t a feature Foxmarks even offers for Firefox, so it''s kind of a bonus.</li> </ul> <br /> If you''re still down to try out Foxmarks in its newest forms, head to the <a href="http://download.foxmarks.com/download/all">Foxmarks downloads</a> page and grab your appropriate installer. I lack a Mac system, so I''ll be stepping through an Internet Explorer setup below. <p>Double-click the installer, accept all the standard "Do you want ..." and "Allow ..." prompts, and you''ll be asked to either create a Foxmarks account or sign in with the one you''ve got. After verification, you''ll end up at this simple screen, familiar to Foxmarks veterans:<br /> <img src="http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks1.png" width="516" height="225" class="center" align="center"/><br /></p> <p>The default action, if you simply hit "Synchronize," is for Foxmarks to merge any favorites you''ve got on your system with anything backed up in your Foxmarks cloud. That''s fine for newcomers, but I generally like to get rid of all of the pre-loaded MSN, Windows Live, and similar bookmarks, so let''s hit "Change sync settings" and switch it up:</p> <p><img src="http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks2.png" width="510" height="265" class="center" align="center"/><br /></p> <p><img src="http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks3.png" width="342" height="123"/>After that, Foxmarks gets going. Instead of installing an icon in Internet Explorer''s bottom status bar, Foxmarks plants itself in your system tray. You''ll see it pop up a notification when it''s done grabbing or placing bookmarks to/from the servers. Right-clicking this icon gives you access to your Foxmarks settings, can open up your web-based bookmarks browser, and close down the Foxmarks process. It seems to run whether or not you''ve got IE up and running, which is somewhat memory insensitive, but also convenient for those who open and close their browser regularly.</p> <p>The Foxmarks options are similar to what Firefox users have been used to: a quick-sync button, choices on how and when Foxmarks synchronizes, and, best of all, the same kind of <a href="http://lifehacker.com/398099/foxmarks-gets-selective-bookmark-syncing">computer-by-computer selective bookmark syncing</a>, or "profiles."</p> <p><img src="http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks4.png" width="438" height="475" class="center" align="center"/><br /></p> <p>And here''s the advanced options, where you can change your encryption demands, force a server- or computer-wiping sync, and turn off that Foxmarks tray icon. Turning off the icon still lets you at the Foxmarks options from IE''s "Tools" menu:</p> <p><img src="http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks5.png" width="468" height="479" class="center" align="center"/><br /></p> <p>Here''s a video tour of Foxmarks features, composed by Walt Mossberg of the Wall Street Journal/All Things Digital. It''s somewhat introductory-level, but covers a lot of ground (and here''s his <a href="http://ptech.allthingsd.com/20090204/synchronizing-your-bookmarks-on-all-your-pcs/">full, positive review of Foxmarks'' functionality</a>.</p> <p></p> <p>Safari users, be sure to tell us how Foxmarks is working for you. Does tri-browser Foxmarks open up a new realm of synchronized browsing? Waiting for just one more platform (noting that mobile access is, of course, <a href="http://lifehacker.com/5054193/foxmarks-takes-your-bookmarks-mobile">already covered</a>)? Give us your reviews in the comments.</p> <div class="related"><a href="http://www.foxmarks.com/">Foxmarks</a></div> '
+layout: post
+guid: Lifehacker-5146921
+permalink: /2009/02/05/foxmarks-bookmark-syncing-available-for-internet-explorer-safari/
+aktt_notify_twitter:
+    - 'no'
+tags:
+    - 'get stuff done'
+    - Lifehacker
+    - 'tech tips'
+---
+
+![](http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks_ie_splash.png)Windows/Mac: Foxmarks, our favorite way to keep Firefox bookmarks synced across computers, is now offered for [Internet Explorer](http://lifehacker.com/tag/internet-explorer/ "Click here to read more posts tagged INTERNET EXPLORER") and Safari, giving anyone with multiple computers or browsers a pain-free way to keep it all together.
+
+Foxmarks offers basically the same type of background bookmark-syncing awesomeness for IE and Safari as it does for Firefox, with a few key exceptions:
+
+- **No password syncing:** A tough break, but not too hard to overcome by [using Dropbox as a cross-platform password syncer](http://lifehacker.com/5063176/how-to-use-dropbox-as-the-ultimate-password-syncer).
+- **No [syncing bookmarks to your own server](http://lifehacker.com/software/bookmarks/hack-attack-back-up-and-sync-your-firefox-bookmarks-with-your-personal-server-235519.php):** Probably not a deal-breaker for most users, but we hope it makes a showing some day soon.
+- **iPhone sync only for Mac Safari:** Actually, this isn’t a feature Foxmarks even offers for Firefox, so it’s kind of a bonus.
+
+ If you’re still down to try out Foxmarks in its newest forms, head to the [Foxmarks downloads](http://download.foxmarks.com/download/all) page and grab your appropriate installer. I lack a Mac system, so I’ll be stepping through an Internet Explorer setup below.
+
+Double-click the installer, accept all the standard “Do you want …” and “Allow …” prompts, and you’ll be asked to either create a Foxmarks account or sign in with the one you’ve got. After verification, you’ll end up at this simple screen, familiar to Foxmarks veterans:  
+![](http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks1.png)
+
+The default action, if you simply hit “Synchronize,” is for Foxmarks to merge any favorites you’ve got on your system with anything backed up in your Foxmarks cloud. That’s fine for newcomers, but I generally like to get rid of all of the pre-loaded MSN, Windows Live, and similar bookmarks, so let’s hit “Change sync settings” and switch it up:
+
+![](http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks2.png)
+
+![](http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks3.png)After that, Foxmarks gets going. Instead of installing an icon in Internet Explorer’s bottom status bar, Foxmarks plants itself in your system tray. You’ll see it pop up a notification when it’s done grabbing or placing bookmarks to/from the servers. Right-clicking this icon gives you access to your Foxmarks settings, can open up your web-based bookmarks browser, and close down the Foxmarks process. It seems to run whether or not you’ve got IE up and running, which is somewhat memory insensitive, but also convenient for those who open and close their browser regularly.
+
+The Foxmarks options are similar to what Firefox users have been used to: a quick-sync button, choices on how and when Foxmarks synchronizes, and, best of all, the same kind of [computer-by-computer selective bookmark syncing](http://lifehacker.com/398099/foxmarks-gets-selective-bookmark-syncing), or “profiles.”
+
+![](http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks4.png)
+
+And here’s the advanced options, where you can change your encryption demands, force a server- or computer-wiping sync, and turn off that Foxmarks tray icon. Turning off the icon still lets you at the Foxmarks options from IE’s “Tools” menu:
+
+![](http://cache.gawker.com/assets/images/lifehacker/2009/02/foxmarks5.png)
+
+Here’s a video tour of Foxmarks features, composed by Walt Mossberg of the Wall Street Journal/All Things Digital. It’s somewhat introductory-level, but covers a lot of ground (and here’s his [full, positive review of Foxmarks’ functionality](http://ptech.allthingsd.com/20090204/synchronizing-your-bookmarks-on-all-your-pcs/).
+
+Safari users, be sure to tell us how Foxmarks is working for you. Does tri-browser Foxmarks open up a new realm of synchronized browsing? Waiting for just one more platform (noting that mobile access is, of course, [already covered](http://lifehacker.com/5054193/foxmarks-takes-your-bookmarks-mobile))? Give us your reviews in the comments.
+
+<div class="related">[Foxmarks](http://www.foxmarks.com/)</div>
