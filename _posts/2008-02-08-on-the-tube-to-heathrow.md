@@ -2,7 +2,7 @@
 id: 305
 title: "On the tube to heathrow."
 date: 2008-02-08T05:33:52-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/08/on-the-tube-to-heathrow/'
 permalink: /2008/02/08/on-the-tube-to-heathrow/
 ljID:

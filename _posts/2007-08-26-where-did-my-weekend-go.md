@@ -3,7 +3,7 @@ id: 199
 title: "Where did my weekend go?"
 date: 2007-08-26T21:08:52-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/08/26/where-did-my-weekend-go/'
 permalink: /2007/08/26/where-did-my-weekend-go/
 ljID:

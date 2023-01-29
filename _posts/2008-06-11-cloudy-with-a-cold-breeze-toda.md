@@ -3,7 +3,7 @@ id: 448
 title: "Cloudy with a cold breeze toda"
 date: 2008-06-11T14:40:09-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/11/cloudy-with-a-cold-breeze-toda/'
 permalink: /2008/06/11/cloudy-with-a-cold-breeze-toda/
 ljID:

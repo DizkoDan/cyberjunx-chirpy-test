@@ -3,7 +3,7 @@ id: 959
 title: "half day then 3 day weekend. h"
 date: 2009-05-22T07:18:47-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/22/half-day-then-3-day-weekend-h/'
 permalink: /2009/05/22/half-day-then-3-day-weekend-h/
 aktt_notify_twitter:

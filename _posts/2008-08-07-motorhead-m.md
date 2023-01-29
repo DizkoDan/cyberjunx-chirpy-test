@@ -3,7 +3,7 @@ id: 504
 title: Motorhead \m/
 date: 2008-08-07T18:43:14-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/08/07/motorhead-m/'
 permalink: /2008/08/07/motorhead-m/
 ljID:

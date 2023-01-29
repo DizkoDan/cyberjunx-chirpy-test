@@ -3,7 +3,7 @@ id: 953
 title: "For all you mac fans jealous o"
 date: 2009-05-19T06:05:52-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/19/for-all-you-mac-fans-jealous-o/'
 permalink: /2009/05/19/for-all-you-mac-fans-jealous-o/
 aktt_notify_twitter:

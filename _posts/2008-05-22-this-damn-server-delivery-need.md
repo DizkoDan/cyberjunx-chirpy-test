@@ -3,7 +3,7 @@ id: 412
 title: "This damn server delivery need"
 date: 2008-05-22T12:45:43-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/22/this-damn-server-delivery-need/'
 permalink: /2008/05/22/this-damn-server-delivery-need/
 ljID:

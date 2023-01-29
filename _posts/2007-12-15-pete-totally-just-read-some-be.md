@@ -3,7 +3,7 @@ id: 227
 title: "Pete totally just read some be"
 date: 2007-12-15T18:10:52-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/15/pete-totally-just-read-some-be/'
 permalink: /2007/12/15/pete-totally-just-read-some-be/
 ljID:

@@ -2,7 +2,7 @@
 id: 312
 title: "@punquin Yes, it is Friday. Di"
 date: 2008-02-25T18:39:47-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/25/punquin-yes-it-is-friday-di/'
 permalink: /2008/02/25/punquin-yes-it-is-friday-di/
 ljID:

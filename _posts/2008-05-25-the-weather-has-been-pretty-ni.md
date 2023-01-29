@@ -3,7 +3,7 @@ id: 424
 title: "The weather has been pretty ni"
 date: 2008-05-25T03:40:56-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/25/the-weather-has-been-pretty-ni/'
 permalink: /2008/05/25/the-weather-has-been-pretty-ni/
 ljID:

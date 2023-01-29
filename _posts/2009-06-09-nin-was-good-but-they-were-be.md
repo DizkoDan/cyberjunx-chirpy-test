@@ -3,7 +3,7 @@ id: 977
 title: "NIN was good, but they were be"
 date: 2009-06-09T21:35:21-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/06/09/nin-was-good-but-they-were-be/'
 permalink: /2009/06/09/nin-was-good-but-they-were-be/
 aktt_notify_twitter:

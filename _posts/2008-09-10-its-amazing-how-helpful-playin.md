@@ -3,7 +3,7 @@ id: 521
 title: "Its amazing how helpful playin"
 date: 2008-09-10T18:01:44-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/10/its-amazing-how-helpful-playin/'
 permalink: /2008/09/10/its-amazing-how-helpful-playin/
 ljID:

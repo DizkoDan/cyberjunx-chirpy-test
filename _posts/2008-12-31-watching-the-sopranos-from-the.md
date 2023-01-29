@@ -3,7 +3,7 @@ id: 628
 title: "watching the sopranos from the"
 date: 2008-12-31T14:43:23-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/12/31/watching-the-sopranos-from-the/'
 permalink: /2008/12/31/watching-the-sopranos-from-the/
 aktt_notify_twitter:

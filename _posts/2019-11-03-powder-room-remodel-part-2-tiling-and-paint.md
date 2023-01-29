@@ -3,7 +3,7 @@ id: 2063
 title: "Powder Room Remodel Part 2&#58; Tiling and Paint"
 date: 2019-11-03T20:42:02-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'https://cyberjunx.com/?p=2063'
 permalink: /2019/11/03/powder-room-remodel-part-2-tiling-and-paint/
 tc-thumb-fld:

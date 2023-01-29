@@ -3,7 +3,7 @@ id: 451
 title: "Its 9&#58;45 and the band hasnt c'"
 date: 2008-06-11T23:44:57-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/11/its-945-and-the-band-hasnt-c/'
 permalink: /2008/06/11/its-945-and-the-band-hasnt-c/
 ljID:

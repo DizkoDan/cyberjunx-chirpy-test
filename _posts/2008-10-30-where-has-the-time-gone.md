@@ -3,7 +3,7 @@ id: 570
 title: "Where has the time gone?"
 date: 2008-10-30T08:49:33-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=570'
 permalink: /2008/10/30/where-has-the-time-gone/
 ljID:

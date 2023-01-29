@@ -3,7 +3,7 @@ id: 216
 title: "Take off the fat dress, and get on the mattress!"
 date: 2007-11-02T10:08:56-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/11/02/take-off-the-fat-dress-and-get-on-the-mattress/'
 permalink: /2007/11/02/take-off-the-fat-dress-and-get-on-the-mattress/
 ljID:

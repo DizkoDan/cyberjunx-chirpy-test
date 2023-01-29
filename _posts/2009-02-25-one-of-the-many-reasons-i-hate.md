@@ -3,7 +3,7 @@ id: 861
 title: "one of the many reasons I hate"
 date: 2009-02-25T08:34:32-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/02/25/one-of-the-many-reasons-i-hate/'
 permalink: /2009/02/25/one-of-the-many-reasons-i-hate/
 aktt_notify_twitter:

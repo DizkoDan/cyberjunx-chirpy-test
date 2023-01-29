@@ -3,7 +3,7 @@ id: 62
 title: Hellz Yeah! \../
 date: 2001-06-21T11:59:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=62'
 permalink: /2001/06/21/hellz-yeah/
 ljID:

@@ -2,7 +2,7 @@
 id: 251
 title: "Watching grandmas boy again. '"
 date: 2007-12-18T18:48:54-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/18/watching-grandmas-boy-again/'
 permalink: /2007/12/18/watching-grandmas-boy-again/
 ljID:

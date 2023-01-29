@@ -3,7 +3,7 @@ id: 468
 title: "Just watched wall-e. Was cute."
 date: 2008-07-06T18:06:30-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/06/just-watched-wall-e-was-cute/'
 permalink: /2008/07/06/just-watched-wall-e-was-cute/
 ljID:

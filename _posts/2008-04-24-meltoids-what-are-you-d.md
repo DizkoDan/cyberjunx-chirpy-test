@@ -3,7 +3,7 @@ id: 381
 title: "@meltoids &quot;what are you d"
 date: 2008-04-24T12:27:10-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/24/meltoids-what-are-you-d/'
 permalink: /2008/04/24/meltoids-what-are-you-d/
 ljID:

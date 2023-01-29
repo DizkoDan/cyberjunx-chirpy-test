@@ -3,7 +3,7 @@ id: 868
 title: "Waited like 40 mins at dentist"
 date: 2009-03-03T20:50:25-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/03/03/waited-like-40-mins-at-dentist/'
 permalink: /2009/03/03/waited-like-40-mins-at-dentist/
 aktt_notify_twitter:

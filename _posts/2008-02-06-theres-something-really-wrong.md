@@ -2,7 +2,7 @@
 id: 301
 title: "Theres something really wrong'"
 date: 2008-02-06T15:08:02-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/06/theres-something-really-wrong/'
 permalink: /2008/02/06/theres-something-really-wrong/
 ljID:

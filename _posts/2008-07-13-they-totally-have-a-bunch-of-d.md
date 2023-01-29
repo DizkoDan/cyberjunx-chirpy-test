@@ -3,7 +3,7 @@ id: 478
 title: "They totally have a bunch of d"
 date: 2008-07-13T20:43:19-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/13/they-totally-have-a-bunch-of-d/'
 permalink: /2008/07/13/they-totally-have-a-bunch-of-d/
 ljID:

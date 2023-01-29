@@ -3,7 +3,7 @@ id: 1827
 title: "Guest Bathroom Remodel Part 1&#58; The What and Why?"
 date: 2018-10-30T13:55:21-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://cyberjunx.com/?p=1827'
 permalink: /2018/10/30/guest-bathroom-remodel-part-1-the-what-and-why/
 categories:

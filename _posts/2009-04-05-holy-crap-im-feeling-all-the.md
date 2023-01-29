@@ -3,7 +3,7 @@ id: 911
 title: "Holy crap Im feeling all the '"
 date: 2009-04-05T22:48:49-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/05/holy-crap-im-feeling-all-the/'
 permalink: /2009/04/05/holy-crap-im-feeling-all-the/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 1024
 title: "I am a dumbass &amp; left my lapto"
 date: 2009-08-28T10:22:30-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/08/28/i-am-a-dumbass-left-my-lapto/'
 permalink: /2009/08/28/i-am-a-dumbass-left-my-lapto/
 aktt_notify_twitter:

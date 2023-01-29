@@ -3,7 +3,7 @@ id: 1488
 title: "This is a pretty (scary) aweso"
 date: 2010-12-10T21:07:47-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/12/10/this-is-a-pretty-scary-aweso/'
 permalink: /2010/12/10/this-is-a-pretty-scary-aweso/
 aktt_notify_twitter:

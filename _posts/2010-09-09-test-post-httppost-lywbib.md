@@ -3,7 +3,7 @@ id: 1413
 title: "Test post http&#58;//post.ly/wbIB"
 date: 2010-09-09T16:42:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/09/09/test-post-httppost-lywbib/'
 permalink: /2010/09/09/test-post-httppost-lywbib/
 aktt_notify_twitter:

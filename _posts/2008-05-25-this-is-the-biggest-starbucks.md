@@ -3,7 +3,7 @@ id: 425
 title: "This is the biggest starbucks "
 date: 2008-05-25T04:49:03-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/25/this-is-the-biggest-starbucks/'
 permalink: /2008/05/25/this-is-the-biggest-starbucks/
 ljID:

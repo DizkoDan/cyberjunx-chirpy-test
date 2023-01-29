@@ -3,7 +3,7 @@ id: 1951
 title: "Guest Bathroom Remodel Part 7&#58; So Close to Tile!"
 date: 2018-12-05T13:07:19-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'https://cyberjunx.com/?p=1951'
 permalink: /2018/12/05/guest-bathroom-remodel-part-7-so-close-to-tile/
 tc-thumb-fld:

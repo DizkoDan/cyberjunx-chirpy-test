@@ -3,7 +3,7 @@ id: 1532
 title: "I hate having a weak bronchial"
 date: 2011-02-18T09:57:11-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/18/i-hate-having-a-weak-bronchial/'
 permalink: /2011/02/18/i-hate-having-a-weak-bronchial/
 aktt_notify_twitter:

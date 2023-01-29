@@ -3,7 +3,7 @@ id: 395
 title: "At ruby tuesday for dinner. Re"
 date: 2008-05-12T21:17:23-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/12/at-ruby-tuesday-for-dinner-re/'
 permalink: /2008/05/12/at-ruby-tuesday-for-dinner-re/
 ljID:

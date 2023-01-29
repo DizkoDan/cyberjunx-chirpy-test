@@ -3,7 +3,7 @@ id: 1485
 title: "Great game, but Boise.... wtf?"
 date: 2010-11-27T02:53:37-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/27/great-game-but-boise-wtf/'
 permalink: /2010/11/27/great-game-but-boise-wtf/
 aktt_notify_twitter:

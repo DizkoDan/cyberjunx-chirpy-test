@@ -3,7 +3,7 @@ id: 981
 title: "Lake show! @lakers Is tonight "
 date: 2009-06-14T20:01:48-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/06/14/lake-show-lakers-is-tonight/'
 permalink: /2009/06/14/lake-show-lakers-is-tonight/
 aktt_notify_twitter:

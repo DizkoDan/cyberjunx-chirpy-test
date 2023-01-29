@@ -3,7 +3,7 @@ id: 1503
 title: "ugh. hate shootouts. great gam"
 date: 2010-12-23T23:03:49-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/12/23/ugh-hate-shootouts-great-gam/'
 permalink: /2010/12/23/ugh-hate-shootouts-great-gam/
 aktt_notify_twitter:

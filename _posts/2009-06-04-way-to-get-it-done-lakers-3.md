@@ -3,7 +3,7 @@ id: 970
 title: "Way to get it done @lakers! 3 "
 date: 2009-06-04T23:36:35-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/06/04/way-to-get-it-done-lakers-3/'
 permalink: /2009/06/04/way-to-get-it-done-lakers-3/
 aktt_notify_twitter:

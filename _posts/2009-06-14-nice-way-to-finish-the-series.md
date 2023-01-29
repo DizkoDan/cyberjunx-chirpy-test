@@ -3,7 +3,7 @@ id: 982
 title: "Nice way to finish the series "
 date: 2009-06-14T22:40:55-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/06/14/nice-way-to-finish-the-series/'
 permalink: /2009/06/14/nice-way-to-finish-the-series/
 aktt_notify_twitter:

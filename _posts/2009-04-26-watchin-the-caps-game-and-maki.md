@@ -3,7 +3,7 @@ id: 927
 title: "Watchin the caps game and maki"
 date: 2009-04-26T15:00:59-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/26/watchin-the-caps-game-and-maki/'
 permalink: /2009/04/26/watchin-the-caps-game-and-maki/
 aktt_notify_twitter:

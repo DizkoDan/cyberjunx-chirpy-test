@@ -3,7 +3,7 @@ id: 845
 title: "Just found out that I *could* "
 date: 2009-02-17T17:48:03-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/02/17/just-found-out-that-i-could/'
 permalink: /2009/02/17/just-found-out-that-i-could/
 aktt_notify_twitter:

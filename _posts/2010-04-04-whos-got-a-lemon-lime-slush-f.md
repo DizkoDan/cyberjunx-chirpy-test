@@ -3,7 +3,7 @@ id: 1114
 title: "Whos got a lemon-lime slush f'"
 date: 2010-04-04T16:19:25-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/04/04/whos-got-a-lemon-lime-slush-f/'
 permalink: /2010/04/04/whos-got-a-lemon-lime-slush-f/
 categories:

@@ -3,7 +3,7 @@ id: 221
 title: "bedtime now. gonna take tomorr"
 date: 2007-12-15T21:13:26-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/15/bedtime-now-gonna-take-tomorr/'
 permalink: /2007/12/15/bedtime-now-gonna-take-tomorr/
 ljID:

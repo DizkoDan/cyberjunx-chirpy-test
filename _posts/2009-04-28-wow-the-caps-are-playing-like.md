@@ -3,7 +3,7 @@ id: 929
 title: "Wow! The caps are playing like"
 date: 2009-04-28T20:36:31-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/28/wow-the-caps-are-playing-like/'
 permalink: /2009/04/28/wow-the-caps-are-playing-like/
 aktt_notify_twitter:

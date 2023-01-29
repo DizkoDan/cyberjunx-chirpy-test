@@ -3,7 +3,7 @@ id: 1491
 title: "There seems to be more Lakers "
 date: 2010-12-14T20:21:26-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/12/14/there-seems-to-be-more-lakers/'
 permalink: /2010/12/14/there-seems-to-be-more-lakers/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 1439
 title: "If youre gonna sign up for ho'"
 date: 2010-09-23T07:23:10-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/09/23/if-youre-gonna-sign-up-for-ho/'
 permalink: /2010/09/23/if-youre-gonna-sign-up-for-ho/
 aktt_notify_twitter:

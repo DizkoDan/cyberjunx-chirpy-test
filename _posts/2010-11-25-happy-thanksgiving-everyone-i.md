@@ -3,7 +3,7 @@ id: 1481
 title: "Happy Thanksgiving everyone! I"
 date: 2010-11-25T14:24:43-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/25/happy-thanksgiving-everyone-i/'
 permalink: /2010/11/25/happy-thanksgiving-everyone-i/
 aktt_notify_twitter:

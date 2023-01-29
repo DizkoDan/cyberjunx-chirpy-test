@@ -3,7 +3,7 @@ id: 231
 title: "The women here are all very pr"
 date: 2007-12-15T16:48:07-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/15/the-women-here-are-all-very-pr/'
 permalink: /2007/12/15/the-women-here-are-all-very-pr/
 ljID:

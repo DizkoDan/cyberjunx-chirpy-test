@@ -2,7 +2,7 @@
 id: 302
 title: "Walking back to my hotel from "
 date: 2008-02-06T19:55:03-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/06/walking-back-to-my-hotel-from/'
 permalink: /2008/02/06/walking-back-to-my-hotel-from/
 ljID:

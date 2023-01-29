@@ -3,7 +3,7 @@ id: 1438
 title: "Yay! RT @sweetgreen&#58; Our new R"
 date: 2010-09-21T10:34:19-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/09/21/yay-rt-sweetgreen-our-new-r/'
 permalink: /2010/09/21/yay-rt-sweetgreen-our-new-r/
 aktt_notify_twitter:

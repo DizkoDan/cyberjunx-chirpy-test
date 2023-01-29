@@ -3,7 +3,7 @@ id: 2008
 title: "Guest Bathroom Remodel Part 10&#58; Finally done (a long time ago)"
 date: 2019-09-26T22:34:26-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'https://cyberjunx.com/?p=2008'
 permalink: /2019/09/26/guest-bathroom-remodel-part-10-finally-done-a-long-time-ago/
 tc-thumb-fld:

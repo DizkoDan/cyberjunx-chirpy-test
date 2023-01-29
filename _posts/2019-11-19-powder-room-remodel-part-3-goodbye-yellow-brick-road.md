@@ -3,7 +3,7 @@ id: 2093
 title: "Powder Room Remodel Part 3&#58; Goodbye Yellow Brick Road"
 date: 2019-11-19T16:22:40-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'https://cyberjunx.com/?p=2093'
 permalink: /2019/11/19/powder-room-remodel-part-3-goodbye-yellow-brick-road/
 tc-thumb-fld:

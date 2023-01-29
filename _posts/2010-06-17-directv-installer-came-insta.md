@@ -3,7 +3,7 @@ id: 1162
 title: "DirecTV installer came &amp; insta"
 date: 2010-06-17T15:31:35-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/06/17/directv-installer-came-insta/'
 permalink: /2010/06/17/directv-installer-came-insta/
 categories:

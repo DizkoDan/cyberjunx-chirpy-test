@@ -3,7 +3,7 @@ id: 611
 title: "going to potomac mills for lac"
 date: 2008-12-07T13:25:19-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/12/07/going-to-potomac-mills-for-lac/'
 permalink: /2008/12/07/going-to-potomac-mills-for-lac/
 ljID:

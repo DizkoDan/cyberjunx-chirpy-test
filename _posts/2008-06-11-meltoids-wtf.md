@@ -3,7 +3,7 @@ id: 449
 title: "@meltoids wtf?!?"
 date: 2008-06-11T22:17:24-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/11/meltoids-wtf/'
 permalink: /2008/06/11/meltoids-wtf/
 ljID:

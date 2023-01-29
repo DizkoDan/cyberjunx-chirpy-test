@@ -3,7 +3,7 @@ id: 907
 title: "Wondering why I have Aldo Nova"
 date: 2009-04-02T18:02:14-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/02/wondering-why-i-have-aldo-nova/'
 permalink: /2009/04/02/wondering-why-i-have-aldo-nova/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 1433
 title: "What is the deal with people u"
 date: 2010-09-16T10:06:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/09/16/what-is-the-deal-with-people-u/'
 permalink: /2010/09/16/what-is-the-deal-with-people-u/
 aktt_notify_twitter:

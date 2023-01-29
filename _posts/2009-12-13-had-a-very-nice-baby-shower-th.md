@@ -3,7 +3,7 @@ id: 1089
 title: "Had a very nice baby shower th"
 date: 2009-12-13T21:44:44-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/12/13/had-a-very-nice-baby-shower-th/'
 permalink: /2009/12/13/had-a-very-nice-baby-shower-th/
 aktt_notify_twitter:

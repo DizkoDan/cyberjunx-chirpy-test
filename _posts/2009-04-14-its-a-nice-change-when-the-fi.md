@@ -3,7 +3,7 @@ id: 916
 title: "Its a nice change when the fi'"
 date: 2009-04-14T08:04:45-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/14/its-a-nice-change-when-the-fi/'
 permalink: /2009/04/14/its-a-nice-change-when-the-fi/
 aktt_notify_twitter:

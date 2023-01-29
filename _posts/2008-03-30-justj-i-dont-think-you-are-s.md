@@ -2,7 +2,7 @@
 id: 348
 title: "@justj I dont think you are s'"
 date: 2008-03-30T15:55:02-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/30/justj-i-dont-think-you-are-s/'
 permalink: /2008/03/30/justj-i-dont-think-you-are-s/
 ljID:

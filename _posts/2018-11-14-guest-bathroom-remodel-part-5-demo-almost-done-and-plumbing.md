@@ -3,7 +3,7 @@ id: 1890
 title: "Guest Bathroom Remodel Part 5&#58; Demo Almost Done and Plumbing!"
 date: 2018-11-14T15:57:11-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://cyberjunx.com/?p=1890'
 permalink: /2018/11/14/guest-bathroom-remodel-part-5-demo-almost-done-and-plumbing/
 tc-thumb-fld:

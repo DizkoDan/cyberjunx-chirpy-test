@@ -3,7 +3,7 @@ id: 1088
 title: "Maybe its just me, but if Im '"
 date: 2009-12-10T15:47:10-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/12/10/maybe-its-just-me-but-if-im/'
 permalink: /2009/12/10/maybe-its-just-me-but-if-im/
 aktt_notify_twitter:

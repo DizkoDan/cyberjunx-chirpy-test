@@ -3,7 +3,7 @@ id: 1408
 title: "Lost the big beer game, but wo"
 date: 2010-09-06T18:54:02-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/09/06/lost-the-big-beer-game-but-wo/'
 permalink: /2010/09/06/lost-the-big-beer-game-but-wo/
 aktt_notify_twitter:

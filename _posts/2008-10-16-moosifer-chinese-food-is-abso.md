@@ -3,7 +3,7 @@ id: 551
 title: "@Moosifer chinese food is abso"
 date: 2008-10-16T20:04:02-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/16/moosifer-chinese-food-is-abso/'
 permalink: /2008/10/16/moosifer-chinese-food-is-abso/
 ljID:

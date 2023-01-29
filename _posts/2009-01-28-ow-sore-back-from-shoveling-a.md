@@ -3,7 +3,7 @@ id: 643
 title: "Ow! Sore back from shoveling a"
 date: 2009-01-28T15:12:55-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/01/28/ow-sore-back-from-shoveling-a/'
 permalink: /2009/01/28/ow-sore-back-from-shoveling-a/
 aktt_notify_twitter:

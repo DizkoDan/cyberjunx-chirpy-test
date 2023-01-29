@@ -3,7 +3,7 @@ id: 917
 title: "working a half day today, then"
 date: 2009-04-17T09:40:45-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/17/working-a-half-day-today-then/'
 permalink: /2009/04/17/working-a-half-day-today-then/
 aktt_notify_twitter:

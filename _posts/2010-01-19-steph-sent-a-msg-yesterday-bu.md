@@ -3,7 +3,7 @@ id: 1098
 title: "Steph sent a msg yesterday, bu"
 date: 2010-01-19T09:10:28-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/01/19/steph-sent-a-msg-yesterday-bu/'
 permalink: /2010/01/19/steph-sent-a-msg-yesterday-bu/
 aktt_notify_twitter:

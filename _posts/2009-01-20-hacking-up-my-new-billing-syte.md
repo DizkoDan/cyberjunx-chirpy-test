@@ -3,7 +3,7 @@ id: 637
 title: "Hacking up my new billing syte"
 date: 2009-01-20T22:08:10-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/01/20/hacking-up-my-new-billing-syte/'
 permalink: /2009/01/20/hacking-up-my-new-billing-syte/
 aktt_notify_twitter:

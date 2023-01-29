@@ -3,7 +3,7 @@ id: 933
 title: "At the airport and through sec"
 date: 2009-05-02T05:54:11-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/02/at-the-airport-and-through-sec/'
 permalink: /2009/05/02/at-the-airport-and-through-sec/
 aktt_notify_twitter:

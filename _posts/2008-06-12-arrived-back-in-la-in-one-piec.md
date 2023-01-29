@@ -3,7 +3,7 @@ id: 452
 title: "Arrived back in LA in one piec"
 date: 2008-06-12T18:33:38-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/12/arrived-back-in-la-in-one-piec/'
 permalink: /2008/06/12/arrived-back-in-la-in-one-piec/
 ljID:

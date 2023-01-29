@@ -3,7 +3,7 @@ id: 563
 title: "@Moosifer sad, cuz he had lost"
 date: 2008-10-24T20:57:32-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/24/moosifer-sad-cuz-he-had-lost/'
 permalink: /2008/10/24/moosifer-sad-cuz-he-had-lost/
 ljID:

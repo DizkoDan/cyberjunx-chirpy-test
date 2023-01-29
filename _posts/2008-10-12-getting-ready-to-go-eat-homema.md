@@ -3,7 +3,7 @@ id: 539
 title: "Getting ready to go eat homema"
 date: 2008-10-12T21:41:09-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/12/getting-ready-to-go-eat-homema/'
 permalink: /2008/10/12/getting-ready-to-go-eat-homema/
 ljID:

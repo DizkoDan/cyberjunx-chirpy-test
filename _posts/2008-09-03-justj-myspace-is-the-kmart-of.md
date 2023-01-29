@@ -3,7 +3,7 @@ id: 518
 title: "@justj myspace is the kmart of"
 date: 2008-09-03T15:45:37-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/03/justj-myspace-is-the-kmart-of/'
 permalink: /2008/09/03/justj-myspace-is-the-kmart-of/
 ljID:

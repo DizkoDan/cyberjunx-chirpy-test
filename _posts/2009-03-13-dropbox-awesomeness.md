@@ -3,7 +3,7 @@ id: 887
 title: "Dropbox awesomeness"
 date: 2009-03-13T12:11:18-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=887'
 permalink: /2009/03/13/dropbox-awesomeness/
 aktt_notify_twitter:

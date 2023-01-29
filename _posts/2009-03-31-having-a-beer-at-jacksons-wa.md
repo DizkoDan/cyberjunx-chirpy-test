@@ -3,7 +3,7 @@ id: 906
 title: "Having a beer at Jacksons, wa'"
 date: 2009-03-31T16:12:23-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/03/31/having-a-beer-at-jacksons-wa/'
 permalink: /2009/03/31/having-a-beer-at-jacksons-wa/
 aktt_notify_twitter:

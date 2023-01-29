@@ -3,7 +3,7 @@ id: 921
 title: "Well that game sucked ass"
 date: 2009-04-18T15:43:32-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/18/well-that-game-sucked-ass/'
 permalink: /2009/04/18/well-that-game-sucked-ass/
 aktt_notify_twitter:

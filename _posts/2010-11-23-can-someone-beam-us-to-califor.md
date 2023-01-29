@@ -3,7 +3,7 @@ id: 1478
 title: "Can someone beam us to Califor"
 date: 2010-11-23T09:35:38-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/23/can-someone-beam-us-to-califor/'
 permalink: /2010/11/23/can-someone-beam-us-to-califor/
 aktt_notify_twitter:

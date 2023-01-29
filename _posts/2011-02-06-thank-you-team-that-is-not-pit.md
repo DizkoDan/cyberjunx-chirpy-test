@@ -3,7 +3,7 @@ id: 1527
 title: "thank you team that is not pit"
 date: 2011-02-06T23:07:13-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/06/thank-you-team-that-is-not-pit/'
 permalink: /2011/02/06/thank-you-team-that-is-not-pit/
 aktt_notify_twitter:

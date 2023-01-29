@@ -3,7 +3,7 @@ id: 479
 title: "Crue was so lame, we left afte"
 date: 2008-07-13T22:21:09-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/13/crue-was-so-lame-we-left-afte/'
 permalink: /2008/07/13/crue-was-so-lame-we-left-afte/
 ljID:

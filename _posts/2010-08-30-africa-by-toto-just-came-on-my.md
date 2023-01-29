@@ -3,7 +3,7 @@ id: 1399
 title: "Africa by Toto just came on my"
 date: 2010-08-30T23:29:58-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/08/30/africa-by-toto-just-came-on-my/'
 permalink: /2010/08/30/africa-by-toto-just-came-on-my/
 aktt_notify_twitter:

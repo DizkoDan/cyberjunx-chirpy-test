@@ -3,7 +3,7 @@ id: 1175
 title: "I am amused looking out the wi"
 date: 2010-06-24T07:18:31-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/06/24/i-am-amused-looking-out-the-wi/'
 permalink: /2010/06/24/i-am-amused-looking-out-the-wi/
 categories:

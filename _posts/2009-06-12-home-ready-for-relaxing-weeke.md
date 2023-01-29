@@ -3,7 +3,7 @@ id: 979
 title: "Home. Ready for relaxing weeke"
 date: 2009-06-12T16:27:50-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/06/12/home-ready-for-relaxing-weeke/'
 permalink: /2009/06/12/home-ready-for-relaxing-weeke/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 2058
 title: "Powder Room Remodel Part 1&#58; Here I Go Again"
 date: 2019-10-21T12:42:33-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'https://cyberjunx.com/?p=2058'
 permalink: /2019/10/21/powder-room-remodel-part-1-here-i-go-again/
 tc-thumb-fld:

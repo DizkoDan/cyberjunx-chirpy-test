@@ -3,7 +3,7 @@ id: 388
 title: "Debian still sucks!"
 date: 2008-04-28T10:18:41-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=388'
 permalink: /2008/04/28/debian-still-sucks/
 ljID:

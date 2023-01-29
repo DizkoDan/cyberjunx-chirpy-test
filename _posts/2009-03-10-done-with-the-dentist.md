@@ -3,7 +3,7 @@ id: 877
 title: "Done with the dentist."
 date: 2009-03-10T16:52:55-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/03/10/done-with-the-dentist/'
 permalink: /2009/03/10/done-with-the-dentist/
 aktt_notify_twitter:

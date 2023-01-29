@@ -3,7 +3,7 @@ id: 25
 title: "Pork chop sandwiches!"
 date: 2003-09-11T08:56:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=25'
 permalink: /2003/09/11/pork-chop-sandwiches/
 ljID:

@@ -3,7 +3,7 @@ id: 101
 title: "Go look bitchez!"
 date: 2001-01-12T12:45:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=101'
 permalink: /2001/01/12/go-look-bitchez/
 ljID:

@@ -3,7 +3,7 @@ id: 1464
 title: "I think Rivers is trying to on"
 date: 2010-11-07T16:41:08-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/07/i-think-rivers-is-trying-to-on/'
 permalink: /2010/11/07/i-think-rivers-is-trying-to-on/
 aktt_notify_twitter:

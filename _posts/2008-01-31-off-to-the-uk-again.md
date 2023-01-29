@@ -3,7 +3,7 @@ id: 288
 title: "Off to the UK again"
 date: 2008-01-31T20:25:05-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/01/31/off-to-the-uk-again/'
 permalink: /2008/01/31/off-to-the-uk-again/
 ljID:

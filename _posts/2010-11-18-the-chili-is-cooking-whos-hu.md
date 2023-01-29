@@ -3,7 +3,7 @@ id: 1472
 title: "The chili is cooking! Whos hu'"
 date: 2010-11-18T16:38:53-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/18/the-chili-is-cooking-whos-hu/'
 permalink: /2010/11/18/the-chili-is-cooking-whos-hu/
 aktt_notify_twitter:

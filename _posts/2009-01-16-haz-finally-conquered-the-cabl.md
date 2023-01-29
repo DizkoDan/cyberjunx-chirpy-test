@@ -3,7 +3,7 @@ id: 636
 title: "haz finally conquered the cabl"
 date: 2009-01-16T16:25:39-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/01/16/haz-finally-conquered-the-cabl/'
 permalink: /2009/01/16/haz-finally-conquered-the-cabl/
 aktt_notify_twitter:

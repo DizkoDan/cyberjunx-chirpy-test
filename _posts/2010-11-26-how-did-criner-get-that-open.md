@@ -3,7 +3,7 @@ id: 1483
 title: "How did Criner get *that* open"
 date: 2010-11-26T20:48:36-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/26/how-did-criner-get-that-open/'
 permalink: /2010/11/26/how-did-criner-get-that-open/
 aktt_notify_twitter:

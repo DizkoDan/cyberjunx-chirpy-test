@@ -3,7 +3,7 @@ id: 579
 title: "Im glad I like pumpkin scones'"
 date: 2008-11-05T10:03:09-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/05/im-glad-i-like-pumpkin-scones/'
 permalink: /2008/11/05/im-glad-i-like-pumpkin-scones/
 ljID:

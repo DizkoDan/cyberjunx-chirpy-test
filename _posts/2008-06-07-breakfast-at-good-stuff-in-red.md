@@ -3,7 +3,7 @@ id: 439
 title: "Breakfast at good stuff in red"
 date: 2008-06-07T11:41:21-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/07/breakfast-at-good-stuff-in-red/'
 permalink: /2008/06/07/breakfast-at-good-stuff-in-red/
 ljID:

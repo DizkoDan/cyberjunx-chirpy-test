@@ -2,7 +2,7 @@
 id: 339
 title: "Mmm beer! *drool* I rocked rac"
 date: 2008-03-26T18:46:05-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/26/mmm-beer-drool-i-rocked-rac/'
 permalink: /2008/03/26/mmm-beer-drool-i-rocked-rac/
 ljID:

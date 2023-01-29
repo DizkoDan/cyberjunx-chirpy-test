@@ -3,7 +3,7 @@ id: 954
 title: "Finally got guitar hero&#58; metal"
 date: 2009-05-19T17:41:33-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/19/finally-got-guitar-hero-metal/'
 permalink: /2009/05/19/finally-got-guitar-hero-metal/
 aktt_notify_twitter:

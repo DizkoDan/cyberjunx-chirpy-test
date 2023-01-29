@@ -3,7 +3,7 @@ id: 413
 title: "Servers finally showed up at 7"
 date: 2008-05-22T14:11:36-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/22/servers-finally-showed-up-at-7/'
 permalink: /2008/05/22/servers-finally-showed-up-at-7/
 ljID:

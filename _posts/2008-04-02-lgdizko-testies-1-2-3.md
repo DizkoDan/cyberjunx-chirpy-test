@@ -2,7 +2,7 @@
 id: 354
 title: "@lgdizko testies 1, 2, 3"
 date: 2008-04-02T17:59:15-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/02/lgdizko-testies-1-2-3/'
 permalink: /2008/04/02/lgdizko-testies-1-2-3/
 ljID:

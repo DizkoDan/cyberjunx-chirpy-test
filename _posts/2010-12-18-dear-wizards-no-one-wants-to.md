@@ -3,7 +3,7 @@ id: 1498
 title: "Dear Wizards, no one wants to "
 date: 2010-12-18T20:05:29-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/12/18/dear-wizards-no-one-wants-to/'
 permalink: /2010/12/18/dear-wizards-no-one-wants-to/
 aktt_notify_twitter:

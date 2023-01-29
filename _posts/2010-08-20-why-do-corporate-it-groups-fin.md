@@ -3,7 +3,7 @@ id: 1249
 title: "Why do corporate IT groups fin"
 date: 2010-08-20T06:54:23-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/08/20/why-do-corporate-it-groups-fin/'
 permalink: /2010/08/20/why-do-corporate-it-groups-fin/
 aktt_notify_twitter:

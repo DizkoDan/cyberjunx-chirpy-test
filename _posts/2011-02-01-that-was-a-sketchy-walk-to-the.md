@@ -3,7 +3,7 @@ id: 1521
 title: "That was a sketchy walk to the"
 date: 2011-02-01T07:39:32-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/01/that-was-a-sketchy-walk-to-the/'
 permalink: /2011/02/01/that-was-a-sketchy-walk-to-the/
 aktt_notify_twitter:

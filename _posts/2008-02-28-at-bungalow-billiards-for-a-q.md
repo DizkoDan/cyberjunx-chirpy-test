@@ -2,7 +2,7 @@
 id: 321
 title: "At bungalow billiards for a &amp;q"
 date: 2008-02-28T17:43:06-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/28/at-bungalow-billiards-for-a-q/'
 permalink: /2008/02/28/at-bungalow-billiards-for-a-q/
 ljID:

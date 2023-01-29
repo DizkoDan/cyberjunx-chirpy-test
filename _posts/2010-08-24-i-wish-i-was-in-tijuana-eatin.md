@@ -3,7 +3,7 @@ id: 1344
 title: "I wish I was in tijuana, eatin"
 date: 2010-08-24T06:51:46-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/08/24/i-wish-i-was-in-tijuana-eatin/'
 permalink: /2010/08/24/i-wish-i-was-in-tijuana-eatin/
 aktt_notify_twitter:

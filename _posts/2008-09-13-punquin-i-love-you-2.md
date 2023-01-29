@@ -3,7 +3,7 @@ id: 526
 title: "@punquin I love you!"
 date: 2008-09-13T22:58:40-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/13/punquin-i-love-you-2/'
 permalink: /2008/09/13/punquin-i-love-you-2/
 ljID:

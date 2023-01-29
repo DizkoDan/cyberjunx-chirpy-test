@@ -3,7 +3,7 @@ id: 443
 title: "Arrived in Cabo. Heading to re"
 date: 2008-06-07T17:45:07-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/07/arrived-in-cabo-heading-to-re/'
 permalink: /2008/06/07/arrived-in-cabo-heading-to-re/
 ljID:

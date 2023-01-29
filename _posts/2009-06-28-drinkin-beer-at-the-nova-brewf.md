@@ -3,7 +3,7 @@ id: 985
 title: "Drinkin beer at the nova brewf"
 date: 2009-06-28T14:04:32-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/06/28/drinkin-beer-at-the-nova-brewf/'
 permalink: /2009/06/28/drinkin-beer-at-the-nova-brewf/
 aktt_notify_twitter:

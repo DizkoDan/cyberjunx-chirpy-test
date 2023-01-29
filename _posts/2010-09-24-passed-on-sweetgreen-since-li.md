@@ -3,7 +3,7 @@ id: 1441
 title: "Passed on @sweetgreen since li"
 date: 2010-09-24T12:10:19-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/09/24/passed-on-sweetgreen-since-li/'
 permalink: /2010/09/24/passed-on-sweetgreen-since-li/
 aktt_notify_twitter:

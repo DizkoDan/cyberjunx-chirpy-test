@@ -3,7 +3,7 @@ id: 46
 title: "yipee fuckin ye"
 date: 2001-08-16T15:45:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=46'
 permalink: /2001/08/16/yipee-fuckin-ye/
 ljID:

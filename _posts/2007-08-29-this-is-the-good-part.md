@@ -3,7 +3,7 @@ id: 202
 title: "This is the good part"
 date: 2007-08-29T11:10:31-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/08/29/this-is-the-good-part/'
 permalink: /2007/08/29/this-is-the-good-part/
 ljID:

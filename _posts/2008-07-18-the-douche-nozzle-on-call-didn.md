@@ -3,7 +3,7 @@ id: 486
 title: "The douche nozzle on-call didn"
 date: 2008-07-18T05:15:28-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/18/the-douche-nozzle-on-call-didn/'
 permalink: /2008/07/18/the-douche-nozzle-on-call-didn/
 ljID:

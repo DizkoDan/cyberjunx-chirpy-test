@@ -2,7 +2,7 @@
 id: 278
 title: "@justj when illini starts winn"
 date: 2008-01-01T20:57:58-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/01/01/justj-when-illini-starts-winn/'
 permalink: /2008/01/01/justj-when-illini-starts-winn/
 ljID:

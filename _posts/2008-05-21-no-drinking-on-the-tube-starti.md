@@ -3,7 +3,7 @@ id: 410
 title: "No drinking on the tube starti"
 date: 2008-05-21T11:11:44-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/21/no-drinking-on-the-tube-starti/'
 permalink: /2008/05/21/no-drinking-on-the-tube-starti/
 ljID:

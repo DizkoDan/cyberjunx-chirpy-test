@@ -3,7 +3,7 @@ id: 968
 title: "Finally watching capote' (whi'"
 date: 2009-06-02T18:20:54-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/06/02/finally-watching-capote-whi/'
 permalink: /2009/06/02/finally-watching-capote-whi/
 aktt_notify_twitter:

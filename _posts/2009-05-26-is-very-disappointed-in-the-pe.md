@@ -3,7 +3,7 @@ id: 963
 title: "is very disappointed in the pe"
 date: 2009-05-26T00:00:52-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/26/is-very-disappointed-in-the-pe/'
 permalink: /2009/05/26/is-very-disappointed-in-the-pe/
 aktt_notify_twitter:

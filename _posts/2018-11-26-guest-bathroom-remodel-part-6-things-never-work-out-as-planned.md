@@ -3,7 +3,7 @@ id: 1904
 title: "Guest Bathroom Remodel Part 6&#58; Things Never Work Out As Planned"
 date: 2018-11-26T15:27:18-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://cyberjunx.com/?p=1904'
 permalink: /2018/11/26/guest-bathroom-remodel-part-6-things-never-work-out-as-planned/
 tc-thumb-fld:

@@ -3,7 +3,7 @@ id: 1480
 title: "Santorini salad from @sweetgre"
 date: 2010-11-24T12:14:06-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/24/santorini-salad-from-sweetgre/'
 permalink: /2010/11/24/santorini-salad-from-sweetgre/
 aktt_notify_twitter:

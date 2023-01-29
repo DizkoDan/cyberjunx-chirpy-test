@@ -3,7 +3,7 @@ id: 514
 title: "@rmcwentz I thought school in "
 date: 2008-08-26T10:50:46-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/08/26/rmcwentz-i-thought-school-in/'
 permalink: /2008/08/26/rmcwentz-i-thought-school-in/
 ljID:

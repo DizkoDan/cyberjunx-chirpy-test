@@ -3,7 +3,7 @@ id: 103
 title: "Why are people so goddamn stupid?!?!"
 date: 2001-01-18T13:45:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=103'
 permalink: /2001/01/18/why-are-people-so-goddamn-stupid/
 ljID:

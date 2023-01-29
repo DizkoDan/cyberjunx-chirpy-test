@@ -3,7 +3,7 @@ id: 462
 title: "I hate it when Im asked to go'"
 date: 2008-06-26T15:09:11-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/26/i-hate-it-when-im-asked-to-go/'
 permalink: /2008/06/26/i-hate-it-when-im-asked-to-go/
 ljID:

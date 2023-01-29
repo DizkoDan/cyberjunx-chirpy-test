@@ -3,7 +3,7 @@ id: 22
 title: "All telcos are ass fuckz!"
 date: 2003-10-01T12:45:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=22'
 permalink: /2003/10/01/all-telcos-are-ass-fuckz/
 ljID:

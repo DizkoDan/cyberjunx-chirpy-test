@@ -3,7 +3,7 @@ id: 1163
 title: "DirecTV installer came back, &amp;"
 date: 2010-06-17T17:25:44-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/06/17/directv-installer-came-back/'
 permalink: /2010/06/17/directv-installer-came-back/
 categories:

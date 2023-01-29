@@ -3,7 +3,7 @@ id: 528
 title: "Why does mcdonalds not do the "
 date: 2008-09-14T01:17:55-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/14/why-does-mcdonalds-not-do-the/'
 permalink: /2008/09/14/why-does-mcdonalds-not-do-the/
 ljID:

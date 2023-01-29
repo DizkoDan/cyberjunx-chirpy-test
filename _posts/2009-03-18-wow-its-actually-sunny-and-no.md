@@ -3,7 +3,7 @@ id: 895
 title: "Wow! Its actually sunny and no"
 date: 2009-03-18T15:22:21-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/03/18/wow-its-actually-sunny-and-no/'
 permalink: /2009/03/18/wow-its-actually-sunny-and-no/
 aktt_notify_twitter:

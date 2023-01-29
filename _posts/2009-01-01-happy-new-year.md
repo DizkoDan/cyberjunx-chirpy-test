@@ -3,7 +3,7 @@ id: 629
 title: "Happy New Year!"
 date: 2009-01-01T01:01:53-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/01/01/happy-new-year/'
 permalink: /2009/01/01/happy-new-year/
 aktt_notify_twitter:

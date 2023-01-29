@@ -3,7 +3,7 @@ id: 1607
 title: "This is awesome! Samuel L Ipsum | Alternative Lorem Ipsum Generator"
 date: 2011-09-20T20:23:25-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/09/20/this-is-awesome-samuel-l-ipsum-alternative-lorem-ipsum-generator/'
 permalink: /2011/09/20/this-is-awesome-samuel-l-ipsum-alternative-lorem-ipsum-generator/
 aktt_notify_twitter:

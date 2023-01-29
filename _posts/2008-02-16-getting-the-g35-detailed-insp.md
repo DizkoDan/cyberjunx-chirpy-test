@@ -2,7 +2,7 @@
 id: 308
 title: "Getting the G35 detailed. Insp"
 date: 2008-02-16T14:45:31-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/16/getting-the-g35-detailed-insp/'
 permalink: /2008/02/16/getting-the-g35-detailed-insp/
 ljID:

@@ -3,7 +3,7 @@ id: 603
 title: "helping ivan move"
 date: 2008-11-29T09:51:38-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/29/helping-ivan-move/'
 permalink: /2008/11/29/helping-ivan-move/
 ljID:

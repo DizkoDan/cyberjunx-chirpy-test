@@ -3,7 +3,7 @@ id: 204
 title: "We are Virginia Tech"
 date: 2007-09-02T22:57:53-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/09/02/we-are-virginia-tech/'
 permalink: /2007/09/02/we-are-virginia-tech/
 ljID:

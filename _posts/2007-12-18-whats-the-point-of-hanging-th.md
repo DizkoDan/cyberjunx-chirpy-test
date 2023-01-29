@@ -2,7 +2,7 @@
 id: 247
 title: "whats the point of hanging th'"
 date: 2007-12-18T08:53:38-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/18/whats-the-point-of-hanging-th/'
 permalink: /2007/12/18/whats-the-point-of-hanging-th/
 ljID:

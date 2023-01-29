@@ -3,7 +3,7 @@ id: 470
 title: "Got county sticker. Got sammic"
 date: 2008-07-07T13:11:06-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/07/got-county-sticker-got-sammic/'
 permalink: /2008/07/07/got-county-sticker-got-sammic/
 ljID:

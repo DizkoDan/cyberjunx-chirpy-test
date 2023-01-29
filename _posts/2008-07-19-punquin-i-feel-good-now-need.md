@@ -3,7 +3,7 @@ id: 489
 title: "@punquin I feel good now. Need"
 date: 2008-07-19T12:57:50-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/19/punquin-i-feel-good-now-need/'
 permalink: /2008/07/19/punquin-i-feel-good-now-need/
 ljID:

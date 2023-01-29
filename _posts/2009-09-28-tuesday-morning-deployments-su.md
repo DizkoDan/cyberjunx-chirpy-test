@@ -3,7 +3,7 @@ id: 1048
 title: "Tuesday morning deployments su"
 date: 2009-09-28T11:28:38-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/09/28/tuesday-morning-deployments-su/'
 permalink: /2009/09/28/tuesday-morning-deployments-su/
 aktt_notify_twitter:

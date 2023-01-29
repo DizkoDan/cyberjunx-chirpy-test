@@ -3,7 +3,7 @@ id: 1534
 title: "Tirevan got here nice and earl"
 date: 2011-02-26T08:56:29-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/26/tirevan-got-here-nice-and-earl/'
 permalink: /2011/02/26/tirevan-got-here-nice-and-earl/
 aktt_notify_twitter:

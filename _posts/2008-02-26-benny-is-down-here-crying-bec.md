@@ -2,7 +2,7 @@
 id: 315
 title: "Benny is down here crying, bec"
 date: 2008-02-26T21:54:59-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/26/benny-is-down-here-crying-bec/'
 permalink: /2008/02/26/benny-is-down-here-crying-bec/
 ljID:

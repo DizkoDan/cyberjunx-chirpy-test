@@ -3,7 +3,7 @@ id: 60
 title: "goonie goo goo!"
 date: 2001-06-18T11:24:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=60'
 permalink: /2001/06/18/goonie-goo-goo/
 ljID:

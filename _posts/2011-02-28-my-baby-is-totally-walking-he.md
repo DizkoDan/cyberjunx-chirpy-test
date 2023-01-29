@@ -3,7 +3,7 @@ id: 1537
 title: "My baby is totally walking. He"
 date: 2011-02-28T21:01:09-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/28/my-baby-is-totally-walking-he/'
 permalink: /2011/02/28/my-baby-is-totally-walking-he/
 aktt_notify_twitter:

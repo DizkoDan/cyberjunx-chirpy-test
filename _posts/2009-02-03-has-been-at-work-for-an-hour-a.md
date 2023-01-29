@@ -3,7 +3,7 @@ id: 657
 title: "has been at work for an hour a"
 date: 2009-02-03T06:12:43-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/02/03/has-been-at-work-for-an-hour-a/'
 permalink: /2009/02/03/has-been-at-work-for-an-hour-a/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 1415
 title: "Jax rocking the big boy stroll"
 date: 2010-09-12T15:09:15-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/09/12/jax-rocking-the-big-boy-stroll/'
 permalink: /2010/09/12/jax-rocking-the-big-boy-stroll/
 aktt_notify_twitter:

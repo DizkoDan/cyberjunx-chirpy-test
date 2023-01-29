@@ -3,7 +3,7 @@ id: 969
 title: "Ready for the lake show!"
 date: 2009-06-04T20:51:35-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/06/04/ready-for-the-lake-show/'
 permalink: /2009/06/04/ready-for-the-lake-show/
 aktt_notify_twitter:

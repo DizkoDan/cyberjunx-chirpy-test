@@ -3,7 +3,7 @@ id: 210
 title: "Migration Night Part 1"
 date: 2007-09-15T00:08:11-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/09/15/migration-night-part-1/'
 permalink: /2007/09/15/migration-night-part-1/
 ljID:

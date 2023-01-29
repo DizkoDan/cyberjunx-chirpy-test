@@ -3,7 +3,7 @@ id: 1539
 title: "Jax Walking!"
 date: 2011-03-01T13:24:26-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/03/01/jax-walking/'
 permalink: /2011/03/01/jax-walking/
 aktt_notify_twitter:

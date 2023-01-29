@@ -3,7 +3,7 @@ id: 1004
 title: "Had ab awesome dinner at austi"
 date: 2009-07-26T20:40:20-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/26/had-ab-awesome-dinner-at-austi/'
 permalink: /2009/07/26/had-ab-awesome-dinner-at-austi/
 aktt_notify_twitter:

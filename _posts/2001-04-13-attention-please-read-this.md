@@ -3,7 +3,7 @@ id: 85
 title: "ATTENTION!!!!  Please Read this!"
 date: 2001-04-13T19:49:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=85'
 permalink: /2001/04/13/attention-please-read-this/
 ljID:

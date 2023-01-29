@@ -3,7 +3,7 @@ id: 203
 title: "Have I mentioned how much I hate Debian?"
 date: 2007-08-30T22:03:04-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/08/30/have-i-mentioned-how-much-i-hate-debian/'
 permalink: /2007/08/30/have-i-mentioned-how-much-i-hate-debian/
 ljID:

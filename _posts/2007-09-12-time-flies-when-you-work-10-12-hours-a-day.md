@@ -3,7 +3,7 @@ id: 209
 title: "Time flies when you work 10 - 12 hours a day"
 date: 2007-09-12T09:40:31-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/09/12/time-flies-when-you-work-10-12-hours-a-day/'
 permalink: /2007/09/12/time-flies-when-you-work-10-12-hours-a-day/
 ljID:

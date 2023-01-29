@@ -3,7 +3,7 @@ id: 498
 title: "Did a short 6 mile bike ride. "
 date: 2008-08-01T12:48:32-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/08/01/did-a-short-6-mile-bike-ride/'
 permalink: /2008/08/01/did-a-short-6-mile-bike-ride/
 ljID:

@@ -3,7 +3,7 @@ id: 1984
 title: "Guest Bathroom Remodel Part 9&#58; Ready For Water (minus the shower)!"
 date: 2018-12-17T16:16:06-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'https://cyberjunx.com/?p=1984'
 permalink: /2018/12/17/guest-bathroom-remodel-part-9-ready-for-water-minus-the-shower/
 tc-thumb-fld:

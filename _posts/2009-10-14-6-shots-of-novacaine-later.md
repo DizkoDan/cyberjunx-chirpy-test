@@ -3,7 +3,7 @@ id: 1057
 title: "6 shots of novacaine later...."
 date: 2009-10-14T17:38:53-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/14/6-shots-of-novacaine-later/'
 permalink: /2009/10/14/6-shots-of-novacaine-later/
 aktt_notify_twitter:

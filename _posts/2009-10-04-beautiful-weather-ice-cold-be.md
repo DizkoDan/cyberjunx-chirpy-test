@@ -3,7 +3,7 @@ id: 1051
 title: "Beautiful weather. Ice cold be"
 date: 2009-10-04T16:20:36-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/04/beautiful-weather-ice-cold-be/'
 permalink: /2009/10/04/beautiful-weather-ice-cold-be/
 aktt_notify_twitter:

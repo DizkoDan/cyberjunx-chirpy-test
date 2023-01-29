@@ -3,7 +3,7 @@ id: 1960
 title: "Guest Bathroom Remodel Part 8&#58; Floor Tiles Are Set!"
 date: 2018-12-10T11:22:56-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'https://cyberjunx.com/?p=1960'
 permalink: /2018/12/10/guest-bathroom-remodel-part-8-floor-tiles-are-set/
 tc-thumb-fld:

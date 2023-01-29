@@ -3,7 +3,7 @@ id: 29
 title: "zzZzzZzzZzzZzzZzzZzz"
 date: 2003-08-22T05:40:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=29'
 permalink: /2003/08/22/zzzzzzzzzzzzzzzzzzzz/
 ljID:

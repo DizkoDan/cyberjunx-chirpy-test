@@ -3,7 +3,7 @@ id: 310
 title: "Dear Windows 2003 Server"
 date: 2008-02-21T15:20:22-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/21/dear-windows-2003-server/'
 permalink: /2008/02/21/dear-windows-2003-server/
 ljID:

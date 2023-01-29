@@ -3,7 +3,7 @@ id: 516
 title: "Cranking Gog Hates Us All seem"
 date: 2008-08-28T19:14:34-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/08/28/cranking-gog-hates-us-all-seem/'
 permalink: /2008/08/28/cranking-gog-hates-us-all-seem/
 ljID:

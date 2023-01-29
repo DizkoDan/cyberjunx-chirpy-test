@@ -3,7 +3,7 @@ id: 406
 title: "Ugh. Didnt beat the AM immigr'"
 date: 2008-05-21T02:07:30-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/21/ugh-didnt-beat-the-am-immigr/'
 permalink: /2008/05/21/ugh-didnt-beat-the-am-immigr/
 ljID:

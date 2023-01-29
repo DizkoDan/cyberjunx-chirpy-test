@@ -3,7 +3,7 @@ id: 1132
 title: "When will phil tell Artest he'"
 date: 2010-05-02T17:58:46-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/05/02/when-will-phil-tell-artest-he/'
 permalink: /2010/05/02/when-will-phil-tell-artest-he/
 categories:

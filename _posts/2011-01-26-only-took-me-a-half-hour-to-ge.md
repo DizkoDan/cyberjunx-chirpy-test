@@ -3,7 +3,7 @@ id: 1517
 title: "Only took me a half hour to ge"
 date: 2011-01-26T18:12:20-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/01/26/only-took-me-a-half-hour-to-ge/'
 permalink: /2011/01/26/only-took-me-a-half-hour-to-ge/
 aktt_notify_twitter:

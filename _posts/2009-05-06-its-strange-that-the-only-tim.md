@@ -3,7 +3,7 @@ id: 940
 title: "Its strange that the only tim'"
 date: 2009-05-06T21:23:37-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/06/its-strange-that-the-only-tim/'
 permalink: /2009/05/06/its-strange-that-the-only-tim/
 aktt_notify_twitter:

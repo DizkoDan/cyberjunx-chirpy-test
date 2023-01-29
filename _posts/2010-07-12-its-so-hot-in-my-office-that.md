@@ -3,7 +3,7 @@ id: 1184
 title: "Its so hot in my office that '"
 date: 2010-07-12T07:25:27-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/07/12/its-so-hot-in-my-office-that/'
 permalink: /2010/07/12/its-so-hot-in-my-office-that/
 categories:

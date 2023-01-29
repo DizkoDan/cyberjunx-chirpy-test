@@ -3,7 +3,7 @@ id: 534
 title: "Er... That was @punquin"
 date: 2008-10-03T17:19:17-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/03/er-that-was-punquin/'
 permalink: /2008/10/03/er-that-was-punquin/
 ljID:

@@ -3,7 +3,7 @@ id: 1090
 title: "I really like the wings @mains"
 date: 2009-12-17T17:55:25-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/12/17/i-really-like-the-wings-mains/'
 permalink: /2009/12/17/i-really-like-the-wings-mains/
 aktt_notify_twitter:

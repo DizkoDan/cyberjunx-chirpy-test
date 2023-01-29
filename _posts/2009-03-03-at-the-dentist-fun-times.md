@@ -3,7 +3,7 @@ id: 867
 title: "At the dentist. Fun times"
 date: 2009-03-03T18:46:21-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/03/03/at-the-dentist-fun-times/'
 permalink: /2009/03/03/at-the-dentist-fun-times/
 aktt_notify_twitter:

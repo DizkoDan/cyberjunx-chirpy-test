@@ -3,7 +3,7 @@ id: 223
 title: "Wtf? Im in a fucking burger k'"
 date: 2007-12-15T19:07:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/15/wtf-im-in-a-fucking-burger-k/'
 permalink: /2007/12/15/wtf-im-in-a-fucking-burger-k/
 ljID:

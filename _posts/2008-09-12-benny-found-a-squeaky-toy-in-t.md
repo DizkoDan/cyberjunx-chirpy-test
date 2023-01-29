@@ -3,7 +3,7 @@ id: 522
 title: "Benny found a squeaky toy in t"
 date: 2008-09-12T00:45:38-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/12/benny-found-a-squeaky-toy-in-t/'
 permalink: /2008/09/12/benny-found-a-squeaky-toy-in-t/
 ljID:

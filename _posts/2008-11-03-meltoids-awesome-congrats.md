@@ -3,7 +3,7 @@ id: 577
 title: "@meltoids Awesome! Congrats!"
 date: 2008-11-03T14:29:21-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/03/meltoids-awesome-congrats/'
 permalink: /2008/11/03/meltoids-awesome-congrats/
 ljID:

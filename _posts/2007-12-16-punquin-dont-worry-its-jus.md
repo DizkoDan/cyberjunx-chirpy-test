@@ -3,7 +3,7 @@ id: 218
 title: "@punquin dont worry, it's jus'"
 date: 2007-12-16T03:33:54-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/16/punquin-dont-worry-its-jus/'
 permalink: /2007/12/16/punquin-dont-worry-its-jus/
 ljID:

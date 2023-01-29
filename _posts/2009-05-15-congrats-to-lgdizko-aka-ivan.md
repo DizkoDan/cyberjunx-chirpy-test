@@ -3,7 +3,7 @@ id: 951
 title: "Congrats to @lgdizko aka Ivan "
 date: 2009-05-15T07:13:23-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/15/congrats-to-lgdizko-aka-ivan/'
 permalink: /2009/05/15/congrats-to-lgdizko-aka-ivan/
 aktt_notify_twitter:

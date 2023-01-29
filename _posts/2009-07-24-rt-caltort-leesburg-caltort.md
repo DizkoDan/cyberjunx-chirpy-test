@@ -3,7 +3,7 @@ id: 1000
 title: "RT @caltort&#58; Leesburg caltort "
 date: 2009-07-24T11:36:10-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/24/rt-caltort-leesburg-caltort/'
 permalink: /2009/07/24/rt-caltort-leesburg-caltort/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 1099
 title: "Some days I get really depress"
 date: 2010-01-21T17:47:54-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/01/21/some-days-i-get-really-depress/'
 permalink: /2010/01/21/some-days-i-get-really-depress/
 aktt_notify_twitter:

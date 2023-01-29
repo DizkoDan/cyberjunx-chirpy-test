@@ -3,7 +3,7 @@ id: 391
 title: "I am still amazed by the techn"
 date: 2008-05-07T08:24:36-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/07/i-am-still-amazed-by-the-techn/'
 permalink: /2008/05/07/i-am-still-amazed-by-the-techn/
 ljID:

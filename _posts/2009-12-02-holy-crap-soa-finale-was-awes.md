@@ -3,7 +3,7 @@ id: 1083
 title: "Holy crap! SoA finale was awes"
 date: 2009-12-02T21:23:30-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/12/02/holy-crap-soa-finale-was-awes/'
 permalink: /2009/12/02/holy-crap-soa-finale-was-awes/
 aktt_notify_twitter:

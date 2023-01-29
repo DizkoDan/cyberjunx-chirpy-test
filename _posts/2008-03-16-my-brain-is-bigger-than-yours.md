@@ -3,7 +3,7 @@ id: 333
 title: "my brain is bigger than yours"
 date: 2008-03-16T21:45:20-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/16/my-brain-is-bigger-than-yours/'
 permalink: /2008/03/16/my-brain-is-bigger-than-yours/
 ljID:

@@ -3,7 +3,7 @@ id: 476
 title: "Pooring rain. Glad were still'"
 date: 2008-07-13T18:10:14-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/13/pooring-rain-glad-were-still/'
 permalink: /2008/07/13/pooring-rain-glad-were-still/
 ljID:

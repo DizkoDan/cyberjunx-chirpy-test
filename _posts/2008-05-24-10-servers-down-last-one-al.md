@@ -3,7 +3,7 @@ id: 419
 title: "10 servers down... last one al"
 date: 2008-05-24T16:41:04-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/24/10-servers-down-last-one-al/'
 permalink: /2008/05/24/10-servers-down-last-one-al/
 ljID:

@@ -3,7 +3,7 @@ id: 931
 title: "not only did I find out that I"
 date: 2009-04-29T18:27:05-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/29/not-only-did-i-find-out-that-i/'
 permalink: /2009/04/29/not-only-did-i-find-out-that-i/
 aktt_notify_twitter:

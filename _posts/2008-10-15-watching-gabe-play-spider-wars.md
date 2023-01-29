@@ -3,7 +3,7 @@ id: 543
 title: "Watching gabe play spider wars"
 date: 2008-10-15T13:45:41-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/15/watching-gabe-play-spider-wars/'
 permalink: /2008/10/15/watching-gabe-play-spider-wars/
 ljID:

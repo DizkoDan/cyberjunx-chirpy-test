@@ -3,7 +3,7 @@ id: 973
 title: "Back home from charlottesville"
 date: 2009-06-06T22:35:52-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/06/06/back-home-from-charlottesville/'
 permalink: /2009/06/06/back-home-from-charlottesville/
 aktt_notify_twitter:

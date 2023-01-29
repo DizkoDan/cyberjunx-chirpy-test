@@ -2,7 +2,7 @@
 id: 280
 title: "went to bed around 11, and som"
 date: 2008-01-02T04:22:41-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/01/02/went-to-bed-around-11-and-som/'
 permalink: /2008/01/02/went-to-bed-around-11-and-som/
 ljID:

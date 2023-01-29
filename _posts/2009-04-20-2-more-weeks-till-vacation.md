@@ -3,7 +3,7 @@ id: 925
 title: "2 more weeks till vacation!"
 date: 2009-04-20T15:10:26-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/20/2-more-weeks-till-vacation/'
 permalink: /2009/04/20/2-more-weeks-till-vacation/
 aktt_notify_twitter:

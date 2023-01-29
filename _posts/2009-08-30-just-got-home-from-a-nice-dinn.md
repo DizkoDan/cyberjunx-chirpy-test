@@ -3,7 +3,7 @@ id: 1027
 title: "Just got home from a nice dinn"
 date: 2009-08-30T20:55:46-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/08/30/just-got-home-from-a-nice-dinn/'
 permalink: /2009/08/30/just-got-home-from-a-nice-dinn/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 844
 title: "Just made the most awesome lun"
 date: 2009-02-17T16:13:49-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/02/17/just-made-the-most-awesome-lun/'
 permalink: /2009/02/17/just-made-the-most-awesome-lun/
 aktt_notify_twitter:

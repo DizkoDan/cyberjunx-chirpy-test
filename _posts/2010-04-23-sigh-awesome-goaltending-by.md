@@ -3,7 +3,7 @@ id: 1128
 title: "*sigh* awesome goaltending by "
 date: 2010-04-23T21:42:10-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/04/23/sigh-awesome-goaltending-by/'
 permalink: /2010/04/23/sigh-awesome-goaltending-by/
 categories:

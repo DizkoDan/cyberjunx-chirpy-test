@@ -3,7 +3,7 @@ id: 589
 title: "At Sonar in baltimore to see z"
 date: 2008-11-15T23:21:17-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/15/at-sonar-in-baltimore-to-see-z/'
 permalink: /2008/11/15/at-sonar-in-baltimore-to-see-z/
 ljID:

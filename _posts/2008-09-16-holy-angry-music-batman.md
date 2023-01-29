@@ -3,7 +3,7 @@ id: 529
 title: "Holy angry music batman!"
 date: 2008-09-16T10:52:32-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/16/holy-angry-music-batman/'
 permalink: /2008/09/16/holy-angry-music-batman/
 ljID:

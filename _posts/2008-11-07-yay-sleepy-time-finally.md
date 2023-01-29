@@ -3,7 +3,7 @@ id: 581
 title: "yay! sleepy time finally!"
 date: 2008-11-07T05:19:25-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/07/yay-sleepy-time-finally/'
 permalink: /2008/11/07/yay-sleepy-time-finally/
 ljID:

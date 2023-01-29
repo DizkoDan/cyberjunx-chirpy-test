@@ -3,7 +3,7 @@ id: 1604
 title: "Former WARRANT Singer JANI LANE Dead At 47"
 date: 2011-08-12T07:34:57-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/08/12/former-warrant-singer-jani-lane-dead-at-47/'
 permalink: /2011/08/12/former-warrant-singer-jani-lane-dead-at-47/
 aktt_notify_twitter:

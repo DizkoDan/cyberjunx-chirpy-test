@@ -2,7 +2,7 @@
 id: 255
 title: "@doggiegirl that just doesnt '"
 date: 2007-12-19T20:18:01-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/19/doggiegirl-that-just-doesnt/'
 permalink: /2007/12/19/doggiegirl-that-just-doesnt/
 ljID:

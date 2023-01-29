@@ -3,7 +3,7 @@ id: 371
 title: "Just landed. Sleepies."
 date: 2008-04-14T06:14:27-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/14/just-landed-sleepies/'
 permalink: /2008/04/14/just-landed-sleepies/
 ljID:

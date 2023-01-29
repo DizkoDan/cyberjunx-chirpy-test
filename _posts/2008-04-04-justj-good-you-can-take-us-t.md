@@ -2,7 +2,7 @@
 id: 356
 title: "@justj Good. You can take us t"
 date: 2008-04-04T09:41:48-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/04/justj-good-you-can-take-us-t/'
 permalink: /2008/04/04/justj-good-you-can-take-us-t/
 ljID:

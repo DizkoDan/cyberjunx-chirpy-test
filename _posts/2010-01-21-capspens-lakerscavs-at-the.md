@@ -3,7 +3,7 @@ id: 1100
 title: "Caps/Pens &amp; Lakers/Cavs at the"
 date: 2010-01-21T20:51:16-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/01/21/capspens-lakerscavs-at-the/'
 permalink: /2010/01/21/capspens-lakerscavs-at-the/
 aktt_notify_twitter:

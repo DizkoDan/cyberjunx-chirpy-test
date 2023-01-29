@@ -3,7 +3,7 @@ id: 36
 title: "RE&#58; Server shit.. and general life"
 date: 2003-02-04T23:55:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=36'
 permalink: /2003/02/04/re-server-shit-and-general-life/
 ljID:

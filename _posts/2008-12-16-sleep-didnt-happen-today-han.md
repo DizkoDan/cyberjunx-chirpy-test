@@ -3,7 +3,7 @@ id: 619
 title: "Sleep didnt happen today. Han'"
 date: 2008-12-16T17:01:16-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/12/16/sleep-didnt-happen-today-han/'
 permalink: /2008/12/16/sleep-didnt-happen-today-han/
 aktt_notify_twitter:

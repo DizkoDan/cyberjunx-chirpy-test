@@ -3,7 +3,7 @@ id: 361
 title: "I put in a request for a cat6 "
 date: 2008-04-08T10:19:01-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/08/i-put-in-a-request-for-a-cat6/'
 permalink: /2008/04/08/i-put-in-a-request-for-a-cat6/
 ljID:

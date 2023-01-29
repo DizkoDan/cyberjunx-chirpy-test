@@ -2,7 +2,7 @@
 id: 345
 title: "Made a breakfast of eggs, pota"
 date: 2008-03-30T12:12:51-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/30/made-a-breakfast-of-eggs-pota/'
 permalink: /2008/03/30/made-a-breakfast-of-eggs-pota/
 ljID:

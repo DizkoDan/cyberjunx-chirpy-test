@@ -3,7 +3,7 @@ id: 650
 title: "just finished the chili, now t"
 date: 2009-01-31T17:39:05-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/01/31/just-finished-the-chili-now-t/'
 permalink: /2009/01/31/just-finished-the-chili-now-t/
 aktt_notify_twitter:

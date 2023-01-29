@@ -3,7 +3,7 @@ id: 1577
 title: "Caps at 3&#58;00 lakers at 3&#58;30. Love the playoffs!"
 date: 2011-04-17T15:08:30-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/04/17/caps-at-300-lakers-at-330-love-the-playoffs/'
 permalink: /2011/04/17/caps-at-300-lakers-at-330-love-the-playoffs/
 aktt_notify_twitter:

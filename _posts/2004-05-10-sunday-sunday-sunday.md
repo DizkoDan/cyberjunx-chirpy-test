@@ -3,7 +3,7 @@ id: 18
 title: "Sunday Sunday Sunday!"
 date: 2004-05-10T21:51:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=18'
 permalink: /2004/05/10/sunday-sunday-sunday/
 ljID:

@@ -3,7 +3,7 @@ id: 366
 title: "Taxes are done. Actually getti"
 date: 2008-04-10T20:23:16-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/10/taxes-are-done-actually-getti/'
 permalink: /2008/04/10/taxes-are-done-actually-getti/
 ljID:

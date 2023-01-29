@@ -3,7 +3,7 @@ id: 185
 title: "Gotta love responsibility"
 date: 2007-08-24T04:45:33-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=185'
 permalink: /2007/08/24/gotta-love-responsibility/
 ljID:

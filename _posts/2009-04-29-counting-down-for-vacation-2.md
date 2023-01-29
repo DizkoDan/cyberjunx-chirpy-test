@@ -3,7 +3,7 @@ id: 930
 title: "counting down for vacation. 2 "
 date: 2009-04-29T08:42:32-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/29/counting-down-for-vacation-2/'
 permalink: /2009/04/29/counting-down-for-vacation-2/
 aktt_notify_twitter:

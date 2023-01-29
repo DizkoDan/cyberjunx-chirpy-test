@@ -3,7 +3,7 @@ id: 1535
 title: "My baby is so awesome. He just"
 date: 2011-02-27T19:27:01-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/27/my-baby-is-so-awesome-he-just/'
 permalink: /2011/02/27/my-baby-is-so-awesome-he-just/
 aktt_notify_twitter:

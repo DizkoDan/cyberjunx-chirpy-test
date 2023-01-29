@@ -3,7 +3,7 @@ id: 928
 title: "totally forgot to take my alle"
 date: 2009-04-28T06:00:12-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/28/totally-forgot-to-take-my-alle/'
 permalink: /2009/04/28/totally-forgot-to-take-my-alle/
 aktt_notify_twitter:

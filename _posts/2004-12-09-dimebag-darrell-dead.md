@@ -3,7 +3,7 @@ id: 10
 title: "Dimebag Darrell Dead?"
 date: 2004-12-09T07:37:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=10'
 permalink: /2004/12/09/dimebag-darrell-dead/
 ljID:

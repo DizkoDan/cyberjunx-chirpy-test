@@ -3,7 +3,7 @@ id: 987
 title: "Eating some wings and having a"
 date: 2009-06-30T13:48:07-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/06/30/eating-some-wings-and-having-a/'
 permalink: /2009/06/30/eating-some-wings-and-having-a/
 aktt_notify_twitter:

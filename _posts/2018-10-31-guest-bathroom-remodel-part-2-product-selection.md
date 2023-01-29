@@ -3,7 +3,7 @@ id: 1834
 title: "Guest Bathroom Remodel Part 2&#58; Product Selection"
 date: 2018-10-31T21:34:55-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://cyberjunx.com/?p=1834'
 permalink: /2018/10/31/guest-bathroom-remodel-part-2-product-selection/
 categories:

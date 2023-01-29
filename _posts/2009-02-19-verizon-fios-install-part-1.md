@@ -4,7 +4,7 @@ title: "Verizon FIOS Install Part 1"
 date: 2009-02-19T18:37:16-04:00
 author: DizkoDan
 excerpt: 'I have decided to do a series of posts about my pending <a href="http://www22.verizon.com/Residential/Fiosinternet/">Verizon Fios</a> install for both my own tracking, and for others to use for reference.'
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=855'
 permalink: /2009/02/19/verizon-fios-install-part-1/
 aktt_notify_twitter:

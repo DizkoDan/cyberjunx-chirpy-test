@@ -3,7 +3,7 @@ id: 934
 title: "The eagle has landed. I repeat"
 date: 2009-05-02T12:42:45-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/02/the-eagle-has-landed-i-repeat/'
 permalink: /2009/05/02/the-eagle-has-landed-i-repeat/
 aktt_notify_twitter:

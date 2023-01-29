@@ -3,7 +3,7 @@ id: 487
 title: "Im done working for the day. '"
 date: 2008-07-18T12:25:40-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/18/im-done-working-for-the-day/'
 permalink: /2008/07/18/im-done-working-for-the-day/
 ljID:

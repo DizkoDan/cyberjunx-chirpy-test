@@ -3,7 +3,7 @@ id: 1102
 title: "Am I a complete dork for think"
 date: 2010-02-02T19:21:55-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/02/02/am-i-a-complete-dork-for-think/'
 permalink: /2010/02/02/am-i-a-complete-dork-for-think/
 aktt_notify_twitter:

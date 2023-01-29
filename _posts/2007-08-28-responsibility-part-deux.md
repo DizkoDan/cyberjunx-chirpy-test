@@ -3,7 +3,7 @@ id: 201
 title: "Responsibility Part Deux"
 date: 2007-08-28T21:52:26-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/08/28/responsibility-part-deux/'
 permalink: /2007/08/28/responsibility-part-deux/
 no_lj:

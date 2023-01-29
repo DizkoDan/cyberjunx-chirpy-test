@@ -3,7 +3,7 @@ id: 1009
 title: "note to self... always double "
 date: 2009-07-29T23:40:42-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/29/note-to-self-always-double/'
 permalink: /2009/07/29/note-to-self-always-double/
 aktt_notify_twitter:

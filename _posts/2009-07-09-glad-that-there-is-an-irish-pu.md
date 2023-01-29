@@ -3,7 +3,7 @@ id: 993
 title: "Glad that there is an irish pu"
 date: 2009-07-09T16:12:56-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/09/glad-that-there-is-an-irish-pu/'
 permalink: /2009/07/09/glad-that-there-is-an-irish-pu/
 aktt_notify_twitter:

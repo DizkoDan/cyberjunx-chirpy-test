@@ -3,7 +3,7 @@ id: 359
 title: "Rock Band Drums Suck!"
 date: 2008-04-05T17:17:44-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=359'
 permalink: /2008/04/05/rock-band-drums-suck/
 ljID:

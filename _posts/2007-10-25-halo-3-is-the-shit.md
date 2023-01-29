@@ -3,7 +3,7 @@ id: 214
 title: "Halo 3 is the shit"
 date: 2007-10-25T12:35:48-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/10/25/halo-3-is-the-shit/'
 permalink: /2007/10/25/halo-3-is-the-shit/
 ljID:

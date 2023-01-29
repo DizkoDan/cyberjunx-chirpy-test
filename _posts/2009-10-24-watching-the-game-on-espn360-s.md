@@ -3,7 +3,7 @@ id: 1063
 title: "Watching the game on espn360 s"
 date: 2009-10-24T20:32:27-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/24/watching-the-game-on-espn360-s/'
 permalink: /2009/10/24/watching-the-game-on-espn360-s/
 aktt_notify_twitter:

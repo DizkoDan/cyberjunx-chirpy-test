@@ -3,7 +3,7 @@ id: 385
 title: "I cant believe some skanky wh'"
 date: 2008-04-26T22:20:57-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/26/i-cant-believe-some-skanky-wh/'
 permalink: /2008/04/26/i-cant-believe-some-skanky-wh/
 ljID:

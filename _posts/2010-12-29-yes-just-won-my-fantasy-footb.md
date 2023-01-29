@@ -3,7 +3,7 @@ id: 1505
 title: "Yes! Just won my fantasy footb"
 date: 2010-12-29T00:26:09-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/12/29/yes-just-won-my-fantasy-footb/'
 permalink: /2010/12/29/yes-just-won-my-fantasy-footb/
 aktt_notify_twitter:

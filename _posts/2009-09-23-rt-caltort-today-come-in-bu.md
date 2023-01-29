@@ -3,7 +3,7 @@ id: 1044
 title: "RT&#58; @caltort Today Come in, bu"
 date: 2009-09-23T11:51:41-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/09/23/rt-caltort-today-come-in-bu/'
 permalink: /2009/09/23/rt-caltort-today-come-in-bu/
 aktt_notify_twitter:

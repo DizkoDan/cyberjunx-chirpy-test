@@ -3,7 +3,7 @@ id: 222
 title: "bored. alone in my hotel room."
 date: 2007-12-15T20:45:39-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/15/bored-alone-in-my-hotel-room/'
 permalink: /2007/12/15/bored-alone-in-my-hotel-room/
 ljID:

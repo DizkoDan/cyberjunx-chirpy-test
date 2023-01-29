@@ -3,7 +3,7 @@ id: 634
 title: "Is catching up on 24. One more"
 date: 2009-01-13T22:51:16-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/01/13/is-catching-up-on-24-one-more/'
 permalink: /2009/01/13/is-catching-up-on-24-one-more/
 aktt_notify_twitter:

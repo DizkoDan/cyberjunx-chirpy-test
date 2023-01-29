@@ -3,7 +3,7 @@ id: 1863
 title: "Guest Bathroom Remodel Part 3&#58; Demo begins!"
 date: 2018-11-06T00:09:36-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://cyberjunx.com/?p=1863'
 permalink: /2018/11/06/guest-bathroom-remodel-part-3-demo-begins/
 categories:

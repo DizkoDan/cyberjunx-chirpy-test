@@ -3,7 +3,7 @@ id: 997
 title: "woo! looks like @counterburger"
 date: 2009-07-15T11:23:51-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/15/woo-looks-like-counterburger/'
 permalink: /2009/07/15/woo-looks-like-counterburger/
 aktt_notify_twitter:

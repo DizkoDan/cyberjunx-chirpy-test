@@ -3,7 +3,7 @@ id: 1120
 title: "The rumor is that Peter Steele"
 date: 2010-04-15T08:48:06-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/04/15/the-rumor-is-that-peter-steele/'
 permalink: /2010/04/15/the-rumor-is-that-peter-steele/
 categories:

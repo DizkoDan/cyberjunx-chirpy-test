@@ -3,7 +3,7 @@ id: 1566
 title: "Ozzy Caps Playoff Video"
 date: 2011-03-24T06:46:46-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/03/24/ozzy-caps-playoff-video/'
 permalink: /2011/03/24/ozzy-caps-playoff-video/
 aktt_notify_twitter:

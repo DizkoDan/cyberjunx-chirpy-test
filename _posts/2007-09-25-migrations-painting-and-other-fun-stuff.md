@@ -3,7 +3,7 @@ id: 211
 title: "Migrations, Painting, and other fun stuff!"
 date: 2007-09-25T09:31:31-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/09/25/migrations-painting-and-other-fun-stuff/'
 permalink: /2007/09/25/migrations-painting-and-other-fun-stuff/
 ljID:

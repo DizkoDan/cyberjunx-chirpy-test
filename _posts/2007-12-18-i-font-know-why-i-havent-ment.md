@@ -2,7 +2,7 @@
 id: 249
 title: "I font know why I havent ment'"
 date: 2007-12-18T17:12:47-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/18/i-font-know-why-i-havent-ment/'
 permalink: /2007/12/18/i-font-know-why-i-havent-ment/
 ljID:

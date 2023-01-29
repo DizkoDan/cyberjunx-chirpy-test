@@ -3,7 +3,7 @@ id: 556
 title: "@lgdizko I told you to come he"
 date: 2008-10-18T16:26:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/18/lgdizko-i-told-you-to-come-he/'
 permalink: /2008/10/18/lgdizko-i-told-you-to-come-he/
 ljID:

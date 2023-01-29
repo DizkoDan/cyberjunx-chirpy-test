@@ -3,7 +3,7 @@ id: 910
 title: "Awesome game! Wish I lived clo"
 date: 2009-04-05T18:02:36-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/05/awesome-game-wish-i-lived-clo/'
 permalink: /2009/04/05/awesome-game-wish-i-lived-clo/
 aktt_notify_twitter:

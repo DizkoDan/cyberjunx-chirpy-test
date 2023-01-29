@@ -3,7 +3,7 @@ id: 618
 title: "doing a prod deployment. at le"
 date: 2008-12-16T03:24:24-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/12/16/doing-a-prod-deployment-at-le/'
 permalink: /2008/12/16/doing-a-prod-deployment-at-le/
 aktt_notify_twitter:

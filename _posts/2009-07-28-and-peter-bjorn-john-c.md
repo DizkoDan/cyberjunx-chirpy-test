@@ -3,7 +3,7 @@ id: 1005
 title: "And.... Peter, Bjorn, &amp; John c"
 date: 2009-07-28T19:43:33-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/28/and-peter-bjorn-john-c/'
 permalink: /2009/07/28/and-peter-bjorn-john-c/
 aktt_notify_twitter:

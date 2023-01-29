@@ -2,7 +2,7 @@
 id: 252
 title: "@justj just tell us when you a"
 date: 2007-12-19T10:29:03-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/19/justj-just-tell-us-when-you-a/'
 permalink: /2007/12/19/justj-just-tell-us-when-you-a/
 ljID:

@@ -3,7 +3,7 @@ id: 23
 title: "When the grass is cut the snakes will show"
 date: 2003-09-03T10:14:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=23'
 permalink: /2003/09/03/when-the-grass-is-cut-the-snakes-will-show/
 ljID:

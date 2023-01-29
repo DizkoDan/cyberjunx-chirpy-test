@@ -3,7 +3,7 @@ id: 578
 title: "Voted. Dunno what all the fuss"
 date: 2008-11-04T21:28:02-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/04/voted-dunno-what-all-the-fuss/'
 permalink: /2008/11/04/voted-dunno-what-all-the-fuss/
 ljID:

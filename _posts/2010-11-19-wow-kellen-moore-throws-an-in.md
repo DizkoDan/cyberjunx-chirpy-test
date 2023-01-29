@@ -3,7 +3,7 @@ id: 1474
 title: "Wow! Kellen Moore throws an IN"
 date: 2010-11-19T23:05:13-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/19/wow-kellen-moore-throws-an-in/'
 permalink: /2010/11/19/wow-kellen-moore-throws-an-in/
 aktt_notify_twitter:

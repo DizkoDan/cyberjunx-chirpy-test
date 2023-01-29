@@ -3,7 +3,7 @@ id: 962
 title: "Another great game @lakers!"
 date: 2009-05-23T23:29:12-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/23/another-great-game-lakers/'
 permalink: /2009/05/23/another-great-game-lakers/
 aktt_notify_twitter:

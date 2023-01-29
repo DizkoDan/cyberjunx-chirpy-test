@@ -3,7 +3,7 @@ id: 595
 title: "doing a big deployment at work"
 date: 2008-11-21T04:24:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/21/doing-a-big-deployment-at-work/'
 permalink: /2008/11/21/doing-a-big-deployment-at-work/
 ljID:

@@ -3,7 +3,7 @@ id: 1038
 title: "Cereal bars are good, but Im '"
 date: 2009-09-16T09:51:40-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/09/16/cereal-bars-are-good-but-im/'
 permalink: /2009/09/16/cereal-bars-are-good-but-im/
 aktt_notify_twitter:

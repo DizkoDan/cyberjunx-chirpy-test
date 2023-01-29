@@ -3,7 +3,7 @@ id: 1506
 title: These foundation for a better
 date: 2010-12-31T23:16:28-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/12/31/these-foundation-for-a-better/'
 permalink: /2010/12/31/these-foundation-for-a-better/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 344
 title: "i totally sent this update alr"
 date: 2008-03-28T21:47:40-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/28/i-totally-sent-this-update-alr/'
 permalink: /2008/03/28/i-totally-sent-this-update-alr/
 ljID:

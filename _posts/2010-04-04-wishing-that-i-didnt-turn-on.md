@@ -3,7 +3,7 @@ id: 1115
 title: "Wishing that I didnt turn on '"
 date: 2010-04-04T18:13:31-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/04/04/wishing-that-i-didnt-turn-on/'
 permalink: /2010/04/04/wishing-that-i-didnt-turn-on/
 categories:

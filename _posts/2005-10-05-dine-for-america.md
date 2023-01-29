@@ -3,7 +3,7 @@ id: 2
 title: "Dine for America"
 date: 2005-10-05T06:43:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=2'
 permalink: /2005/10/05/dine-for-america/
 ljID:

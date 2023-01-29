@@ -3,7 +3,7 @@ id: 1626
 title: "Automated firewall iplist updates"
 date: 2012-02-15T10:53:54-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=1626'
 permalink: /2012/02/15/automated-firewall-iplist-updates/
 aktt_notify_twitter:

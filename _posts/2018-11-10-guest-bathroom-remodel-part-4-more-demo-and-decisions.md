@@ -3,7 +3,7 @@ id: 1877
 title: "Guest Bathroom Remodel Part 4&#58; More Demo and Decisions"
 date: 2018-11-10T23:32:59-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://cyberjunx.com/?p=1877'
 permalink: /2018/11/10/guest-bathroom-remodel-part-4-more-demo-and-decisions/
 tc-thumb-fld:

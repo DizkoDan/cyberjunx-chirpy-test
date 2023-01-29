@@ -3,7 +3,7 @@ id: 2124
 title: "Powder Room Remodel Part 4&#58; This is the End."
 date: 2019-12-02T23:14:57-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'https://cyberjunx.com/?p=2124'
 permalink: /2019/12/02/powder-room-remodel-part-4-this-is-the-end/
 categories:

@@ -3,7 +3,7 @@ id: 847
 title: "Got about 1.5 hours sleep. Bet"
 date: 2009-02-17T21:52:49-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/02/17/got-about-15-hours-sleep-bet/'
 permalink: /2009/02/17/got-about-15-hours-sleep-bet/
 aktt_notify_twitter:

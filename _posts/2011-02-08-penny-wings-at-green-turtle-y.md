@@ -3,7 +3,7 @@ id: 1528
 title: "Penny wings at green turtle? Y"
 date: 2011-02-08T20:02:20-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/08/penny-wings-at-green-turtle-y/'
 permalink: /2011/02/08/penny-wings-at-green-turtle-y/
 aktt_notify_twitter:

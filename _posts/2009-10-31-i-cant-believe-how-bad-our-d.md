@@ -3,7 +3,7 @@ id: 1065
 title: "I cant believe how bad our D '"
 date: 2009-10-31T23:40:36-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/31/i-cant-believe-how-bad-our-d/'
 permalink: /2009/10/31/i-cant-believe-how-bad-our-d/
 aktt_notify_twitter:

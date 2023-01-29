@@ -3,7 +3,7 @@ id: 208
 title: "I love Red Hat"
 date: 2007-09-07T14:25:11-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/09/07/i-love-red-hat/'
 permalink: /2007/09/07/i-love-red-hat/
 ljID:

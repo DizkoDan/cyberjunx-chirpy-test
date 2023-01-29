@@ -3,7 +3,7 @@ id: 444
 title: "Made it to the hotel. We got t"
 date: 2008-06-07T19:18:51-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/07/made-it-to-the-hotel-we-got-t/'
 permalink: /2008/06/07/made-it-to-the-hotel-we-got-t/
 ljID:

@@ -3,7 +3,7 @@ id: 27
 title: "Unplugged"
 date: 2003-09-19T03:15:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=27'
 permalink: /2003/09/19/unplugged/
 ljID:

@@ -3,7 +3,7 @@ id: 1119
 title: "Hah! This is for you @captainc"
 date: 2010-04-14T07:25:45-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2010/04/14/hah-this-is-for-you-captainc/'
 permalink: /2010/04/14/hah-this-is-for-you-captainc/
 categories:

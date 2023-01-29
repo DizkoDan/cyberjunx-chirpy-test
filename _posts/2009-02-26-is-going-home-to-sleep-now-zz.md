@@ -3,7 +3,7 @@ id: 862
 title: "is going home to sleep now. zz"
 date: 2009-02-26T08:12:49-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/02/26/is-going-home-to-sleep-now-zz/'
 permalink: /2009/02/26/is-going-home-to-sleep-now-zz/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 50
 title: "Have I mentioned how much my job sucks"
 date: 2001-06-02T09:54:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=50'
 permalink: /2001/06/02/have-i-mentioned-how-much-my-job-sucks/
 ljID:

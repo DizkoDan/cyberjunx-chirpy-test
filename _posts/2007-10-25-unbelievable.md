@@ -3,7 +3,7 @@ id: 215
 title: "Unbelievable"
 date: 2007-10-25T23:18:50-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2007/10/25/unbelievable/'
 permalink: /2007/10/25/unbelievable/
 ljID:

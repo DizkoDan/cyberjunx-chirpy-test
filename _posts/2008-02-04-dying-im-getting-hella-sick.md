@@ -2,7 +2,7 @@
 id: 296
 title: "Dying! Im getting hella sick.'"
 date: 2008-02-04T20:08:25-04:00
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/04/dying-im-getting-hella-sick/'
 permalink: /2008/02/04/dying-im-getting-hella-sick/
 ljID:

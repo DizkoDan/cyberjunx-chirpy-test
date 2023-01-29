@@ -3,7 +3,7 @@ id: 79
 title: "www.serve-you.net is live!"
 date: 2001-05-25T23:54:00-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/?p=79'
 permalink: /2001/05/25/wwwserve-younet-is-live/
 ljID:

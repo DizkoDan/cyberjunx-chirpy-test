@@ -3,7 +3,7 @@ id: 535
 title: "Youre gonna have some sweet w'"
 date: 2008-10-03T17:18:55-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/03/youre-gonna-have-some-sweet-w/'
 permalink: /2008/10/03/youre-gonna-have-some-sweet-w/
 ljID:

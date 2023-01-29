@@ -3,7 +3,7 @@ id: 1529
 title: "I would like to know who it is"
 date: 2011-02-11T15:31:34-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/11/i-would-like-to-know-who-it-is/'
 permalink: /2011/02/11/i-would-like-to-know-who-it-is/
 aktt_notify_twitter:

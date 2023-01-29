@@ -3,7 +3,7 @@ id: 952
 title: "Was able to break away from wo"
 date: 2009-05-15T10:43:51-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/15/was-able-to-break-away-from-wo/'
 permalink: /2009/05/15/was-able-to-break-away-from-wo/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 1620
 title: "So much for enjoying a night out watching sports. Shitty dj just came out. Ive been warned of karaoke to come'"
 date: 2011-11-17T22:41:59-04:00
 author: DizkoDan
-layout: single
+layout: post
 guid: 'http://www.cyberjunx.com/blog/archives/2011/11/17/so-much-for-enjoying-a-night-out-watching-sports-shitty-dj-just-came-out-ive-been-warned-of-karaoke-to-come/'
 permalink: /2011/11/17/so-much-for-enjoying-a-night-out-watching-sports-shitty-dj-just-came-out-ive-been-warned-of-karaoke-to-come/
 aktt_notify_twitter:
