@@ -52,7 +52,7 @@ jobs:
 
       - name: Test site
         run: |
-          bundle exec htmlproofer --assume-extension ./_site --swap-urls '^/BASEURL/:/' --disable-external true --check-html --allow_hash_href
+          bundle exec htmlproofer --assume-extension ./_site --swap-urls '^/BASEURL/:/' --disable-external true --allow_hash_href
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
