@@ -1,9 +1,9 @@
 ---
 id: 1434
-title: 'Skins up 20-7 at the half. Who'
-date: '2010-09-19T17:30:23-04:00'
+title: "Skins up 20-7 at the half. Who"
+date: 2010-09-19T17:30:23-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/09/19/skins-up-20-7-at-the-half-who/'
 permalink: /2010/09/19/skins-up-20-7-at-the-half-who/
 aktt_notify_twitter:

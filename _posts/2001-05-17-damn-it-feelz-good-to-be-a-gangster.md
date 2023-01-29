@@ -1,9 +1,9 @@
 ---
 id: 74
-title: 'Damn it feelz good to be a gangster'
-date: '2001-05-17T10:26:00-04:00'
+title: "Damn it feelz good to be a gangster"
+date: 2001-05-17T10:26:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=74'
 permalink: /2001/05/17/damn-it-feelz-good-to-be-a-gangster/
 ljID:

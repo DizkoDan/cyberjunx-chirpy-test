@@ -1,9 +1,9 @@
 ---
 id: 926
-title: 'Who exactly gets their teeth w'
-date: '2009-04-24T19:06:22-04:00'
+title: "Who exactly gets their teeth w"
+date: 2009-04-24T19:06:22-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/24/who-exactly-gets-their-teeth-w/'
 permalink: /2009/04/24/who-exactly-gets-their-teeth-w/
 aktt_notify_twitter:

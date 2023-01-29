@@ -1,9 +1,9 @@
 ---
 id: 475
-title: '@punquin already set to record'
-date: '2008-07-13T18:11:38-04:00'
+title: "@punquin already set to record"
+date: 2008-07-13T18:11:38-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/13/punquin-already-set-to-record/'
 permalink: /2008/07/13/punquin-already-set-to-record/
 ljID:

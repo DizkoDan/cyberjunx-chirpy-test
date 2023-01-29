@@ -1,8 +1,8 @@
 ---
 id: 248
-title: 'apparently my servers' RAID ca'
-date: '2007-12-18T14:54:11-04:00'
-layout: post
+title: "apparently my servers RAID ca'"
+date: 2007-12-18T14:54:11-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/18/apparently-my-servers-raid-ca/'
 permalink: /2007/12/18/apparently-my-servers-raid-ca/
 ljID:

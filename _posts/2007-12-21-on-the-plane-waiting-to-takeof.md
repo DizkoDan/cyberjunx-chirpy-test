@@ -1,8 +1,8 @@
 ---
 id: 262
-title: 'On the plane waiting to takeof'
-date: '2007-12-21T07:17:19-04:00'
-layout: post
+title: "On the plane waiting to takeof"
+date: 2007-12-21T07:17:19-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/21/on-the-plane-waiting-to-takeof/'
 permalink: /2007/12/21/on-the-plane-waiting-to-takeof/
 ljID:

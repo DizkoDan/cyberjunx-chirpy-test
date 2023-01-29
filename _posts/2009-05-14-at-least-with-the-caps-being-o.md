@@ -1,9 +1,9 @@
 ---
 id: 950
-title: 'at least with the caps being o'
-date: '2009-05-14T06:58:33-04:00'
+title: "at least with the caps being o"
+date: 2009-05-14T06:58:33-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/14/at-least-with-the-caps-being-o/'
 permalink: /2009/05/14/at-least-with-the-caps-being-o/
 aktt_notify_twitter:

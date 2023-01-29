@@ -1,9 +1,9 @@
 ---
 id: 883
-title: 'My comcast cancellation call'
-date: '2009-03-12T21:33:06-04:00'
+title: "My comcast cancellation call"
+date: 2009-03-12T21:33:06-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=883'
 permalink: /2009/03/12/my-comcast-cancellation-call/
 aktt_notify_twitter:

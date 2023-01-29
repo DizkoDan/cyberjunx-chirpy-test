@@ -1,9 +1,9 @@
 ---
 id: 535
-title: 'You're gonna have some sweet w'
-date: '2008-10-03T17:18:55-04:00'
+title: "Youre gonna have some sweet w'"
+date: 2008-10-03T17:18:55-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/03/youre-gonna-have-some-sweet-w/'
 permalink: /2008/10/03/youre-gonna-have-some-sweet-w/
 ljID:

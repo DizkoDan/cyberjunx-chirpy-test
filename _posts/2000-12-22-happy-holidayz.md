@@ -1,9 +1,9 @@
 ---
 id: 109
-title: 'Happy Holidayz!'
-date: '2000-12-22T08:25:00-04:00'
+title: "Happy Holidayz!"
+date: 2000-12-22T08:25:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=109'
 permalink: /2000/12/22/happy-holidayz/
 ljID:

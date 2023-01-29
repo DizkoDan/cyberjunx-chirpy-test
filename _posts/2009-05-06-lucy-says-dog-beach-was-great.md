@@ -1,9 +1,9 @@
 ---
 id: 939
-title: 'Lucy says dog beach was great '
-date: '2009-05-06T18:01:50-04:00'
+title: "Lucy says dog beach was great "
+date: 2009-05-06T18:01:50-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/06/lucy-says-dog-beach-was-great/'
 permalink: /2009/05/06/lucy-says-dog-beach-was-great/
 aktt_notify_twitter:

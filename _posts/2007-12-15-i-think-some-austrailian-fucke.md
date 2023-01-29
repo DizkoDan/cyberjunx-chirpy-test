@@ -1,9 +1,9 @@
 ---
 id: 225
-title: 'I think some austrailian fucke'
-date: '2007-12-15T18:40:53-04:00'
+title: "I think some austrailian fucke"
+date: 2007-12-15T18:40:53-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/15/i-think-some-austrailian-fucke/'
 permalink: /2007/12/15/i-think-some-austrailian-fucke/
 ljID:

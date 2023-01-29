@@ -1,8 +1,8 @@
 ---
 id: 335
-title: 'Going to champps to watch the '
-date: '2008-03-20T19:16:22-04:00'
-layout: post
+title: "Going to champps to watch the "
+date: 2008-03-20T19:16:22-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/20/going-to-champps-to-watch-the/'
 permalink: /2008/03/20/going-to-champps-to-watch-the/
 ljID:

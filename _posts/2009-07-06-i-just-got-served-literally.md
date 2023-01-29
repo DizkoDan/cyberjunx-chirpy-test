@@ -1,9 +1,9 @@
 ---
 id: 991
-title: 'I just got served! Literally, '
-date: '2009-07-06T17:01:48-04:00'
+title: "I just got served! Literally, "
+date: 2009-07-06T17:01:48-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/06/i-just-got-served-literally/'
 permalink: /2009/07/06/i-just-got-served-literally/
 aktt_notify_twitter:

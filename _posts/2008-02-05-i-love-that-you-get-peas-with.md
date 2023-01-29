@@ -1,8 +1,8 @@
 ---
 id: 300
-title: 'I love that you get peas with '
-date: '2008-02-05T17:52:17-04:00'
-layout: post
+title: "I love that you get peas with "
+date: 2008-02-05T17:52:17-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/05/i-love-that-you-get-peas-with/'
 permalink: /2008/02/05/i-love-that-you-get-peas-with/
 ljID:

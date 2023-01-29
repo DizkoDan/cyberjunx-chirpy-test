@@ -1,9 +1,9 @@
 ---
 id: 508
-title: 'Rocking the fuck out to lamb o'
-date: '2008-08-15T16:28:53-04:00'
+title: "Rocking the fuck out to lamb o"
+date: 2008-08-15T16:28:53-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/08/15/rocking-the-fuck-out-to-lamb-o/'
 permalink: /2008/08/15/rocking-the-fuck-out-to-lamb-o/
 ljID:

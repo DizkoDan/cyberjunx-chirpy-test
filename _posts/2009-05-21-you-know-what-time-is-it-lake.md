@@ -1,9 +1,9 @@
 ---
 id: 958
-title: 'You know what time is it? Lake'
-date: '2009-05-21T20:37:49-04:00'
+title: "You know what time is it? Lake"
+date: 2009-05-21T20:37:49-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/21/you-know-what-time-is-it-lake/'
 permalink: /2009/05/21/you-know-what-time-is-it-lake/
 aktt_notify_twitter:

@@ -1,8 +1,8 @@
 ---
 id: 281
-title: 'Jeebus it got cold today!'
-date: '2008-01-02T17:48:41-04:00'
-layout: post
+title: "Jeebus it got cold today!"
+date: 2008-01-02T17:48:41-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/01/02/jeebus-it-got-cold-today/'
 permalink: /2008/01/02/jeebus-it-got-cold-today/
 ljID:

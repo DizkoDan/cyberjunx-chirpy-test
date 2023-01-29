@@ -1,9 +1,9 @@
 ---
 id: 1584
-title: 'Suck it rangers!'
-date: '2011-04-23T18:20:42-04:00'
+title: "Suck it rangers!"
+date: 2011-04-23T18:20:42-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/04/23/suck-it-rangers/'
 permalink: /2011/04/23/suck-it-rangers/
 aktt_notify_twitter:

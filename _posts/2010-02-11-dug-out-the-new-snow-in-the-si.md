@@ -1,9 +1,9 @@
 ---
 id: 1104
-title: 'Dug out the new snow in the si'
-date: '2010-02-11T11:02:52-04:00'
+title: "Dug out the new snow in the si"
+date: 2010-02-11T11:02:52-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/02/11/dug-out-the-new-snow-in-the-si/'
 permalink: /2010/02/11/dug-out-the-new-snow-in-the-si/
 categories:

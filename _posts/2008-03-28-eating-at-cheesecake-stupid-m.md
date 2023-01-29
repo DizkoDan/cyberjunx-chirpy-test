@@ -1,8 +1,8 @@
 ---
 id: 342
-title: 'Eating at cheesecake. Stupid m'
-date: '2008-03-28T19:40:48-04:00'
-layout: post
+title: "Eating at cheesecake. Stupid m"
+date: 2008-03-28T19:40:48-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/28/eating-at-cheesecake-stupid-m/'
 permalink: /2008/03/28/eating-at-cheesecake-stupid-m/
 ljID:

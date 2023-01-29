@@ -1,9 +1,9 @@
 ---
 id: 942
-title: 'Sitting at cantina real on the'
-date: '2009-05-07T18:30:25-04:00'
+title: "Sitting at cantina real on the"
+date: 2009-05-07T18:30:25-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/07/sitting-at-cantina-real-on-the/'
 permalink: /2009/05/07/sitting-at-cantina-real-on-the/
 aktt_notify_twitter:

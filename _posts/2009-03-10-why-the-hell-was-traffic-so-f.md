@@ -1,9 +1,9 @@
 ---
 id: 872
-title: 'why the hell was traffic so F''
-date: '2009-03-10T07:39:58-04:00'
+title: "why the hell was traffic so F'"
+date: 2009-03-10T07:39:58-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/03/10/why-the-hell-was-traffic-so-f/'
 permalink: /2009/03/10/why-the-hell-was-traffic-so-f/
 aktt_notify_twitter:

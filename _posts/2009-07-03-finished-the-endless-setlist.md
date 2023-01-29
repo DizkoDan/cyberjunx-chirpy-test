@@ -1,9 +1,9 @@
 ---
 id: 989
-title: 'Finished the endless setlist. '
-date: '2009-07-03T17:51:57-04:00'
+title: "Finished the endless setlist. "
+date: 2009-07-03T17:51:57-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/03/finished-the-endless-setlist/'
 permalink: /2009/07/03/finished-the-endless-setlist/
 aktt_notify_twitter:

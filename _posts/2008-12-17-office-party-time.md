@@ -1,9 +1,9 @@
 ---
 id: 620
-title: 'office party time!'
-date: '2008-12-17T15:02:52-04:00'
+title: "office party time!"
+date: 2008-12-17T15:02:52-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/12/17/office-party-time/'
 permalink: /2008/12/17/office-party-time/
 aktt_notify_twitter:

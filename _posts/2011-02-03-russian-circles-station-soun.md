@@ -1,9 +1,9 @@
 ---
 id: 1525
-title: 'Russian Circles - Station soun'
-date: '2011-02-03T01:09:00-04:00'
+title: "Russian Circles - Station soun"
+date: 2011-02-03T01:09:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/03/russian-circles-station-soun/'
 permalink: /2011/02/03/russian-circles-station-soun/
 aktt_notify_twitter:

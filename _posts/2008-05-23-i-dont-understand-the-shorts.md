@@ -1,9 +1,9 @@
 ---
 id: 416
-title: 'I don't understand the shorts '
-date: '2008-05-23T15:00:51-04:00'
+title: "I dont understand the shorts '"
+date: 2008-05-23T15:00:51-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/23/i-dont-understand-the-shorts/'
 permalink: /2008/05/23/i-dont-understand-the-shorts/
 ljID:

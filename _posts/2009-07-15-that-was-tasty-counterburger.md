@@ -1,9 +1,9 @@
 ---
 id: 998
-title: 'That was tasty. @counterburger'
-date: '2009-07-15T12:25:25-04:00'
+title: "That was tasty. @counterburger"
+date: 2009-07-15T12:25:25-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/15/that-was-tasty-counterburger/'
 permalink: /2009/07/15/that-was-tasty-counterburger/
 aktt_notify_twitter:

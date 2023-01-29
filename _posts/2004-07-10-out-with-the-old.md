@@ -1,9 +1,9 @@
 ---
 id: 15
-title: 'Out with the old'
-date: '2004-07-10T21:51:00-04:00'
+title: "Out with the old"
+date: 2004-07-10T21:51:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=15'
 permalink: /2004/07/10/out-with-the-old/
 ljID:

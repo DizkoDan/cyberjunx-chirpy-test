@@ -1,9 +1,9 @@
 ---
 id: 238
-title: 'About time for a proper update'
-date: '2007-12-16T05:13:39-04:00'
+title: "About time for a proper update"
+date: 2007-12-16T05:13:39-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/16/about-time-for-a-proper-update/'
 permalink: /2007/12/16/about-time-for-a-proper-update/
 ljID:

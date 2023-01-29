@@ -1,9 +1,9 @@
 ---
 id: 1190
-title: 'I'm disappointed in the level '
-date: '2010-07-20T20:20:39-04:00'
+title: "Im disappointed in the level '"
+date: 2010-07-20T20:20:39-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/07/20/im-disappointed-in-the-level/'
 permalink: /2010/07/20/im-disappointed-in-the-level/
 categories:

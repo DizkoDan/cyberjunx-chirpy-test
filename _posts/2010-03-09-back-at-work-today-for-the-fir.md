@@ -1,9 +1,9 @@
 ---
 id: 1111
-title: 'Back at work today for the fir'
-date: '2010-03-09T10:21:04-04:00'
+title: "Back at work today for the fir"
+date: 2010-03-09T10:21:04-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/03/09/back-at-work-today-for-the-fir/'
 permalink: /2010/03/09/back-at-work-today-for-the-fir/
 categories:

@@ -1,9 +1,9 @@
 ---
 id: 1460
-title: 'I hate UVA, but good for them '
-date: '2010-10-30T15:21:58-04:00'
+title: "I hate UVA, but good for them "
+date: 2010-10-30T15:21:58-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/10/30/i-hate-uva-but-good-for-them/'
 permalink: /2010/10/30/i-hate-uva-but-good-for-them/
 aktt_notify_twitter:

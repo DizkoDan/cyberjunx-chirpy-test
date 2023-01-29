@@ -1,9 +1,9 @@
 ---
 id: 35
-title: 'beers, steers, and queers.'
-date: '2003-03-09T22:27:00-04:00'
+title: "beers, steers, and queers."
+date: 2003-03-09T22:27:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=35'
 permalink: /2003/03/09/beers-steers-queers/
 ljID:

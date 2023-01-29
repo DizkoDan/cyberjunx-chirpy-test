@@ -1,9 +1,9 @@
 ---
 id: 1499
-title: 'Ok so maybe I shouldn't compla'
-date: '2010-12-18T20:40:22-04:00'
+title: "Ok so maybe I shouldnt compla'"
+date: 2010-12-18T20:40:22-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/12/18/ok-so-maybe-i-shouldnt-compla/'
 permalink: /2010/12/18/ok-so-maybe-i-shouldnt-compla/
 aktt_notify_twitter:

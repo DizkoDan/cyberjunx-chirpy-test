@@ -1,9 +1,9 @@
 ---
 id: 402
-title: 'yay! just found out I have to '
-date: '2008-05-19T18:09:22-04:00'
+title: "yay! just found out I have to "
+date: 2008-05-19T18:09:22-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/19/yay-just-found-out-i-have-to/'
 permalink: /2008/05/19/yay-just-found-out-i-have-to/
 ljID:

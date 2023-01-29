@@ -1,9 +1,9 @@
 ---
 id: 1020
-title: 'Made it to nags head in less t'
-date: '2009-08-21T14:02:11-04:00'
+title: "Made it to nags head in less t"
+date: 2009-08-21T14:02:11-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/08/21/made-it-to-nags-head-in-less-t/'
 permalink: /2009/08/21/made-it-to-nags-head-in-less-t/
 aktt_notify_twitter:

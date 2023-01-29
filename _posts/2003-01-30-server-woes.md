@@ -1,9 +1,9 @@
 ---
 id: 43
-title: 'Server Woes'
-date: '2003-01-30T19:52:00-04:00'
+title: "Server Woes"
+date: 2003-01-30T19:52:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=43'
 permalink: /2003/01/30/server-woes/
 ljID:

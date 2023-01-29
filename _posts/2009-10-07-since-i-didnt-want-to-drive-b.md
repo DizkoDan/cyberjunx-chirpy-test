@@ -1,9 +1,9 @@
 ---
 id: 1054
-title: 'Since I didn't want to drive b'
-date: '2009-10-07T19:29:09-04:00'
+title: "Since I didnt want to drive b'"
+date: 2009-10-07T19:29:09-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/07/since-i-didnt-want-to-drive-b/'
 permalink: /2009/10/07/since-i-didnt-want-to-drive-b/
 aktt_notify_twitter:

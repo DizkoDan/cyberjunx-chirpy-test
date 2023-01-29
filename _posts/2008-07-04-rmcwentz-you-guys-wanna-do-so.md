@@ -1,9 +1,9 @@
 ---
 id: 466
-title: '@rmcwentz you guys wanna do so'
-date: '2008-07-04T18:46:28-04:00'
+title: "@rmcwentz you guys wanna do so"
+date: 2008-07-04T18:46:28-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/04/rmcwentz-you-guys-wanna-do-so/'
 permalink: /2008/07/04/rmcwentz-you-guys-wanna-do-so/
 ljID:

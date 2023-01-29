@@ -1,9 +1,9 @@
 ---
 id: 935
-title: 'Just left Venice, weather is a'
-date: '2009-05-03T19:56:42-04:00'
+title: "Just left Venice, weather is a"
+date: 2009-05-03T19:56:42-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/03/just-left-venice-weather-is-a/'
 permalink: /2009/05/03/just-left-venice-weather-is-a/
 aktt_notify_twitter:

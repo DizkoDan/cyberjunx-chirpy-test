@@ -1,9 +1,9 @@
 ---
 id: 437
-title: 'Having a margarita while waiti'
-date: '2008-06-06T15:25:19-04:00'
+title: "Having a margarita while waiti"
+date: 2008-06-06T15:25:19-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/06/having-a-margarita-while-waiti/'
 permalink: /2008/06/06/having-a-margarita-while-waiti/
 ljID:

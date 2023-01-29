@@ -1,9 +1,9 @@
 ---
 id: 1012
-title: 'Claying complete. Next scratch'
-date: '2009-08-01T14:12:06-04:00'
+title: "Claying complete. Next scratch"
+date: 2009-08-01T14:12:06-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/08/01/claying-complete-next-scratch/'
 permalink: /2009/08/01/claying-complete-next-scratch/
 aktt_notify_twitter:

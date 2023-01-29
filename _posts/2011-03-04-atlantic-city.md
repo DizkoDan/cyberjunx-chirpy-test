@@ -1,9 +1,9 @@
 ---
 id: 1545
-title: 'Atlantic city'
-date: '2011-03-04T18:55:00-04:00'
+title: "Atlantic city"
+date: 2011-03-04T18:55:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/03/04/atlantic-city/'
 permalink: /2011/03/04/atlantic-city/
 aktt_notify_twitter:

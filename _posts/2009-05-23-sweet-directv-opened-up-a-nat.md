@@ -1,9 +1,9 @@
 ---
 id: 961
-title: 'Sweet, directv opened up a nat'
-date: '2009-05-23T21:51:09-04:00'
+title: "Sweet, directv opened up a nat"
+date: 2009-05-23T21:51:09-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/23/sweet-directv-opened-up-a-nat/'
 permalink: /2009/05/23/sweet-directv-opened-up-a-nat/
 aktt_notify_twitter:

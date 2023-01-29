@@ -1,9 +1,9 @@
 ---
 id: 357
-title: '@lgdizko only bitches (and I d'
-date: '2008-04-04T14:06:04-04:00'
+title: "@lgdizko only bitches (and I d"
+date: 2008-04-04T14:06:04-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/04/lgdizko-only-bitches-and-i-d/'
 permalink: /2008/04/04/lgdizko-only-bitches-and-i-d/
 ljID:

@@ -1,8 +1,8 @@
 ---
 id: 267
-title: 'Making chili &amp; watching an'
-date: '2007-12-26T18:16:24-04:00'
-layout: post
+title: "Making chili &amp; watching an"
+date: 2007-12-26T18:16:24-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/26/making-chili-watching-an/'
 permalink: /2007/12/26/making-chili-watching-an/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 621
-title: 'is bored and unmotivated to do'
-date: '2008-12-19T15:16:24-04:00'
+title: "is bored and unmotivated to do"
+date: 2008-12-19T15:16:24-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/12/19/is-bored-and-unmotivated-to-do/'
 permalink: /2008/12/19/is-bored-and-unmotivated-to-do/
 aktt_notify_twitter:

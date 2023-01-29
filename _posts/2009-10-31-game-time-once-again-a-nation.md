@@ -1,9 +1,9 @@
 ---
 id: 1064
-title: 'Game time! Once again a nation'
-date: '2009-10-31T20:09:26-04:00'
+title: "Game time! Once again a nation"
+date: 2009-10-31T20:09:26-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/31/game-time-once-again-a-nation/'
 permalink: /2009/10/31/game-time-once-again-a-nation/
 aktt_notify_twitter:

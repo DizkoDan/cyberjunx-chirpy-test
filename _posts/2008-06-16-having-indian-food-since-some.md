@@ -1,9 +1,9 @@
 ---
 id: 457
-title: 'Having indian food since "some'
-date: '2008-06-16T20:24:54-04:00'
+title: Having indian food since some
+date: 2008-06-16T20:24:54-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/16/having-indian-food-since-some/'
 permalink: /2008/06/16/having-indian-food-since-some/
 ljID:

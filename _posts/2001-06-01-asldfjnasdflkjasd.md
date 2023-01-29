@@ -1,9 +1,9 @@
 ---
 id: 49
-title: ASLDFJNASDFLKJASD!!!!
-date: '2001-06-01T01:48:00-04:00'
+title: "ASLDFJNASDFLKJASD!!!!"
+date: 2001-06-01T01:48:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=49'
 permalink: /2001/06/01/asldfjnasdflkjasd/
 ljID:

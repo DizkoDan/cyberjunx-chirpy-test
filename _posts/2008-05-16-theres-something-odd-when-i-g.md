@@ -1,9 +1,9 @@
 ---
 id: 401
-title: 'There's something odd when I g'
-date: '2008-05-16T15:24:07-04:00'
+title: "Theres something odd when I g'"
+date: 2008-05-16T15:24:07-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/16/theres-something-odd-when-i-g/'
 permalink: /2008/05/16/theres-something-odd-when-i-g/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 1601
-title: 'Clutch "Texan Book of the Dead" Official Video'
-date: '2011-05-18T08:14:18-04:00'
+title: Clutch "Texan Book of the Dead" Official Video
+date: 2011-05-18T08:14:18-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/05/18/clutch-texan-book-of-the-dead-official-video/'
 permalink: /2011/05/18/clutch-texan-book-of-the-dead-official-video/
 aktt_notify_twitter:

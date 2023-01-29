@@ -1,9 +1,9 @@
 ---
 id: 1510
-title: 'Just walked past Brooks Laich '
-date: '2011-01-05T16:50:01-04:00'
+title: "Just walked past Brooks Laich "
+date: 2011-01-05T16:50:01-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/01/05/just-walked-past-brooks-laich/'
 permalink: /2011/01/05/just-walked-past-brooks-laich/
 aktt_notify_twitter:

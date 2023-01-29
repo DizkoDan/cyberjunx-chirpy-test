@@ -1,9 +1,9 @@
 ---
 id: 1074
-title: 'Working at 5:30am tomorrow 3:3'
-date: '2009-11-16T20:41:13-04:00'
+title: "Working at 5&#58;30am tomorrow 3&#58;3"
+date: 2009-11-16T20:41:13-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/11/16/working-at-530am-tomorrow-33/'
 permalink: /2009/11/16/working-at-530am-tomorrow-33/
 aktt_notify_twitter:

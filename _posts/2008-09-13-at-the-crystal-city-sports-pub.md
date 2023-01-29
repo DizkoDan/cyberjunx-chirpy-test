@@ -1,9 +1,9 @@
 ---
 id: 525
-title: 'At the crystal city sports pub'
-date: '2008-09-13T19:27:59-04:00'
+title: "At the crystal city sports pub"
+date: 2008-09-13T19:27:59-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/13/at-the-crystal-city-sports-pub/'
 permalink: /2008/09/13/at-the-crystal-city-sports-pub/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 33
-title: 'Another one bites the dust'
-date: '2003-04-26T09:03:00-04:00'
+title: "Another one bites the dust"
+date: 2003-04-26T09:03:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=33'
 permalink: /2003/04/26/another-one-bites-the-dust/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 1060
-title: 'Anyone want 2 tickets to tomor'
-date: '2009-10-16T13:02:53-04:00'
+title: "Anyone want 2 tickets to tomor"
+date: 2009-10-16T13:02:53-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/16/anyone-want-2-tickets-to-tomor/'
 permalink: /2009/10/16/anyone-want-2-tickets-to-tomor/
 aktt_notify_twitter:

@@ -1,9 +1,9 @@
 ---
 id: 397
-title: 'Slowest. Starbucks. Ever.'
-date: '2008-05-14T09:04:25-04:00'
+title: "Slowest. Starbucks. Ever."
+date: 2008-05-14T09:04:25-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/14/slowest-starbucks-ever/'
 permalink: /2008/05/14/slowest-starbucks-ever/
 ljID:

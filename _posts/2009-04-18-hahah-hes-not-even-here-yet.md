@@ -1,9 +1,9 @@
 ---
 id: 923
-title: 'Hahah! He's not even here yet.'
-date: '2009-04-18T20:35:37-04:00'
+title: "Hahah! Hes not even here yet.'"
+date: 2009-04-18T20:35:37-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/18/hahah-hes-not-even-here-yet/'
 permalink: /2009/04/18/hahah-hes-not-even-here-yet/
 aktt_notify_twitter:

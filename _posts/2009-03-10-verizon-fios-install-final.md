@@ -1,9 +1,9 @@
 ---
 id: 873
-title: 'Verizon FIOS Install Final'
-date: '2009-03-10T10:27:15-04:00'
+title: "Verizon FIOS Install Final"
+date: 2009-03-10T10:27:15-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=873'
 permalink: /2009/03/10/verizon-fios-install-final/
 aktt_notify_twitter:

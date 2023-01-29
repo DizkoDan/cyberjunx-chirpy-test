@@ -1,9 +1,9 @@
 ---
 id: 1468
-title: 'This Idaho stadium looks like '
-date: '2010-11-12T22:12:17-04:00'
+title: "This Idaho stadium looks like "
+date: 2010-11-12T22:12:17-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/12/this-idaho-stadium-looks-like/'
 permalink: /2010/11/12/this-idaho-stadium-looks-like/
 aktt_notify_twitter:

@@ -1,9 +1,9 @@
 ---
 id: 233
-title: 'Walking to a pub in picadilly'
-date: '2007-12-15T15:59:11-04:00'
+title: "Walking to a pub in picadilly"
+date: 2007-12-15T15:59:11-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/15/walking-to-a-pub-in-picadilly/'
 permalink: /2007/12/15/walking-to-a-pub-in-picadilly/
 ljID:

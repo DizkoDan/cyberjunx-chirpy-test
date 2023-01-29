@@ -1,9 +1,9 @@
 ---
 id: 600
-title: 'Woke up at 6 with a wicked hea'
-date: '2008-11-25T09:24:47-04:00'
+title: "Woke up at 6 with a wicked hea"
+date: 2008-11-25T09:24:47-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/25/woke-up-at-6-with-a-wicked-hea/'
 permalink: /2008/11/25/woke-up-at-6-with-a-wicked-hea/
 ljID:

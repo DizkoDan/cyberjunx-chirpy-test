@@ -1,9 +1,9 @@
 ---
 id: 569
-title: '@cprichard hah! that is awesom'
-date: '2008-10-29T21:38:46-04:00'
+title: "@cprichard hah! that is awesom"
+date: 2008-10-29T21:38:46-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/29/cprichard-hah-that-is-awesom/'
 permalink: /2008/10/29/cprichard-hah-that-is-awesom/
 ljID:

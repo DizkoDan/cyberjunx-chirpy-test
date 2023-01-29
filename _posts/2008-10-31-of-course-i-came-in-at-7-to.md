@@ -1,9 +1,9 @@
 ---
 id: 576
-title: 'Of course... I came in at 7 to'
-date: '2008-10-31T13:05:04-04:00'
+title: "Of course... I came in at 7 to"
+date: 2008-10-31T13:05:04-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/31/of-course-i-came-in-at-7-to/'
 permalink: /2008/10/31/of-course-i-came-in-at-7-to/
 ljID:

@@ -1,8 +1,8 @@
 ---
 id: 273
-title: '@elizorbeth keep that hope ali'
-date: '2008-01-01T17:55:09-04:00'
-layout: post
+title: "@elizorbeth keep that hope ali"
+date: 2008-01-01T17:55:09-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/01/01/elizorbeth-keep-that-hope-ali/'
 permalink: /2008/01/01/elizorbeth-keep-that-hope-ali/
 ljID:

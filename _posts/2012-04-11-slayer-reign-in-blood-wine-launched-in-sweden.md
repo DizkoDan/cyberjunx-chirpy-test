@@ -1,9 +1,9 @@
 ---
 id: 1632
-title: '\m/ SLAYER \m/'
-date: '2012-04-11T22:01:52-04:00'
+title: \m/ SLAYER \m/
+date: 2012-04-11T22:01:52-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=1632'
 permalink: /2012/04/11/slayer-reign-in-blood-wine-launched-in-sweden/
 aktt_notify_twitter:

@@ -1,9 +1,9 @@
 ---
 id: 1512
-title: 'Alright, we need to start a ch'
-date: '2011-01-12T21:36:37-04:00'
+title: "Alright, we need to start a ch"
+date: 2011-01-12T21:36:37-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/01/12/alright-we-need-to-start-a-ch/'
 permalink: /2011/01/12/alright-we-need-to-start-a-ch/
 aktt_notify_twitter:

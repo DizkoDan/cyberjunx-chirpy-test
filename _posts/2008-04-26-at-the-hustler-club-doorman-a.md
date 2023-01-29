@@ -1,9 +1,9 @@
 ---
 id: 386
-title: 'At the hustler club. Doorman a'
-date: '2008-04-26T22:00:39-04:00'
+title: "At the hustler club. Doorman a"
+date: 2008-04-26T22:00:39-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/26/at-the-hustler-club-doorman-a/'
 permalink: /2008/04/26/at-the-hustler-club-doorman-a/
 ljID:

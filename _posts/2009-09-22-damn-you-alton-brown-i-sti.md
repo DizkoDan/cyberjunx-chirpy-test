@@ -1,9 +1,9 @@
 ---
 id: 1042
-title: 'Damn you Alton Brown.... I sti'
-date: '2009-09-22T07:21:05-04:00'
+title: "Damn you Alton Brown.... I sti"
+date: 2009-09-22T07:21:05-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/09/22/damn-you-alton-brown-i-sti/'
 permalink: /2009/09/22/damn-you-alton-brown-i-sti/
 aktt_notify_twitter:

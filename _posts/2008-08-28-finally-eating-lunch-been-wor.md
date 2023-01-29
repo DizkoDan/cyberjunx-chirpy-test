@@ -1,9 +1,9 @@
 ---
 id: 515
-title: 'Finally eating lunch. Been wor'
-date: '2008-08-28T15:22:33-04:00'
+title: "Finally eating lunch. Been wor"
+date: 2008-08-28T15:22:33-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/08/28/finally-eating-lunch-been-wor/'
 permalink: /2008/08/28/finally-eating-lunch-been-wor/
 ljID:

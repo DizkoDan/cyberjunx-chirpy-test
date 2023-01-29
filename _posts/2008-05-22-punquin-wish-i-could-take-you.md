@@ -1,9 +1,9 @@
 ---
 id: 415
-title: '@punquin wish I could take you'
-date: '2008-05-22T17:44:48-04:00'
+title: "@punquin wish I could take you"
+date: 2008-05-22T17:44:48-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/22/punquin-wish-i-could-take-you/'
 permalink: /2008/05/22/punquin-wish-i-could-take-you/
 ljID:

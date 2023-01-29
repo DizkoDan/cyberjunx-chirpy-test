@@ -1,8 +1,8 @@
 ---
 id: 316
-title: '@punquin if i can make it home'
-date: '2008-02-27T14:40:33-04:00'
-layout: post
+title: "@punquin if i can make it home"
+date: 2008-02-27T14:40:33-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/27/punquin-if-i-can-make-it-home/'
 permalink: /2008/02/27/punquin-if-i-can-make-it-home/
 ljID:

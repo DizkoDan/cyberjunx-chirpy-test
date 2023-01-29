@@ -1,9 +1,9 @@
 ---
 id: 1046
-title: 'I'm having a boy!'
-date: '2009-09-25T13:44:01-04:00'
+title: "Im having a boy!'"
+date: 2009-09-25T13:44:01-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/09/25/im-having-a-boy/'
 permalink: /2009/09/25/im-having-a-boy/
 aktt_notify_twitter:

@@ -1,9 +1,9 @@
 ---
 id: 602
-title: 'Getting ready to enjoy turkey '
-date: '2008-11-27T15:38:58-04:00'
+title: "Getting ready to enjoy turkey "
+date: 2008-11-27T15:38:58-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/27/getting-ready-to-enjoy-turkey/'
 permalink: /2008/11/27/getting-ready-to-enjoy-turkey/
 ljID:

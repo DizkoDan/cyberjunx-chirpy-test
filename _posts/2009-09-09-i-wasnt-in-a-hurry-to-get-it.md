@@ -1,9 +1,9 @@
 ---
 id: 1034
-title: 'I wasn't in a hurry to get it '
-date: '2009-09-09T19:52:46-04:00'
+title: "I wasnt in a hurry to get it '"
+date: 2009-09-09T19:52:46-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/09/09/i-wasnt-in-a-hurry-to-get-it/'
 permalink: /2009/09/09/i-wasnt-in-a-hurry-to-get-it/
 aktt_notify_twitter:

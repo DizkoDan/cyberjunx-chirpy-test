@@ -1,9 +1,9 @@
 ---
 id: 1457
-title: 'Apparently my neighborhood is '
-date: '2010-10-27T19:51:50-04:00'
+title: "Apparently my neighborhood is "
+date: 2010-10-27T19:51:50-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/10/27/apparently-my-neighborhood-is/'
 permalink: /2010/10/27/apparently-my-neighborhood-is/
 aktt_notify_twitter:

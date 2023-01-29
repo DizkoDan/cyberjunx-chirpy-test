@@ -1,9 +1,9 @@
 ---
 id: 414
-title: 'I called the desk to complain '
-date: '2008-05-22T16:18:52-04:00'
+title: "I called the desk to complain "
+date: 2008-05-22T16:18:52-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/22/i-called-the-desk-to-complain/'
 permalink: /2008/05/22/i-called-the-desk-to-complain/
 ljID:

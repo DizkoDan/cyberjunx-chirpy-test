@@ -1,9 +1,9 @@
 ---
 id: 1066
-title: 'Sitting at anita's waiting for'
-date: '2009-11-02T18:59:02-04:00'
+title: "Sitting at anitas waiting for'"
+date: 2009-11-02T18:59:02-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/11/02/sitting-at-anitas-waiting-for/'
 permalink: /2009/11/02/sitting-at-anitas-waiting-for/
 aktt_notify_twitter:

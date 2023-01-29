@@ -1,9 +1,9 @@
 ---
 id: 1450
-title: 'At sam and omie's for breakfas'
-date: '2010-10-10T08:47:36-04:00'
+title: "At sam and omies for breakfas'"
+date: 2010-10-10T08:47:36-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/10/10/at-sam-and-omies-for-breakfas/'
 permalink: /2010/10/10/at-sam-and-omies-for-breakfas/
 aktt_notify_twitter:

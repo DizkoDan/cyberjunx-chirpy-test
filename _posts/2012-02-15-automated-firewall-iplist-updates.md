@@ -1,9 +1,9 @@
 ---
 id: 1626
-title: 'Automated firewall iplist updates'
-date: '2012-02-15T10:53:54-04:00'
+title: "Automated firewall iplist updates"
+date: 2012-02-15T10:53:54-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=1626'
 permalink: /2012/02/15/automated-firewall-iplist-updates/
 aktt_notify_twitter:
@@ -26,16 +26,35 @@ So I’ve used [pingdom](http://www.pingdom.com "Pingdom") for years to monitor 
 
 The problem I often have though, is that monitoring servers are added/removed fairly often. I usually have pretty strict firewall rules on my servers, so allowing these servers is a must, since the activities that they perform is often seen as an attack. Pingdom publishes a list of active servers in the control panel, but keeping up with this and manually updating my firewall rules (I use [CSF](http://www.configserver.com/cp/csf.html "CSF") on my cPanel servers) can be a pain. Luckily Pingdom also has an [RSS feed](https://www.pingdom.com/rss/probe_servers.xml "RSS feed") with the server list, though it’s in XML format of course. So I finally got around to setting up a script to automate updating the firewall rules daily with this list.
 
-Some quick research on this subject found that CSF has a variable in it’s config called GLOBAL\_ALLOW that allows you to feed LFD a list of IP’s via a URL. This is great! However, it requires the list to be in plain text, with one IP per line. As I stated above, the list provided by Pingdom is an XML file, so of course this needs to be massaged in order to be fed to CSF directly.
+Some quick research on this subject found that CSF has a variable in it’s config called `GLOBAL\_ALLOW` that allows you to feed LFD a list of IP’s via a URL. This is great! However, it requires the list to be in plain text, with one IP per line. As I stated above, the list provided by Pingdom is an XML file, so of course this needs to be massaged in order to be fed to CSF directly.
 
-`<br></br># The follow Global options allow you to specify a URL where csf can grab a<br></br># centralised copy of an IP allow or deny block list of your own. You need to<br></br># specify the full URL in the following options, i.e.:<br></br># http://www.somelocation.com/allow.txt<br></br>#<br></br># The actual retrieval of these IP's is controlled by lfd, so you need to set<br></br># LF_GLOBAL to the interval (in seconds) when you want lfd to retrieve. lfd<br></br># will perform the retrieval when it runs and then again at the specified<br></br># interval. A sensible interval would probably be every 3600 seconds (1 hour).<br></br># A minimum value of 300 is enforced for LF_GLOBAL if enabled<br></br>#<br></br># You do not have to specify both an allow and a deny file<br></br>#<br></br># You can also configure a global ignore file for IP's that lfd should ignore<br></br>LF_GLOBAL =  Default: 0 [0 or 60-604800]`
+```bash
+# The follow Global options allow you to specify a URL where csf can grab a
+# centralised copy of an IP allow or deny block list of your own. You need to
+# specify the full URL in the following options, i.e.:
+# http://www.somelocation.com/allow.txt
+#
+# The actual retrieval of these IP's is controlled by lfd, so you need to set
+# LF_GLOBAL to the interval (in seconds) when you want lfd to retrieve. lfd
+# will perform the retrieval when it runs and then again at the specified
+# interval. A sensible interval would probably be every 3600 seconds (1 hour).
+# A minimum value of 300 is enforced for LF_GLOBAL if enabled
+#
+# You do not have to specify both an allow and a deny file
+#
+# You can also configure a global ignore file for IP's that lfd should ignore
+LF_GLOBAL = "0"
 
-GLOBAL\_ALLOW =
+GLOBAL_ALLOW = ""
+GLOBAL_DENY = ""
+GLOBAL_IGNORE = ""
+
+```
 
 So I wrote a quick and dirty script which grabs the RSS feed, pulls the IP’s only, and puts them in a file with one IP per line. I then take this list and copy it to a location on a web server, and set the GLOBAL\_ALLOW to get this once a day. Success! Next step was to automate it via cron, and make sure that we have a backup list (I setup 5 backups, in case I don’t notice right away).
 
 The crontab entry:  
-`<br></br>45 23 * * * /root/scripts/update_pingdom_ips.sh >/dev/null 2>&1<br></br>`
+`45 23 * * * /root/scripts/update_pingdom_ips.sh >/dev/null 2>&1`
 
 The script:  
 ```bash

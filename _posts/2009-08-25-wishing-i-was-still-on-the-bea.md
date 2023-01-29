@@ -1,9 +1,9 @@
 ---
 id: 1022
-title: 'Wishing I was still on the bea'
-date: '2009-08-25T12:14:58-04:00'
+title: "Wishing I was still on the bea"
+date: 2009-08-25T12:14:58-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/08/25/wishing-i-was-still-on-the-bea/'
 permalink: /2009/08/25/wishing-i-was-still-on-the-bea/
 aktt_notify_twitter:

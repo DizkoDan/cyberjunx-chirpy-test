@@ -1,9 +1,9 @@
 ---
 id: 1459
-title: 'Wow! Ice is already going down'
-date: '2010-10-28T11:10:50-04:00'
+title: "Wow! Ice is already going down"
+date: 2010-10-28T11:10:50-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/10/28/wow-ice-is-already-going-down/'
 permalink: /2010/10/28/wow-ice-is-already-going-down/
 aktt_notify_twitter:

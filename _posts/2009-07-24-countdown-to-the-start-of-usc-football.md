@@ -1,9 +1,9 @@
 ---
 id: 1001
-title: 'Countdown to the start of USC Football!'
-date: '2009-07-24T12:18:19-04:00'
+title: "Countdown to the start of USC Football!"
+date: 2009-07-24T12:18:19-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=1001'
 permalink: /2009/07/24/countdown-to-the-start-of-usc-football/
 aktt_notify_twitter:

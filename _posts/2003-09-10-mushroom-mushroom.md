@@ -1,9 +1,9 @@
 ---
 id: 24
-title: 'MUSHROOM MUSHROOM'
-date: '2003-09-10T06:23:00-04:00'
+title: "MUSHROOM MUSHROOM"
+date: 2003-09-10T06:23:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=24'
 permalink: /2003/09/10/mushroom-mushroom/
 ljID:

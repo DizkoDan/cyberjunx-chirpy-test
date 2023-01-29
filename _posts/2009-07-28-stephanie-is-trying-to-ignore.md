@@ -1,9 +1,9 @@
 ---
 id: 1007
-title: 'Stephanie is trying to ignore '
-date: '2009-07-28T19:51:14-04:00'
+title: "Stephanie is trying to ignore "
+date: 2009-07-28T19:51:14-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/28/stephanie-is-trying-to-ignore/'
 permalink: /2009/07/28/stephanie-is-trying-to-ignore/
 aktt_notify_twitter:

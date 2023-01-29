@@ -1,9 +1,9 @@
 ---
 id: 1082
-title: 'Drew Brees = total badass. Tha'
-date: '2009-12-01T00:12:58-04:00'
+title: "Drew Brees = total badass. Tha"
+date: 2009-12-01T00:12:58-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/12/01/drew-brees-total-badass-tha/'
 permalink: /2009/12/01/drew-brees-total-badass-tha/
 aktt_notify_twitter:

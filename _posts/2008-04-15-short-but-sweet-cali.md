@@ -1,9 +1,9 @@
 ---
 id: 374
-title: 'Short but sweet Cali trip; New drums for me'
-date: '2008-04-15T23:33:58-04:00'
+title: "Short but sweet Cali trip; New drums for me"
+date: 2008-04-15T23:33:58-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=374'
 permalink: /2008/04/15/short-but-sweet-cali/
 ljID:

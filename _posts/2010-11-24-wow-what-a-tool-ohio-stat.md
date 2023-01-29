@@ -1,9 +1,9 @@
 ---
 id: 1479
-title: 'Wow! What a tool.... Ohio Stat'
-date: '2010-11-24T11:22:38-04:00'
+title: "Wow! What a tool.... Ohio Stat"
+date: 2010-11-24T11:22:38-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/24/wow-what-a-tool-ohio-stat/'
 permalink: /2010/11/24/wow-what-a-tool-ohio-stat/
 aktt_notify_twitter:

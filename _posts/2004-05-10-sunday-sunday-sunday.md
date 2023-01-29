@@ -1,9 +1,9 @@
 ---
 id: 18
-title: 'Sunday Sunday Sunday!'
-date: '2004-05-10T21:51:00-04:00'
+title: "Sunday Sunday Sunday!"
+date: 2004-05-10T21:51:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=18'
 permalink: /2004/05/10/sunday-sunday-sunday/
 ljID:

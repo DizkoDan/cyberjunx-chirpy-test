@@ -1,9 +1,9 @@
 ---
 id: 986
-title: 'He-brew = the best beer name e'
-date: '2009-06-28T15:30:19-04:00'
+title: "He-brew = the best beer name e"
+date: 2009-06-28T15:30:19-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/06/28/he-brew-the-best-beer-name-e/'
 permalink: /2009/06/28/he-brew-the-best-beer-name-e/
 aktt_notify_twitter:

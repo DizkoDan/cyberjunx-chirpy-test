@@ -1,9 +1,9 @@
 ---
 id: 948
-title: 'Game on. LET'S GO CAPS!'
-date: '2009-05-13T19:12:00-04:00'
+title: "Game on. LETS GO CAPS!'"
+date: 2009-05-13T19:12:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/13/game-on-lets-go-caps/'
 permalink: /2009/05/13/game-on-lets-go-caps/
 aktt_notify_twitter:

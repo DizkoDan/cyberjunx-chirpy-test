@@ -1,9 +1,9 @@
 ---
 id: 1487
-title: 'Nicely done @MalcSmitty !'
-date: '2010-12-05T00:49:17-04:00'
+title: "Nicely done @MalcSmitty !"
+date: 2010-12-05T00:49:17-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/12/05/nicely-done-malcsmitty/'
 permalink: /2010/12/05/nicely-done-malcsmitty/
 aktt_notify_twitter:

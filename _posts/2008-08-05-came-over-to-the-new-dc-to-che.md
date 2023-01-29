@@ -1,9 +1,9 @@
 ---
 id: 501
-title: 'Came over to the new DC to che'
-date: '2008-08-05T12:33:48-04:00'
+title: "Came over to the new DC to che"
+date: 2008-08-05T12:33:48-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/08/05/came-over-to-the-new-dc-to-che/'
 permalink: /2008/08/05/came-over-to-the-new-dc-to-che/
 ljID:

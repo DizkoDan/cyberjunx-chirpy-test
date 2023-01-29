@@ -1,9 +1,9 @@
 ---
 id: 236
-title: 'i just slept for 11 hours stra'
-date: '2007-12-15T07:16:59-04:00'
+title: "i just slept for 11 hours stra"
+date: 2007-12-15T07:16:59-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/15/i-just-slept-for-11-hours-stra/'
 permalink: /2007/12/15/i-just-slept-for-11-hours-stra/
 ljID:

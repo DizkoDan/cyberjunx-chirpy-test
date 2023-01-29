@@ -1,9 +1,9 @@
 ---
 id: 1556
-title: 'Zuffa Purchases Strikeforce - MMA Fighting'
-date: '2011-03-12T17:47:29-04:00'
+title: "Zuffa Purchases Strikeforce - MMA Fighting"
+date: 2011-03-12T17:47:29-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/03/12/zuffa-purchases-strikeforce-mma-fighting/'
 permalink: /2011/03/12/zuffa-purchases-strikeforce-mma-fighting/
 aktt_notify_twitter:

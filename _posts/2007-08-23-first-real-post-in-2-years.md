@@ -1,9 +1,9 @@
 ---
 id: 184
-title: 'First real post in 2 years'
-date: '2007-08-23T22:14:05-04:00'
+title: "First real post in 2 years"
+date: 2007-08-23T22:14:05-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=184'
 permalink: /2007/08/23/first-real-post-in-2-years/
 ljID:

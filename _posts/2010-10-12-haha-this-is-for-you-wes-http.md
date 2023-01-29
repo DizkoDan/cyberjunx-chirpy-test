@@ -1,9 +1,9 @@
 ---
 id: 1451
-title: 'Haha this is for you Wes: http'
-date: '2010-10-12T18:46:16-04:00'
+title: "Haha this is for you Wes&#58; http"
+date: 2010-10-12T18:46:16-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/10/12/haha-this-is-for-you-wes-http/'
 permalink: /2010/10/12/haha-this-is-for-you-wes-http/
 aktt_notify_twitter:

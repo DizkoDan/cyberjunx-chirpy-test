@@ -1,9 +1,9 @@
 ---
 id: 1138
-title: 'Made it home. Even with 3 stop'
-date: '2010-05-09T16:17:50-04:00'
+title: "Made it home. Even with 3 stop"
+date: 2010-05-09T16:17:50-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/05/09/made-it-home-even-with-3-stop/'
 permalink: /2010/05/09/made-it-home-even-with-3-stop/
 categories:

@@ -1,9 +1,9 @@
 ---
 id: 1017
-title: 'What is the proper reaction to'
-date: '2009-08-14T14:10:08-04:00'
+title: "What is the proper reaction to"
+date: 2009-08-14T14:10:08-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/08/14/what-is-the-proper-reaction-to/'
 permalink: /2009/08/14/what-is-the-proper-reaction-to/
 aktt_notify_twitter:

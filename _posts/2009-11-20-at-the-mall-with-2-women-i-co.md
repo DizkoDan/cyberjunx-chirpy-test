@@ -1,9 +1,9 @@
 ---
 id: 1076
-title: 'At the mall with 2 women. I co'
-date: '2009-11-20T22:18:07-04:00'
+title: "At the mall with 2 women. I co"
+date: 2009-11-20T22:18:07-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/11/20/at-the-mall-with-2-women-i-co/'
 permalink: /2009/11/20/at-the-mall-with-2-women-i-co/
 aktt_notify_twitter:

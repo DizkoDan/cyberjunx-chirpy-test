@@ -1,9 +1,9 @@
 ---
 id: 507
-title: 'Having coffe then going to bum'
-date: '2008-08-10T10:18:42-04:00'
+title: "Having coffe then going to bum"
+date: 2008-08-10T10:18:42-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/08/10/having-coffe-then-going-to-bum/'
 permalink: /2008/08/10/having-coffe-then-going-to-bum/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 1448
-title: 'This is the craziest football '
-date: '2010-10-03T23:06:43-04:00'
+title: "This is the craziest football "
+date: 2010-10-03T23:06:43-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/10/03/this-is-the-craziest-football/'
 permalink: /2010/10/03/this-is-the-craziest-football/
 aktt_notify_twitter:

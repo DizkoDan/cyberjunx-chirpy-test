@@ -1,9 +1,9 @@
 ---
 id: 1458
-title: 'Nice shutout for Neuvirth.'
-date: '2010-10-27T21:39:48-04:00'
+title: "Nice shutout for Neuvirth."
+date: 2010-10-27T21:39:48-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/10/27/nice-shutout-for-neuvirth/'
 permalink: /2010/10/27/nice-shutout-for-neuvirth/
 aktt_notify_twitter:

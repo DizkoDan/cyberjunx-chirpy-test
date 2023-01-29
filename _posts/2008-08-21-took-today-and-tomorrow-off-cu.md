@@ -1,9 +1,9 @@
 ---
 id: 512
-title: 'Took today and tomorrow off cu'
-date: '2008-08-21T10:26:52-04:00'
+title: "Took today and tomorrow off cu"
+date: 2008-08-21T10:26:52-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/08/21/took-today-and-tomorrow-off-cu/'
 permalink: /2008/08/21/took-today-and-tomorrow-off-cu/
 ljID:

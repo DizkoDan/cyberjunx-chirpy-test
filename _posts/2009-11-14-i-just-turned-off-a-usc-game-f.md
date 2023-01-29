@@ -1,9 +1,9 @@
 ---
 id: 1073
-title: 'I just turned off a usc game f'
-date: '2009-11-14T19:30:49-04:00'
+title: "I just turned off a usc game f"
+date: 2009-11-14T19:30:49-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/11/14/i-just-turned-off-a-usc-game-f/'
 permalink: /2009/11/14/i-just-turned-off-a-usc-game-f/
 aktt_notify_twitter:

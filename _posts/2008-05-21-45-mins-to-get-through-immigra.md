@@ -1,9 +1,9 @@
 ---
 id: 408
-title: '45 mins to get through immigra'
-date: '2008-05-21T03:02:44-04:00'
+title: "45 mins to get through immigra"
+date: 2008-05-21T03:02:44-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/21/45-mins-to-get-through-immigra/'
 permalink: /2008/05/21/45-mins-to-get-through-immigra/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 104
-title: 'dum duh dum dum'
-date: '2001-01-24T08:59:00-04:00'
+title: "dum duh dum dum"
+date: 2001-01-24T08:59:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=104'
 permalink: /2001/01/24/dum-duh-dum-dum/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 946
-title: 'back at work today. wish I was'
-date: '2009-05-11T07:16:49-04:00'
+title: "back at work today. wish I was"
+date: 2009-05-11T07:16:49-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/11/back-at-work-today-wish-i-was/'
 permalink: /2009/05/11/back-at-work-today-wish-i-was/
 aktt_notify_twitter:

@@ -1,8 +1,8 @@
 ---
 id: 250
-title: '@punquin I just ate a ton of h'
-date: '2007-12-18T17:35:35-04:00'
-layout: post
+title: "@punquin I just ate a ton of h"
+date: 2007-12-18T17:35:35-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/18/punquin-i-just-ate-a-ton-of-h/'
 permalink: /2007/12/18/punquin-i-just-ate-a-ton-of-h/
 ljID:

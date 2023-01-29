@@ -1,9 +1,9 @@
 ---
 id: 364
-title: 'Get your sexy on'
-date: '2008-04-09T11:21:14-04:00'
+title: "Get your sexy on"
+date: 2008-04-09T11:21:14-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/09/get-your-sexy-on/'
 permalink: /2008/04/09/get-your-sexy-on/
 ljID:

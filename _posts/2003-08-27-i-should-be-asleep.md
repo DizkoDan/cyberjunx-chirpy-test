@@ -1,9 +1,9 @@
 ---
 id: 32
-title: 'I should be asleep'
-date: '2003-08-27T15:53:00-04:00'
+title: "I should be asleep"
+date: 2003-08-27T15:53:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=32'
 permalink: /2003/08/27/i-should-be-asleep/
 ljID:

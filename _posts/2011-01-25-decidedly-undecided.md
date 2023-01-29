@@ -1,9 +1,9 @@
 ---
 id: 1516
-title: 'Decidedly undecided.'
-date: '2011-01-25T09:47:32-04:00'
+title: "Decidedly undecided."
+date: 2011-01-25T09:47:32-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/01/25/decidedly-undecided/'
 permalink: /2011/01/25/decidedly-undecided/
 aktt_notify_twitter:

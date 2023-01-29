@@ -1,9 +1,9 @@
 ---
 id: 389
-title: '@JRSPipboy it will indeed rock'
-date: '2008-05-02T09:48:59-04:00'
+title: "@JRSPipboy it will indeed rock"
+date: 2008-05-02T09:48:59-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/02/jrspipboy-it-will-indeed-rock/'
 permalink: /2008/05/02/jrspipboy-it-will-indeed-rock/
 ljID:

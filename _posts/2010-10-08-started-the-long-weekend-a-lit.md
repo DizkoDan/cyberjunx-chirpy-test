@@ -1,9 +1,9 @@
 ---
 id: 1449
-title: 'Started the long weekend a lit'
-date: '2010-10-08T12:27:30-04:00'
+title: "Started the long weekend a lit"
+date: 2010-10-08T12:27:30-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/10/08/started-the-long-weekend-a-lit/'
 permalink: /2010/10/08/started-the-long-weekend-a-lit/
 aktt_notify_twitter:

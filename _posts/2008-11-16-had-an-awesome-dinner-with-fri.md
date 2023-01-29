@@ -1,9 +1,9 @@
 ---
 id: 590
-title: 'had an awesome dinner with fri'
-date: '2008-11-16T23:14:47-04:00'
+title: "had an awesome dinner with fri"
+date: 2008-11-16T23:14:47-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/16/had-an-awesome-dinner-with-fri/'
 permalink: /2008/11/16/had-an-awesome-dinner-with-fri/
 ljID:

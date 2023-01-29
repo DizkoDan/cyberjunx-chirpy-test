@@ -1,8 +1,8 @@
 ---
 id: 331
-title: 'T-mobile wifi sucks so much! C'
-date: '2008-03-11T09:33:47-04:00'
-layout: post
+title: "T-mobile wifi sucks so much! C"
+date: 2008-03-11T09:33:47-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/11/t-mobile-wifi-sucks-so-much-c/'
 permalink: /2008/03/11/t-mobile-wifi-sucks-so-much-c/
 ljID:

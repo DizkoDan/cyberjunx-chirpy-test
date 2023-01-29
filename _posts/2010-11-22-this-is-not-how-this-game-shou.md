@@ -1,9 +1,9 @@
 ---
 id: 1477
-title: 'This is not how this game shou'
-date: '2010-11-22T21:13:20-04:00'
+title: "This is not how this game shou"
+date: 2010-11-22T21:13:20-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/22/this-is-not-how-this-game-shou/'
 permalink: /2010/11/22/this-is-not-how-this-game-shou/
 aktt_notify_twitter:

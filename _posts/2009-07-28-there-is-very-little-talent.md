@@ -1,9 +1,9 @@
 ---
 id: 1006
-title: 'There is very little 'talent' '
-date: '2009-07-28T19:35:56-04:00'
+title: "There is very little talent' '"
+date: 2009-07-28T19:35:56-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/28/there-is-very-little-talent/'
 permalink: /2009/07/28/there-is-very-little-talent/
 aktt_notify_twitter:

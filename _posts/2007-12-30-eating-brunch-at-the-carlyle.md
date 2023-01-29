@@ -1,8 +1,8 @@
 ---
 id: 270
-title: 'Eating brunch at the Carlyle. '
-date: '2007-12-30T14:09:31-04:00'
-layout: post
+title: "Eating brunch at the Carlyle. "
+date: 2007-12-30T14:09:31-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/30/eating-brunch-at-the-carlyle/'
 permalink: /2007/12/30/eating-brunch-at-the-carlyle/
 ljID:

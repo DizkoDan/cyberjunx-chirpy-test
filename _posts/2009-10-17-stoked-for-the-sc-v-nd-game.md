@@ -1,9 +1,9 @@
 ---
 id: 1061
-title: 'Stoked for the SC v. ND game. '
-date: '2009-10-17T15:37:35-04:00'
+title: "Stoked for the SC v. ND game. "
+date: 2009-10-17T15:37:35-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/17/stoked-for-the-sc-v-nd-game/'
 permalink: /2009/10/17/stoked-for-the-sc-v-nd-game/
 aktt_notify_twitter:

@@ -1,9 +1,9 @@
 ---
 id: 520
-title: 'Drinking a beer, trying to fog'
-date: '2008-09-10T17:15:57-04:00'
+title: "Drinking a beer, trying to fog"
+date: 2008-09-10T17:15:57-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/10/drinking-a-beer-trying-to-fog/'
 permalink: /2008/09/10/drinking-a-beer-trying-to-fog/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 635
-title: 'Is at the metallica show! \m/'
-date: '2009-01-15T21:17:17-04:00'
+title: Is at the metallica show! \m/
+date: 2009-01-15T21:17:17-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/01/15/is-at-the-metallica-show-m/'
 permalink: /2009/01/15/is-at-the-metallica-show-m/
 aktt_notify_twitter:

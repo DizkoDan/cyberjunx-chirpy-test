@@ -1,9 +1,9 @@
 ---
 id: 1199
-title: 'RT @JetBlue: Back by VERY popu'
-date: '2010-08-17T09:25:24-04:00'
+title: "RT @JetBlue&#58; Back by VERY popu"
+date: 2010-08-17T09:25:24-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/08/17/rt-jetblue-back-by-very-popu/'
 permalink: /2010/08/17/rt-jetblue-back-by-very-popu/
 categories:

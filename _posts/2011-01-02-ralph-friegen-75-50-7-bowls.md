@@ -1,9 +1,9 @@
 ---
 id: 1509
-title: 'Ralph Friegen 75-50 &amp; 7 bowls '
-date: '2011-01-02T21:32:56-04:00'
+title: "Ralph Friegen 75-50 &amp; 7 bowls "
+date: 2011-01-02T21:32:56-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/01/02/ralph-friegen-75-50-7-bowls/'
 permalink: /2011/01/02/ralph-friegen-75-50-7-bowls/
 aktt_notify_twitter:

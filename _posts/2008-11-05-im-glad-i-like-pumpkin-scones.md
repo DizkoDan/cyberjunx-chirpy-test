@@ -1,9 +1,9 @@
 ---
 id: 579
-title: 'I'm glad I like pumpkin scones'
-date: '2008-11-05T10:03:09-04:00'
+title: "Im glad I like pumpkin scones'"
+date: 2008-11-05T10:03:09-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/05/im-glad-i-like-pumpkin-scones/'
 permalink: /2008/11/05/im-glad-i-like-pumpkin-scones/
 ljID:

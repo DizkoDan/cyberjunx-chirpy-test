@@ -1,9 +1,9 @@
 ---
 id: 1050
-title: 'Good game trojans! Finally kep'
-date: '2009-10-03T23:47:45-04:00'
+title: "Good game trojans! Finally kep"
+date: 2009-10-03T23:47:45-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/03/good-game-trojans-finally-kep/'
 permalink: /2009/10/03/good-game-trojans-finally-kep/
 aktt_notify_twitter:

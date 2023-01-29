@@ -1,9 +1,9 @@
 ---
 id: 28
-title: 'been awhile eh?'
-date: '2003-08-19T10:24:00-04:00'
+title: "been awhile eh?"
+date: 2003-08-19T10:24:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=28'
 permalink: /2003/08/19/been-awhile-eh/
 ljID:

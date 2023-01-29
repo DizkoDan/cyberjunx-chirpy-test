@@ -1,9 +1,9 @@
 ---
 id: 473
-title: 'Sitting in the parking lot at '
-date: '2008-07-13T16:32:35-04:00'
+title: "Sitting in the parking lot at "
+date: 2008-07-13T16:32:35-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/13/sitting-in-the-parking-lot-at/'
 permalink: /2008/07/13/sitting-in-the-parking-lot-at/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 1003
-title: 'Woke up @ 6, did some painting'
-date: '2009-07-25T10:28:09-04:00'
+title: "Woke up @ 6, did some painting"
+date: 2009-07-25T10:28:09-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/25/woke-up-6-did-some-painting/'
 permalink: /2009/07/25/woke-up-6-did-some-painting/
 aktt_notify_twitter:

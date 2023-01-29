@@ -1,9 +1,9 @@
 ---
 id: 1105
-title: 'I'm seriously gonna cry like a'
-date: '2010-02-08T20:37:02-04:00'
+title: "Im seriously gonna cry like a'"
+date: 2010-02-08T20:37:02-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/02/08/im-seriously-gonna-cry-like-a/'
 permalink: /2010/02/08/im-seriously-gonna-cry-like-a/
 categories:

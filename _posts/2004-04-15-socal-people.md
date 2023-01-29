@@ -1,9 +1,9 @@
 ---
 id: 19
-title: 'SoCal People!'
-date: '2004-04-15T10:54:00-04:00'
+title: "SoCal People!"
+date: 2004-04-15T10:54:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=19'
 permalink: /2004/04/15/socal-people/
 ljID:

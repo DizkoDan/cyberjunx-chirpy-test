@@ -1,9 +1,9 @@
 ---
 id: 964
-title: 'At american flatbread for a co'
-date: '2009-05-27T19:15:47-04:00'
+title: "At american flatbread for a co"
+date: 2009-05-27T19:15:47-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/27/at-american-flatbread-for-a-co/'
 permalink: /2009/05/27/at-american-flatbread-for-a-co/
 aktt_notify_twitter:

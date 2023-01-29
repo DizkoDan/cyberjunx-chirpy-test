@@ -1,9 +1,9 @@
 ---
 id: 387
-title: 'Meshuggah was pretty badass! W'
-date: '2008-04-26T22:48:59-04:00'
+title: "Meshuggah was pretty badass! W"
+date: 2008-04-26T22:48:59-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/26/meshuggah-was-pretty-badass-w/'
 permalink: /2008/04/26/meshuggah-was-pretty-badass-w/
 ljID:

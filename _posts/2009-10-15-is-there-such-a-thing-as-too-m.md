@@ -1,9 +1,9 @@
 ---
 id: 1059
-title: 'Is there such a thing as too m'
-date: '2009-10-15T17:58:36-04:00'
+title: "Is there such a thing as too m"
+date: 2009-10-15T17:58:36-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/15/is-there-such-a-thing-as-too-m/'
 permalink: /2009/10/15/is-there-such-a-thing-as-too-m/
 aktt_notify_twitter:

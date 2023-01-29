@@ -1,9 +1,9 @@
 ---
 id: 183
-title: 'Almost, but not quite'
-date: '2007-08-23T11:46:29-04:00'
+title: "Almost, but not quite"
+date: 2007-08-23T11:46:29-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=183'
 permalink: /2007/08/23/almost-but-not-quite/
 ljID:

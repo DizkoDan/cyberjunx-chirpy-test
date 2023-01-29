@@ -1,9 +1,9 @@
 ---
 id: 656
-title: 'Life, serve-you.net, and everything else'
-date: '2009-02-03T06:56:40-04:00'
+title: "Life, serve-you.net, and everything else"
+date: 2009-02-03T06:56:40-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=656'
 permalink: /2009/02/03/life-serve-younet-and-everything-else/
 aktt_notify_twitter:

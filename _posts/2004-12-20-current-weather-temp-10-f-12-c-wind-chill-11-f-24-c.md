@@ -1,9 +1,9 @@
 ---
 id: 11
-title: 'Current Weather - Temp: 10 Â°F / -12 Â°C Wind Chill: -11 Â°F  / -24 Â°C'
-date: '2004-12-20T06:28:00-04:00'
+title: "Current Weather - Temp&#58; 10 Â°F / -12 Â°C Wind Chill&#58; -11 Â°F  / -24 Â°C"
+date: 2004-12-20T06:28:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=11'
 permalink: /2004/12/20/current-weather-temp-10-f-12-c-wind-chill-11-f-24-c/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 1182
-title: 'Thx again OJ &amp; Reggie: RT @LAT'
-date: '2010-07-06T16:38:18-04:00'
+title: "Thx again OJ &amp; Reggie&#58; RT @LAT"
+date: 2010-07-06T16:38:18-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/07/06/thx-again-oj-reggie-rt-lat/'
 permalink: /2010/07/06/thx-again-oj-reggie-rt-lat/
 categories:

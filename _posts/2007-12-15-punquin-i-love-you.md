@@ -1,9 +1,9 @@
 ---
 id: 220
-title: '@punquin I LOVE YOU!!!!'
-date: '2007-12-15T21:13:58-04:00'
+title: "@punquin I LOVE YOU!!!!"
+date: 2007-12-15T21:13:58-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/15/punquin-i-love-you/'
 permalink: /2007/12/15/punquin-i-love-you/
 ljID:

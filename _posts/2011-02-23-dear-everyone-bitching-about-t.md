@@ -1,9 +1,9 @@
 ---
 id: 1533
-title: 'Dear everyone bitching about t'
-date: '2011-02-23T10:02:47-04:00'
+title: "Dear everyone bitching about t"
+date: 2011-02-23T10:02:47-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/23/dear-everyone-bitching-about-t/'
 permalink: /2011/02/23/dear-everyone-bitching-about-t/
 aktt_notify_twitter:

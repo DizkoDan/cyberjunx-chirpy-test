@@ -1,9 +1,9 @@
 ---
 id: 966
-title: 'Nice! @lakers got it done in s'
-date: '2009-05-29T23:38:53-04:00'
+title: "Nice! @lakers got it done in s"
+date: 2009-05-29T23:38:53-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/29/nice-lakers-got-it-done-in-s/'
 permalink: /2009/05/29/nice-lakers-got-it-done-in-s/
 aktt_notify_twitter:

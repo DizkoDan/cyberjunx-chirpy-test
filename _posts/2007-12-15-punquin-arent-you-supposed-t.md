@@ -1,9 +1,9 @@
 ---
 id: 226
-title: '@punquin aren't you supposed t'
-date: '2007-12-15T18:35:22-04:00'
+title: "@punquin arent you supposed t'"
+date: 2007-12-15T18:35:22-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/15/punquin-arent-you-supposed-t/'
 permalink: /2007/12/15/punquin-arent-you-supposed-t/
 ljID:

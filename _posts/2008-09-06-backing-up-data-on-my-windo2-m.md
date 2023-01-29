@@ -1,9 +1,9 @@
 ---
 id: 519
-title: 'Backing up data on my windo2 m'
-date: '2008-09-06T00:40:54-04:00'
+title: "Backing up data on my windo2 m"
+date: 2008-09-06T00:40:54-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/06/backing-up-data-on-my-windo2-m/'
 permalink: /2008/09/06/backing-up-data-on-my-windo2-m/
 ljID:

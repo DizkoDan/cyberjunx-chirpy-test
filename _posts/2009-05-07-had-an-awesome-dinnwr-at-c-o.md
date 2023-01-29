@@ -1,9 +1,9 @@
 ---
 id: 943
-title: 'Had an awesome dinnwr at c &amp; o'
-date: '2009-05-07T23:49:25-04:00'
+title: "Had an awesome dinnwr at c &amp; o"
+date: 2009-05-07T23:49:25-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/07/had-an-awesome-dinnwr-at-c-o/'
 permalink: /2009/05/07/had-an-awesome-dinnwr-at-c-o/
 aktt_notify_twitter:

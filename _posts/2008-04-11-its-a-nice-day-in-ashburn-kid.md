@@ -1,9 +1,9 @@
 ---
 id: 367
-title: 'Its a nice day in ashburn, kid'
-date: '2008-04-11T14:28:48-04:00'
+title: "Its a nice day in ashburn, kid"
+date: 2008-04-11T14:28:48-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/11/its-a-nice-day-in-ashburn-kid/'
 permalink: /2008/04/11/its-a-nice-day-in-ashburn-kid/
 ljID:

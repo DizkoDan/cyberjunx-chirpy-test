@@ -1,9 +1,9 @@
 ---
 id: 544
-title: '@lgdizko one of j's apprentice'
-date: '2008-10-15T14:14:17-04:00'
+title: "@lgdizko one of js apprentice'"
+date: 2008-10-15T14:14:17-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/15/lgdizko-one-of-js-apprentice/'
 permalink: /2008/10/15/lgdizko-one-of-js-apprentice/
 ljID:

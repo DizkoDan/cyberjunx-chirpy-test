@@ -1,9 +1,9 @@
 ---
 id: 47
-title: 'Down time again'
-date: '2001-08-23T19:50:00-04:00'
+title: "Down time again"
+date: 2001-08-23T19:50:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=47'
 permalink: /2001/08/23/down-time-again/
 ljID:

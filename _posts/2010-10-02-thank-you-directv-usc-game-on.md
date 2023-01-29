@@ -1,9 +1,9 @@
 ---
 id: 1447
-title: 'Thank you directv! USC game on'
-date: '2010-10-02T20:03:51-04:00'
+title: "Thank you directv! USC game on"
+date: 2010-10-02T20:03:51-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/10/02/thank-you-directv-usc-game-on/'
 permalink: /2010/10/02/thank-you-directv-usc-game-on/
 aktt_notify_twitter:

@@ -1,8 +1,8 @@
 ---
 id: 351
-title: 'testy test test'
-date: '2008-04-02T12:56:11-04:00'
-layout: post
+title: "testy test test"
+date: 2008-04-02T12:56:11-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/02/testy-test-test/'
 permalink: /2008/04/02/testy-test-test/
 ljID:

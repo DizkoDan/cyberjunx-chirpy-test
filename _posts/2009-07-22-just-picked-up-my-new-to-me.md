@@ -1,9 +1,9 @@
 ---
 id: 999
-title: 'Just picked up my new (to me) '
-date: '2009-07-22T17:31:42-04:00'
+title: "Just picked up my new (to me) "
+date: 2009-07-22T17:31:42-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/07/22/just-picked-up-my-new-to-me/'
 permalink: /2009/07/22/just-picked-up-my-new-to-me/
 aktt_notify_twitter:

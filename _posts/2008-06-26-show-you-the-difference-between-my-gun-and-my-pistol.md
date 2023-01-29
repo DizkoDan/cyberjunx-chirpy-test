@@ -1,9 +1,9 @@
 ---
 id: 461
-title: 'Show you the difference between my gun and my pistol'
-date: '2008-06-26T11:03:16-04:00'
+title: "Show you the difference between my gun and my pistol"
+date: 2008-06-26T11:03:16-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=461'
 permalink: /2008/06/26/show-you-the-difference-between-my-gun-and-my-pistol/
 ljID:

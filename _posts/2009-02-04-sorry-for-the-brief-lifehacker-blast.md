@@ -1,9 +1,9 @@
 ---
 id: 682
-title: 'Sorry for the brief lifehacker blast'
-date: '2009-02-04T12:22:38-04:00'
+title: "Sorry for the brief lifehacker blast"
+date: 2009-02-04T12:22:38-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=682'
 permalink: /2009/02/04/sorry-for-the-brief-lifehacker-blast/
 aktt_notify_twitter:

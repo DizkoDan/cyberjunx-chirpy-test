@@ -1,9 +1,9 @@
 ---
 id: 1072
-title: 'The rock has been brought! Thi'
-date: '2009-11-10T16:15:10-04:00'
+title: "The rock has been brought! Thi"
+date: 2009-11-10T16:15:10-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/11/10/the-rock-has-been-brought-thi/'
 permalink: /2009/11/10/the-rock-has-been-brought-thi/
 aktt_notify_twitter:

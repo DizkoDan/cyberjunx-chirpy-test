@@ -1,9 +1,9 @@
 ---
 id: 614
-title: 'Slingbox + directv = savior!'
-date: '2008-12-10T02:48:16-04:00'
+title: "Slingbox + directv = savior!"
+date: 2008-12-10T02:48:16-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/12/10/slingbox-directv-savior/'
 permalink: /2008/12/10/slingbox-directv-savior/
 ljID:

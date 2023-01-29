@@ -1,9 +1,9 @@
 ---
 id: 545
-title: 'At LAX, checking in'
-date: '2008-10-15T14:35:33-04:00'
+title: "At LAX, checking in"
+date: 2008-10-15T14:35:33-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/15/at-lax-checking-in/'
 permalink: /2008/10/15/at-lax-checking-in/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 615
-title: 'starving! waiting for pizza to'
-date: '2008-12-11T19:48:31-04:00'
+title: "starving! waiting for pizza to"
+date: 2008-12-11T19:48:31-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/12/11/starving-waiting-for-pizza-to/'
 permalink: /2008/12/11/starving-waiting-for-pizza-to/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 370
-title: 'Just got back into the bay. Ge'
-date: '2008-04-13T18:29:44-04:00'
+title: "Just got back into the bay. Ge"
+date: 2008-04-13T18:29:44-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/13/just-got-back-into-the-bay-ge/'
 permalink: /2008/04/13/just-got-back-into-the-bay-ge/
 ljID:

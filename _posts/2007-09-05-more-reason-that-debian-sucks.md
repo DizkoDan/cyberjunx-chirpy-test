@@ -1,9 +1,9 @@
 ---
 id: 207
-title: 'More reason that Debian sucks'
-date: '2007-09-05T21:59:02-04:00'
+title: "More reason that Debian sucks"
+date: 2007-09-05T21:59:02-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/09/05/more-reason-that-debian-sucks/'
 permalink: /2007/09/05/more-reason-that-debian-sucks/
 ljID:

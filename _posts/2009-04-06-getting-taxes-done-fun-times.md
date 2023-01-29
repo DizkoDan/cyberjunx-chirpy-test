@@ -1,9 +1,9 @@
 ---
 id: 912
-title: 'Getting taxes done. Fun times!'
-date: '2009-04-06T19:01:42-04:00'
+title: "Getting taxes done. Fun times!"
+date: 2009-04-06T19:01:42-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/06/getting-taxes-done-fun-times/'
 permalink: /2009/04/06/getting-taxes-done-fun-times/
 aktt_notify_twitter:

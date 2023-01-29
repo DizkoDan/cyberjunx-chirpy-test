@@ -1,9 +1,9 @@
 ---
 id: 229
-title: 'I never noticed the luggafe th'
-date: '2007-12-15T17:43:33-04:00'
+title: "I never noticed the luggafe th"
+date: 2007-12-15T17:43:33-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/15/i-never-noticed-the-luggafe-th/'
 permalink: /2007/12/15/i-never-noticed-the-luggafe-th/
 ljID:

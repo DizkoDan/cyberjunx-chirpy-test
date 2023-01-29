@@ -1,9 +1,9 @@
 ---
 id: 1524
-title: 'Sleep was only a partial succe'
-date: '2011-02-02T21:29:24-04:00'
+title: "Sleep was only a partial succe"
+date: 2011-02-02T21:29:24-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/02/sleep-was-only-a-partial-succe/'
 permalink: /2011/02/02/sleep-was-only-a-partial-succe/
 aktt_notify_twitter:

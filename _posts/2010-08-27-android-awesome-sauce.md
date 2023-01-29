@@ -1,9 +1,9 @@
 ---
 id: 1205
-title: 'Android Awesome Sauce'
-date: '2010-08-27T09:52:25-04:00'
+title: "Android Awesome Sauce"
+date: 2010-08-27T09:52:25-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=1205'
 permalink: /2010/08/27/android-awesome-sauce/
 aktt_notify_twitter:

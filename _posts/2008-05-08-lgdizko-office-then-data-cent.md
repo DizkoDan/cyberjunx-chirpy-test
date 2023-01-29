@@ -1,9 +1,9 @@
 ---
 id: 393
-title: '@lgdizko office then data cent'
-date: '2008-05-08T21:59:26-04:00'
+title: "@lgdizko office then data cent"
+date: 2008-05-08T21:59:26-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/08/lgdizko-office-then-data-cent/'
 permalink: /2008/05/08/lgdizko-office-then-data-cent/
 ljID:

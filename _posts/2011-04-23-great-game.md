@@ -1,9 +1,9 @@
 ---
 id: 1583
-title: 'Great game!'
-date: '2011-04-23T17:53:09-04:00'
+title: "Great game!"
+date: 2011-04-23T17:53:09-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/04/23/great-game/'
 permalink: /2011/04/23/great-game/
 aktt_notify_twitter:

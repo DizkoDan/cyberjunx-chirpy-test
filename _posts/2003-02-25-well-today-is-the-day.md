@@ -1,9 +1,9 @@
 ---
 id: 38
-title: 'Well, today is the day'
-date: '2003-02-25T04:21:00-04:00'
+title: "Well, today is the day"
+date: 2003-02-25T04:21:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=38'
 permalink: /2003/02/25/well-today-is-the-day/
 ljID:

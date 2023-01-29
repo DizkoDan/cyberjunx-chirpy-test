@@ -1,9 +1,9 @@
 ---
 id: 378
-title: 'Having dinner at los toltecos'
-date: '2008-04-19T19:22:44-04:00'
+title: "Having dinner at los toltecos"
+date: 2008-04-19T19:22:44-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/19/having-dinner-at-los-toltecos/'
 permalink: /2008/04/19/having-dinner-at-los-toltecos/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 384
-title: 'Just had a pretty awesome mexi'
-date: '2008-04-26T19:20:05-04:00'
+title: "Just had a pretty awesome mexi"
+date: 2008-04-26T19:20:05-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/26/just-had-a-pretty-awesome-mexi/'
 permalink: /2008/04/26/just-had-a-pretty-awesome-mexi/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 562
-title: 'They are interviewing Kevin Sm'
-date: '2008-10-24T20:46:31-04:00'
+title: "They are interviewing Kevin Sm"
+date: 2008-10-24T20:46:31-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/24/they-are-interviewing-kevin-sm/'
 permalink: /2008/10/24/they-are-interviewing-kevin-sm/
 ljID:

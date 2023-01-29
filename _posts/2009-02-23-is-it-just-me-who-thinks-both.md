@@ -1,9 +1,9 @@
 ---
 id: 860
-title: 'is it just me who thinks both '
-date: '2009-02-23T09:57:20-04:00'
+title: "is it just me who thinks both "
+date: 2009-02-23T09:57:20-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/02/23/is-it-just-me-who-thinks-both/'
 permalink: /2009/02/23/is-it-just-me-who-thinks-both/
 aktt_notify_twitter:

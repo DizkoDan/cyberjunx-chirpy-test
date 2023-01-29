@@ -1,9 +1,9 @@
 ---
 id: 524
-title: 'Managed to get a haircut sched'
-date: '2008-09-12T17:10:08-04:00'
+title: "Managed to get a haircut sched"
+date: 2008-09-12T17:10:08-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/12/managed-to-get-a-haircut-sched/'
 permalink: /2008/09/12/managed-to-get-a-haircut-sched/
 ljID:

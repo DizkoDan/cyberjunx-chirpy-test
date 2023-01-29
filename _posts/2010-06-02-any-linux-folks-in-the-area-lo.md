@@ -1,9 +1,9 @@
 ---
 id: 1155
-title: 'Any linux folks in the area lo'
-date: '2010-06-02T11:44:51-04:00'
+title: "Any linux folks in the area lo"
+date: 2010-06-02T11:44:51-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/06/02/any-linux-folks-in-the-area-lo/'
 permalink: /2010/06/02/any-linux-folks-in-the-area-lo/
 categories:

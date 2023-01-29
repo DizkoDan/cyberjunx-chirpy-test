@@ -1,9 +1,9 @@
 ---
 id: 1103
-title: 'The best part of my day is the'
-date: '2010-02-12T07:07:20-04:00'
+title: "The best part of my day is the"
+date: 2010-02-12T07:07:20-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/02/12/the-best-part-of-my-day-is-the/'
 permalink: /2010/02/12/the-best-part-of-my-day-is-the/
 categories:

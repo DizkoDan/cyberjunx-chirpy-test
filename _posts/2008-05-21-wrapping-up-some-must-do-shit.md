@@ -1,9 +1,9 @@
 ---
 id: 409
-title: 'Wrapping up some must do shit '
-date: '2008-05-21T08:59:34-04:00'
+title: "Wrapping up some must do shit "
+date: 2008-05-21T08:59:34-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/21/wrapping-up-some-must-do-shit/'
 permalink: /2008/05/21/wrapping-up-some-must-do-shit/
 ljID:

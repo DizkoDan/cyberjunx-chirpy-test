@@ -1,9 +1,9 @@
 ---
 id: 1618
-title: 'Much better morning'
-date: '2011-11-07T13:05:43-04:00'
+title: "Much better morning"
+date: 2011-11-07T13:05:43-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/11/07/much-better-morning/'
 permalink: /2011/11/07/much-better-morning/
 aktt_notify_twitter:

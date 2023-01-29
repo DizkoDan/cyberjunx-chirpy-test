@@ -1,9 +1,9 @@
 ---
 id: 876
-title: 'Back at the dentist since I ha'
-date: '2009-03-10T15:43:55-04:00'
+title: "Back at the dentist since I ha"
+date: 2009-03-10T15:43:55-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/03/10/back-at-the-dentist-since-i-ha/'
 permalink: /2009/03/10/back-at-the-dentist-since-i-ha/
 aktt_notify_twitter:

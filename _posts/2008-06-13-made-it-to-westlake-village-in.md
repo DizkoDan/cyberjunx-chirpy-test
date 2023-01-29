@@ -1,9 +1,9 @@
 ---
 id: 453
-title: 'Made it to westlake village in'
-date: '2008-06-13T19:28:29-04:00'
+title: "Made it to westlake village in"
+date: 2008-06-13T19:28:29-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/13/made-it-to-westlake-village-in/'
 permalink: /2008/06/13/made-it-to-westlake-village-in/
 ljID:

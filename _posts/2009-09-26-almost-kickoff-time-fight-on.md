@@ -1,9 +1,9 @@
 ---
 id: 1047
-title: 'Almost kickoff time. Fight on '
-date: '2009-09-26T22:24:31-04:00'
+title: "Almost kickoff time. Fight on "
+date: 2009-09-26T22:24:31-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/09/26/almost-kickoff-time-fight-on/'
 permalink: /2009/09/26/almost-kickoff-time-fight-on/
 aktt_notify_twitter:

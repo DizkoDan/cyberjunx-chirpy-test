@@ -1,9 +1,9 @@
 ---
 id: 1466
-title: 'I cant believe one of these aw'
-date: '2010-11-12T07:47:27-04:00'
+title: "I cant believe one of these aw"
+date: 2010-11-12T07:47:27-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/12/i-cant-believe-one-of-these-aw/'
 permalink: /2010/11/12/i-cant-believe-one-of-these-aw/
 aktt_notify_twitter:

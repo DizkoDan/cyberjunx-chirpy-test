@@ -1,9 +1,9 @@
 ---
 id: 1151
-title: 'Who's having fight night Satur'
-date: '2010-05-24T14:51:28-04:00'
+title: "Whos having fight night Satur'"
+date: 2010-05-24T14:51:28-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/05/24/whos-having-fight-night-satur/'
 permalink: /2010/05/24/whos-having-fight-night-satur/
 categories:

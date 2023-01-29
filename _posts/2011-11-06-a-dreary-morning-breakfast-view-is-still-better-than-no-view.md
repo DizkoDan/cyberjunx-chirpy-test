@@ -1,9 +1,9 @@
 ---
 id: 1617
-title: 'A dreary morning breakfast view is still better than no view'
-date: '2011-11-06T10:34:40-04:00'
+title: "A dreary morning breakfast view is still better than no view"
+date: 2011-11-06T10:34:40-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/11/06/a-dreary-morning-breakfast-view-is-still-better-than-no-view/'
 permalink: /2011/11/06/a-dreary-morning-breakfast-view-is-still-better-than-no-view/
 aktt_notify_twitter:

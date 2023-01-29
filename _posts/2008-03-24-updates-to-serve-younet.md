@@ -1,9 +1,9 @@
 ---
 id: 338
-title: 'Updates to serve-you.net'
-date: '2008-03-24T22:07:35-04:00'
+title: "Updates to serve-you.net"
+date: 2008-03-24T22:07:35-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/24/updates-to-serve-younet/'
 permalink: /2008/03/24/updates-to-serve-younet/
 ljID:

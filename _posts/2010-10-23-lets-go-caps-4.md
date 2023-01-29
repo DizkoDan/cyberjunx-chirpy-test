@@ -1,9 +1,9 @@
 ---
 id: 1452
-title: 'Let's go caps!'
-date: '2010-10-23T19:11:23-04:00'
+title: "Lets go caps!'"
+date: 2010-10-23T19:11:23-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/10/23/lets-go-caps-4/'
 permalink: /2010/10/23/lets-go-caps-4/
 aktt_notify_twitter:

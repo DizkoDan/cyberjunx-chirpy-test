@@ -1,9 +1,9 @@
 ---
 id: 477
-title: 'Fuck crue! If it doesn't stop '
-date: '2008-07-13T19:16:32-04:00'
+title: "Fuck crue! If it doesnt stop '"
+date: 2008-07-13T19:16:32-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/07/13/fuck-crue-if-it-doesnt-stop/'
 permalink: /2008/07/13/fuck-crue-if-it-doesnt-stop/
 ljID:

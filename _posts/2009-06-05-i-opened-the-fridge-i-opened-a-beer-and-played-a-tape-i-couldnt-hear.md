@@ -1,9 +1,9 @@
 ---
 id: 971
-title: 'I opened the fridge, I opened a beer, and played a tape I couldn't hear'
-date: '2009-06-05T09:19:25-04:00'
+title: "I opened the fridge, I opened a beer, and played a tape I couldnt hear'"
+date: 2009-06-05T09:19:25-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=971'
 permalink: /2009/06/05/i-opened-the-fridge-i-opened-a-beer-and-played-a-tape-i-couldnt-hear/
 aktt_notify_twitter:

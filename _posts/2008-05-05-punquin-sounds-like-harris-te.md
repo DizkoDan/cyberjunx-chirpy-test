@@ -1,9 +1,9 @@
 ---
 id: 390
-title: '@punquin sounds like harris te'
-date: '2008-05-05T10:29:03-04:00'
+title: "@punquin sounds like harris te"
+date: 2008-05-05T10:29:03-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/05/punquin-sounds-like-harris-te/'
 permalink: /2008/05/05/punquin-sounds-like-harris-te/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 630
-title: 'is excited for the rose bowl. '
-date: '2009-01-01T17:41:53-04:00'
+title: "is excited for the rose bowl. "
+date: 2009-01-01T17:41:53-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/01/01/is-excited-for-the-rose-bowl/'
 permalink: /2009/01/01/is-excited-for-the-rose-bowl/
 aktt_notify_twitter:

@@ -1,9 +1,9 @@
 ---
 id: 1085
-title: 'Kickoff time. Lets see a stron'
-date: '2009-12-05T16:40:17-04:00'
+title: "Kickoff time. Lets see a stron"
+date: 2009-12-05T16:40:17-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/12/05/kickoff-time-lets-see-a-stron/'
 permalink: /2009/12/05/kickoff-time-lets-see-a-stron/
 aktt_notify_twitter:

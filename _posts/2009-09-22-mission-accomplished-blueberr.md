@@ -1,9 +1,9 @@
 ---
 id: 1043
-title: 'Mission accomplished. Blueberr'
-date: '2009-09-22T13:39:26-04:00'
+title: "Mission accomplished. Blueberr"
+date: 2009-09-22T13:39:26-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/09/22/mission-accomplished-blueberr/'
 permalink: /2009/09/22/mission-accomplished-blueberr/
 aktt_notify_twitter:

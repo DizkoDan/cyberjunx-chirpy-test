@@ -1,9 +1,9 @@
 ---
 id: 527
-title: 'I would have liked to have see'
-date: '2008-09-13T23:43:06-04:00'
+title: "I would have liked to have see"
+date: 2008-09-13T23:43:06-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/13/i-would-have-liked-to-have-see/'
 permalink: /2008/09/13/i-would-have-liked-to-have-see/
 ljID:

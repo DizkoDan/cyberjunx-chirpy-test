@@ -1,9 +1,9 @@
 ---
 id: 599
-title: 'hate to admit it, but i'm real'
-date: '2008-11-23T19:13:07-04:00'
+title: "hate to admit it, but im real'"
+date: 2008-11-23T19:13:07-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/23/hate-to-admit-it-but-im-real/'
 permalink: /2008/11/23/hate-to-admit-it-but-im-real/
 ljID:

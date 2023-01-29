@@ -1,9 +1,9 @@
 ---
 id: 1069
-title: 'As if my back wasn't bothering'
-date: '2009-11-08T17:13:21-04:00'
+title: "As if my back wasnt bothering'"
+date: 2009-11-08T17:13:21-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/11/08/as-if-my-back-wasnt-bothering/'
 permalink: /2009/11/08/as-if-my-back-wasnt-bothering/
 aktt_notify_twitter:

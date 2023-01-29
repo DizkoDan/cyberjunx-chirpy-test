@@ -1,9 +1,9 @@
 ---
 id: 607
-title: 'is doing a deployment, wishing'
-date: '2008-12-04T07:03:40-04:00'
+title: "is doing a deployment, wishing"
+date: 2008-12-04T07:03:40-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/12/04/is-doing-a-deployment-wishing/'
 permalink: /2008/12/04/is-doing-a-deployment-wishing/
 ljID:

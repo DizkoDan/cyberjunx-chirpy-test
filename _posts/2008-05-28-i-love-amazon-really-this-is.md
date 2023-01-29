@@ -1,9 +1,9 @@
 ---
 id: 431
-title: 'I love amazon. Really! This is'
-date: '2008-05-28T16:06:38-04:00'
+title: "I love amazon. Really! This is"
+date: 2008-05-28T16:06:38-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/28/i-love-amazon-really-this-is/'
 permalink: /2008/05/28/i-love-amazon-really-this-is/
 ljID:

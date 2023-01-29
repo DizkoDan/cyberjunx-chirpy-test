@@ -1,9 +1,9 @@
 ---
 id: 398
-title: '@Moosifer It's awesome! PF Chi'
-date: '2008-05-14T09:37:25-04:00'
+title: "@Moosifer Its awesome! PF Chi'"
+date: 2008-05-14T09:37:25-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/14/moosifer-its-awesome-pf-chi/'
 permalink: /2008/05/14/moosifer-its-awesome-pf-chi/
 ljID:

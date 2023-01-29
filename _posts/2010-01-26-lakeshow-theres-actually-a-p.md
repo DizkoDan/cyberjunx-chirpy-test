@@ -1,9 +1,9 @@
 ---
 id: 1101
-title: 'Lakeshow! There's actually a p'
-date: '2010-01-26T20:30:04-04:00'
+title: "Lakeshow! Theres actually a p'"
+date: 2010-01-26T20:30:04-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/01/26/lakeshow-theres-actually-a-p/'
 permalink: /2010/01/26/lakeshow-theres-actually-a-p/
 aktt_notify_twitter:

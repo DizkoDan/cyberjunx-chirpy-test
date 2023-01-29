@@ -1,9 +1,9 @@
 ---
 id: 31
-title: 'Fucking Verizon'
-date: '2003-08-25T18:49:00-04:00'
+title: "Fucking Verizon"
+date: 2003-08-25T18:49:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=31'
 permalink: /2003/08/25/fucking-verizon/
 ljID:

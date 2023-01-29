@@ -1,9 +1,9 @@
 ---
 id: 1023
-title: 'Is it odd that I had a massive'
-date: '2009-08-27T17:33:35-04:00'
+title: "Is it odd that I had a massive"
+date: 2009-08-27T17:33:35-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/08/27/is-it-odd-that-i-had-a-massive/'
 permalink: /2009/08/27/is-it-odd-that-i-had-a-massive/
 aktt_notify_twitter:

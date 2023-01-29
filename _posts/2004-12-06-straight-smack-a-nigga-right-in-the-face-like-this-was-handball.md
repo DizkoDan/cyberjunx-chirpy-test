@@ -1,9 +1,9 @@
 ---
 id: 8
-title: 'Straight smack a nigga right in the face like this was handball'
-date: '2004-12-06T09:07:00-04:00'
+title: "Straight smack a nigga right in the face like this was handball"
+date: 2004-12-06T09:07:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=8'
 permalink: /2004/12/06/straight-smack-a-nigga-right-in-the-face-like-this-was-handball/
 ljID:

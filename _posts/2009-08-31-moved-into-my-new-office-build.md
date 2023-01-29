@@ -1,9 +1,9 @@
 ---
 id: 1028
-title: 'moved into my new office build'
-date: '2009-08-31T09:16:03-04:00'
+title: "moved into my new office build"
+date: 2009-08-31T09:16:03-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/08/31/moved-into-my-new-office-build/'
 permalink: /2009/08/31/moved-into-my-new-office-build/
 aktt_notify_twitter:

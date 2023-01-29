@@ -1,8 +1,8 @@
 ---
 id: 239
-title: 'heh. just figured out why it w'
-date: '2007-12-16T06:12:55-04:00'
-layout: post
+title: "heh. just figured out why it w"
+date: 2007-12-16T06:12:55-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/12/16/heh-just-figured-out-why-it-w/'
 permalink: /2007/12/16/heh-just-figured-out-why-it-w/
 ljID:

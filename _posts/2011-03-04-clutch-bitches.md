@@ -1,9 +1,9 @@
 ---
 id: 1546
-title: 'Clutch bitches!'
-date: '2011-03-04T20:53:18-04:00'
+title: "Clutch bitches!"
+date: 2011-03-04T20:53:18-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/03/04/clutch-bitches/'
 permalink: /2011/03/04/clutch-bitches/
 aktt_notify_twitter:

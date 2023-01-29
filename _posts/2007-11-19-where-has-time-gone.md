@@ -1,9 +1,9 @@
 ---
 id: 217
-title: 'Where has time gone?'
-date: '2007-11-19T21:20:37-04:00'
+title: "Where has time gone?"
+date: 2007-11-19T21:20:37-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2007/11/19/where-has-time-gone/'
 permalink: /2007/11/19/where-has-time-gone/
 ljID:

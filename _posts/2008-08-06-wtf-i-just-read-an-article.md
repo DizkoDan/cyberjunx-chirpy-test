@@ -1,9 +1,9 @@
 ---
 id: 502
-title: 'wtf?!?! I just read an article'
-date: '2008-08-06T09:45:49-04:00'
+title: "wtf?!?! I just read an article"
+date: 2008-08-06T09:45:49-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/08/06/wtf-i-just-read-an-article/'
 permalink: /2008/08/06/wtf-i-just-read-an-article/
 ljID:

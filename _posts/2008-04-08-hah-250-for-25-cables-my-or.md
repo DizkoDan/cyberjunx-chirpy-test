@@ -1,9 +1,9 @@
 ---
 id: 362
-title: 'Hah! $250 for 25 cables. My or'
-date: '2008-04-08T11:37:40-04:00'
+title: "Hah! $250 for 25 cables. My or"
+date: 2008-04-08T11:37:40-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/08/hah-250-for-25-cables-my-or/'
 permalink: /2008/04/08/hah-250-for-25-cables-my-or/
 ljID:

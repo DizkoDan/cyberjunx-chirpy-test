@@ -1,8 +1,8 @@
 ---
 id: 341
-title: '@meltoids I must smell a lot t'
-date: '2008-03-28T10:38:45-04:00'
-layout: post
+title: "@meltoids I must smell a lot t"
+date: 2008-03-28T10:38:45-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/03/28/meltoids-i-must-smell-a-lot-t/'
 permalink: /2008/03/28/meltoids-i-must-smell-a-lot-t/
 ljID:

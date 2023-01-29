@@ -1,9 +1,9 @@
 ---
 id: 1603
-title: 'This douche has been parked in"my" spot for like 2 weeks.'
-date: '2011-06-23T06:31:38-04:00'
+title: This douche has been parked in"my" spot for like 2 weeks.
+date: 2011-06-23T06:31:38-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/06/23/this-douche-has-been-parked-inmy-spot-for-like-2-weeks/'
 permalink: /2011/06/23/this-douche-has-been-parked-inmy-spot-for-like-2-weeks/
 aktt_notify_twitter:

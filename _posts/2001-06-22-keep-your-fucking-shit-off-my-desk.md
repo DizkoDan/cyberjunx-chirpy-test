@@ -1,9 +1,9 @@
 ---
 id: 63
-title: 'Keep Your Fucking Shit Off My Desk'
-date: '2001-06-22T10:34:00-04:00'
+title: "Keep Your Fucking Shit Off My Desk"
+date: 2001-06-22T10:34:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=63'
 permalink: /2001/06/22/keep-your-fucking-shit-off-my-desk/
 ljID:

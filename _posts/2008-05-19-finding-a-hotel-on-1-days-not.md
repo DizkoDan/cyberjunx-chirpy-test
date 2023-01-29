@@ -1,9 +1,9 @@
 ---
 id: 403
-title: 'Finding a hotel on 1 day's not'
-date: '2008-05-19T18:48:57-04:00'
+title: "Finding a hotel on 1 days not'"
+date: 2008-05-19T18:48:57-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/19/finding-a-hotel-on-1-days-not/'
 permalink: /2008/05/19/finding-a-hotel-on-1-days-not/
 ljID:

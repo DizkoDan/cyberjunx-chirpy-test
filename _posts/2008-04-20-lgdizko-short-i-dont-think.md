@@ -1,9 +1,9 @@
 ---
 id: 379
-title: '@lgdizko short. i don't think '
-date: '2008-04-20T16:49:27-04:00'
+title: "@lgdizko short. i dont think '"
+date: 2008-04-20T16:49:27-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/20/lgdizko-short-i-dont-think/'
 permalink: /2008/04/20/lgdizko-short-i-dont-think/
 ljID:

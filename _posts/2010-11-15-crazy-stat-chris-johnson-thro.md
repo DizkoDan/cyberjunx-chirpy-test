@@ -1,9 +1,9 @@
 ---
 id: 1471
-title: 'Crazy stat: Chris Johnson thro'
-date: '2010-11-15T11:28:32-04:00'
+title: "Crazy stat&#58; Chris Johnson thro"
+date: 2010-11-15T11:28:32-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/15/crazy-stat-chris-johnson-thro/'
 permalink: /2010/11/15/crazy-stat-chris-johnson-thro/
 aktt_notify_twitter:

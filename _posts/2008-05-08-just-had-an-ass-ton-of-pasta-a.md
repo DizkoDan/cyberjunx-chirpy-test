@@ -1,9 +1,9 @@
 ---
 id: 392
-title: 'Just had an ass ton of pasta a'
-date: '2008-05-08T20:17:46-04:00'
+title: "Just had an ass ton of pasta a"
+date: 2008-05-08T20:17:46-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/08/just-had-an-ass-ton-of-pasta-a/'
 permalink: /2008/05/08/just-had-an-ass-ton-of-pasta-a/
 ljID:

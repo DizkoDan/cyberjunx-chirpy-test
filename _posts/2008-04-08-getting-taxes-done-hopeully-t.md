@@ -1,9 +1,9 @@
 ---
 id: 363
-title: 'Getting taxes done. Hopeully t'
-date: '2008-04-08T19:19:09-04:00'
+title: "Getting taxes done. Hopeully t"
+date: 2008-04-08T19:19:09-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/04/08/getting-taxes-done-hopeully-t/'
 permalink: /2008/04/08/getting-taxes-done-hopeully-t/
 ljID:

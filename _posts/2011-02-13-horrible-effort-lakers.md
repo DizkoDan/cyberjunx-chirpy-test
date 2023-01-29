@@ -1,9 +1,9 @@
 ---
 id: 1530
-title: 'Horrible effort lakers.'
-date: '2011-02-13T18:51:25-04:00'
+title: "Horrible effort lakers."
+date: 2011-02-13T18:51:25-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/02/13/horrible-effort-lakers/'
 permalink: /2011/02/13/horrible-effort-lakers/
 aktt_notify_twitter:

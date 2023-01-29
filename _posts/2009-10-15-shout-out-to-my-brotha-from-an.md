@@ -1,9 +1,9 @@
 ---
 id: 1058
-title: 'shout out to my brotha from an'
-date: '2009-10-15T08:31:46-04:00'
+title: "shout out to my brotha from an"
+date: 2009-10-15T08:31:46-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/15/shout-out-to-my-brotha-from-an/'
 permalink: /2009/10/15/shout-out-to-my-brotha-from-an/
 aktt_notify_twitter:

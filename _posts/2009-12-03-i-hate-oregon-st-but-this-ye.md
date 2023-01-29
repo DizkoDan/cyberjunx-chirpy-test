@@ -1,9 +1,9 @@
 ---
 id: 1084
-title: 'I hate oregon st., but this ye'
-date: '2009-12-03T21:55:06-04:00'
+title: "I hate oregon st., but this ye"
+date: 2009-12-03T21:55:06-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/12/03/i-hate-oregon-st-but-this-ye/'
 permalink: /2009/12/03/i-hate-oregon-st-but-this-ye/
 aktt_notify_twitter:

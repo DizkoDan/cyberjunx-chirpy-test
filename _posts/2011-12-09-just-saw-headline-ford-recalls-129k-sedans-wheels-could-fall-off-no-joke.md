@@ -1,9 +1,9 @@
 ---
 id: 1623
-title: 'Just saw headline ' ford recalls 129k sedans. Wheels could fall off' no joke!'
-date: '2011-12-09T16:28:17-04:00'
+title: "Just saw headline  ford recalls 129k sedans. Wheels could fall off' no joke!'"
+date: 2011-12-09T16:28:17-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/12/09/just-saw-headline-ford-recalls-129k-sedans-wheels-could-fall-off-no-joke/'
 permalink: /2011/12/09/just-saw-headline-ford-recalls-129k-sedans-wheels-could-fall-off-no-joke/
 aktt_notify_twitter:

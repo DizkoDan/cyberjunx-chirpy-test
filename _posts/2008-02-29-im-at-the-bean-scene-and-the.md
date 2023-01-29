@@ -1,8 +1,8 @@
 ---
 id: 322
-title: 'I'm at the bean scene, and the'
-date: '2008-02-29T10:17:12-04:00'
-layout: post
+title: "Im at the bean scene, and the'"
+date: 2008-02-29T10:17:12-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/29/im-at-the-bean-scene-and-the/'
 permalink: /2008/02/29/im-at-the-bean-scene-and-the/
 ljID:

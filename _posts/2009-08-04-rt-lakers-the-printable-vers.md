@@ -1,9 +1,9 @@
 ---
 id: 1013
-title: 'RT @Lakers: The printable vers'
-date: '2009-08-04T14:25:26-04:00'
+title: "RT @Lakers&#58; The printable vers"
+date: 2009-08-04T14:25:26-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/08/04/rt-lakers-the-printable-vers/'
 permalink: /2009/08/04/rt-lakers-the-printable-vers/
 aktt_notify_twitter:

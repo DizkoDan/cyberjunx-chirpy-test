@@ -1,9 +1,9 @@
 ---
 id: 442
-title: 'Security in the international '
-date: '2008-06-07T13:27:30-04:00'
+title: "Security in the international "
+date: 2008-06-07T13:27:30-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/07/security-in-the-international/'
 permalink: /2008/06/07/security-in-the-international/
 ljID:

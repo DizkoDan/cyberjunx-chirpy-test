@@ -1,9 +1,9 @@
 ---
 id: 914
-title: 'Sometimes I feel I've got to..'
-date: '2009-04-09T18:33:03-04:00'
+title: "Sometimes I feel Ive got to..'"
+date: 2009-04-09T18:33:03-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/09/sometimes-i-feel-ive-got-to/'
 permalink: /2009/04/09/sometimes-i-feel-ive-got-to/
 aktt_notify_twitter:

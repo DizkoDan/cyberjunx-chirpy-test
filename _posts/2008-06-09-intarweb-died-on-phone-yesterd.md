@@ -1,9 +1,9 @@
 ---
 id: 446
-title: 'Intarweb died on phone yesterd'
-date: '2008-06-09T11:08:38-04:00'
+title: "Intarweb died on phone yesterd"
+date: 2008-06-09T11:08:38-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/09/intarweb-died-on-phone-yesterd/'
 permalink: /2008/06/09/intarweb-died-on-phone-yesterd/
 ljID:

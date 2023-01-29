@@ -1,9 +1,9 @@
 ---
 id: 182
-title: 'So here it is'
-date: '2007-08-23T02:52:14-04:00'
+title: "So here it is"
+date: 2007-08-23T02:52:14-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=182'
 permalink: /2007/08/23/so-here-it-is/
 ljID:

@@ -1,8 +1,8 @@
 ---
 id: 301
-title: 'There's something really wrong'
-date: '2008-02-06T15:08:02-04:00'
-layout: post
+title: "Theres something really wrong'"
+date: 2008-02-06T15:08:02-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/06/theres-something-really-wrong/'
 permalink: /2008/02/06/theres-something-really-wrong/
 ljID:

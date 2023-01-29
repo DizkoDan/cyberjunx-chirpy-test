@@ -1,9 +1,9 @@
 ---
 id: 944
-title: 'Sat out on the beach for a cou'
-date: '2009-05-08T16:24:39-04:00'
+title: "Sat out on the beach for a cou"
+date: 2009-05-08T16:24:39-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/05/08/sat-out-on-the-beach-for-a-cou/'
 permalink: /2009/05/08/sat-out-on-the-beach-for-a-cou/
 aktt_notify_twitter:

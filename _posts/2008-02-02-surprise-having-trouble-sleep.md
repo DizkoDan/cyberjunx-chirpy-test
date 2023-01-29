@@ -1,8 +1,8 @@
 ---
 id: 293
-title: 'Surprise! Having trouble sleep'
-date: '2008-02-02T21:47:46-04:00'
-layout: post
+title: "Surprise! Having trouble sleep"
+date: 2008-02-02T21:47:46-04:00
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/02/02/surprise-having-trouble-sleep/'
 permalink: /2008/02/02/surprise-having-trouble-sleep/
 ljID:

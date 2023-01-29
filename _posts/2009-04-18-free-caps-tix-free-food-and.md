@@ -1,9 +1,9 @@
 ---
 id: 919
-title: 'Free caps tix + free food and '
-date: '2009-04-18T11:56:46-04:00'
+title: "Free caps tix + free food and "
+date: 2009-04-18T11:56:46-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/18/free-caps-tix-free-food-and/'
 permalink: /2009/04/18/free-caps-tix-free-food-and/
 aktt_notify_twitter:

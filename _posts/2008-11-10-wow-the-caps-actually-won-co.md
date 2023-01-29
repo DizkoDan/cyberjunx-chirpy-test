@@ -1,9 +1,9 @@
 ---
 id: 587
-title: 'Wow! The caps actually won! Co'
-date: '2008-11-10T22:34:42-04:00'
+title: "Wow! The caps actually won! Co"
+date: 2008-11-10T22:34:42-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/10/wow-the-caps-actually-won-co/'
 permalink: /2008/11/10/wow-the-caps-actually-won-co/
 ljID:

@@ -1,9 +1,9 @@
 ---
 id: 1475
-title: 'I should be in bed, but I just'
-date: '2010-11-20T02:24:49-04:00'
+title: "I should be in bed, but I just"
+date: 2010-11-20T02:24:49-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/20/i-should-be-in-bed-but-i-just/'
 permalink: /2010/11/20/i-should-be-in-bed-but-i-just/
 aktt_notify_twitter:

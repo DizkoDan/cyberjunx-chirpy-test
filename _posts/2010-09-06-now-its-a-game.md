@@ -1,9 +1,9 @@
 ---
 id: 1409
-title: 'Now it's a game!'
-date: '2010-09-06T22:18:23-04:00'
+title: "Now its a game!'"
+date: 2010-09-06T22:18:23-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/09/06/now-its-a-game/'
 permalink: /2010/09/06/now-its-a-game/
 aktt_notify_twitter:

@@ -1,9 +1,9 @@
 ---
 id: 1070
-title: 'Been up since 3am for work. Ju'
-date: '2009-11-10T13:39:12-04:00'
+title: "Been up since 3am for work. Ju"
+date: 2009-11-10T13:39:12-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/11/10/been-up-since-3am-for-work-ju/'
 permalink: /2009/11/10/been-up-since-3am-for-work-ju/
 aktt_notify_twitter:

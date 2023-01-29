@@ -1,9 +1,9 @@
 ---
 id: 531
-title: 'Just finished overseeding the '
-date: '2008-09-26T15:57:53-04:00'
+title: "Just finished overseeding the "
+date: 2008-09-26T15:57:53-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/09/26/just-finished-overseeding-the/'
 permalink: /2008/09/26/just-finished-overseeding-the/
 ljID:

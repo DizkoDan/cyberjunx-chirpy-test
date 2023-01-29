@@ -1,9 +1,9 @@
 ---
 id: 546
-title: 'Hah. I'm sitting next to raven'
-date: '2008-10-15T16:02:37-04:00'
+title: "Hah. Im sitting next to raven'"
+date: 2008-10-15T16:02:37-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/15/hah-im-sitting-next-to-raven/'
 permalink: /2008/10/15/hah-im-sitting-next-to-raven/
 ljID:

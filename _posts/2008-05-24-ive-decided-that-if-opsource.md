@@ -1,9 +1,9 @@
 ---
 id: 423
-title: 'I've decided that if OpSource '
-date: '2008-05-24T18:35:33-04:00'
+title: "Ive decided that if OpSource '"
+date: 2008-05-24T18:35:33-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/24/ive-decided-that-if-opsource/'
 permalink: /2008/05/24/ive-decided-that-if-opsource/
 ljID:

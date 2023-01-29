@@ -1,9 +1,9 @@
 ---
 id: 1405
-title: 'If he were to punch you in the'
-date: '2010-09-02T23:37:52-04:00'
+title: "If he were to punch you in the"
+date: 2010-09-02T23:37:52-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/09/02/if-he-were-to-punch-you-in-the/'
 permalink: /2010/09/02/if-he-were-to-punch-you-in-the/
 aktt_notify_twitter:

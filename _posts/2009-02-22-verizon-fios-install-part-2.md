@@ -1,9 +1,9 @@
 ---
 id: 858
-title: 'Verizon FIOS Install Part 2'
-date: '2009-02-22T18:17:56-04:00'
+title: "Verizon FIOS Install Part 2"
+date: 2009-02-22T18:17:56-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=858'
 permalink: /2009/02/22/verizon-fios-install-part-2/
 aktt_notify_twitter:

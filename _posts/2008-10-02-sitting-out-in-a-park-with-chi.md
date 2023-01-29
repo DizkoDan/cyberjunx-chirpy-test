@@ -1,9 +1,9 @@
 ---
 id: 532
-title: 'Sitting out in a park with chi'
-date: '2008-10-02T17:37:56-04:00'
+title: "Sitting out in a park with chi"
+date: 2008-10-02T17:37:56-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/02/sitting-out-in-a-park-with-chi/'
 permalink: /2008/10/02/sitting-out-in-a-park-with-chi/
 ljID:

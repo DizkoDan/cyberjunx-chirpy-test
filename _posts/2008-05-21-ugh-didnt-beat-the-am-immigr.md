@@ -1,9 +1,9 @@
 ---
 id: 406
-title: 'Ugh. Didn't beat the AM immigr'
-date: '2008-05-21T02:07:30-04:00'
+title: "Ugh. Didnt beat the AM immigr'"
+date: 2008-05-21T02:07:30-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/05/21/ugh-didnt-beat-the-am-immigr/'
 permalink: /2008/05/21/ugh-didnt-beat-the-am-immigr/
 ljID:

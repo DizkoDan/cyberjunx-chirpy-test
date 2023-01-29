@@ -1,9 +1,9 @@
 ---
 id: 582
-title: 'getting stephanie's car some l'
-date: '2008-11-07T16:31:12-04:00'
+title: "getting stephanies car some l'"
+date: 2008-11-07T16:31:12-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/11/07/getting-stephanies-car-some-l/'
 permalink: /2008/11/07/getting-stephanies-car-some-l/
 ljID:

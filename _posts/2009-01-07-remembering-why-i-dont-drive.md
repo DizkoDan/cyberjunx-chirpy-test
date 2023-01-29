@@ -1,9 +1,9 @@
 ---
 id: 631
-title: 'Remembering why I don't drive '
-date: '2009-01-07T10:14:59-04:00'
+title: "Remembering why I dont drive '"
+date: 2009-01-07T10:14:59-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/01/07/remembering-why-i-dont-drive/'
 permalink: /2009/01/07/remembering-why-i-dont-drive/
 aktt_notify_twitter:

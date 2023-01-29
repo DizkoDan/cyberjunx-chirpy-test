@@ -1,9 +1,9 @@
 ---
 id: 880
-title: 'I am addicted to food network '
-date: '2009-03-11T22:10:18-04:00'
+title: "I am addicted to food network "
+date: 2009-03-11T22:10:18-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/03/11/i-am-addicted-to-food-network/'
 permalink: /2009/03/11/i-am-addicted-to-food-network/
 aktt_notify_twitter:

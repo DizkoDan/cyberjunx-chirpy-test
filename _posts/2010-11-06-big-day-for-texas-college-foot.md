@@ -1,9 +1,9 @@
 ---
 id: 1462
-title: 'Big day for texas college foot'
-date: '2010-11-06T23:39:06-04:00'
+title: "Big day for texas college foot"
+date: 2010-11-06T23:39:06-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2010/11/06/big-day-for-texas-college-foot/'
 permalink: /2010/11/06/big-day-for-texas-college-foot/
 aktt_notify_twitter:

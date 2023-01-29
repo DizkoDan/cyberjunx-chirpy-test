@@ -1,9 +1,9 @@
 ---
 id: 1553
-title: 'Former ALICE IN CHAINS Bassist Found Dead'
-date: '2011-03-09T07:49:28-04:00'
+title: "Former ALICE IN CHAINS Bassist Found Dead"
+date: 2011-03-09T07:49:28-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2011/03/09/former-alice-in-chains-bassist-found-dead/'
 permalink: /2011/03/09/former-alice-in-chains-bassist-found-dead/
 aktt_notify_twitter:

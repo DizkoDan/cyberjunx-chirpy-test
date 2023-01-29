@@ -1,9 +1,9 @@
 ---
 id: 186
-title: 'Server migration time again'
-date: '2007-08-25T10:32:41-04:00'
+title: "Server migration time again"
+date: 2007-08-25T10:32:41-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=186'
 permalink: /2007/08/25/server-migration-time-again/
 ljID:

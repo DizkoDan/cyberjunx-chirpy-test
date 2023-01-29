@@ -1,9 +1,9 @@
 ---
 id: 537
-title: 'Just landed in charlotte.'
-date: '2008-10-10T08:59:49-04:00'
+title: "Just landed in charlotte."
+date: 2008-10-10T08:59:49-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/10/10/just-landed-in-charlotte/'
 permalink: /2008/10/10/just-landed-in-charlotte/
 ljID:

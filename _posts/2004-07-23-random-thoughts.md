@@ -1,9 +1,9 @@
 ---
 id: 16
-title: 'Random Thoughts'
-date: '2004-07-23T12:51:00-04:00'
+title: "Random Thoughts"
+date: 2004-07-23T12:51:00-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/?p=16'
 permalink: /2004/07/23/random-thoughts/
 ljID:

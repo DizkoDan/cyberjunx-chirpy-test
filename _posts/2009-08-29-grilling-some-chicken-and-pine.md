@@ -1,9 +1,9 @@
 ---
 id: 1026
-title: 'Grilling some chicken and pine'
-date: '2009-08-29T17:26:30-04:00'
+title: "Grilling some chicken and pine"
+date: 2009-08-29T17:26:30-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/08/29/grilling-some-chicken-and-pine/'
 permalink: /2009/08/29/grilling-some-chicken-and-pine/
 aktt_notify_twitter:

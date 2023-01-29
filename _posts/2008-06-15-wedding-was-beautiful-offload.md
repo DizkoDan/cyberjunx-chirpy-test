@@ -1,9 +1,9 @@
 ---
 id: 455
-title: 'Wedding was beautiful. Offload'
-date: '2008-06-15T03:13:37-04:00'
+title: "Wedding was beautiful. Offload"
+date: 2008-06-15T03:13:37-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/06/15/wedding-was-beautiful-offload/'
 permalink: /2008/06/15/wedding-was-beautiful-offload/
 ljID:

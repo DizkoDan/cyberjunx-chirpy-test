@@ -1,9 +1,9 @@
 ---
 id: 1075
-title: 'I have a few google voice invi'
-date: '2009-11-19T11:36:34-04:00'
+title: "I have a few google voice invi"
+date: 2009-11-19T11:36:34-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/11/19/i-have-a-few-google-voice-invi/'
 permalink: /2009/11/19/i-have-a-few-google-voice-invi/
 aktt_notify_twitter:

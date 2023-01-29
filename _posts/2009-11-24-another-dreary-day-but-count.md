@@ -1,9 +1,9 @@
 ---
 id: 1077
-title: 'Another dreary day, but @count'
-date: '2009-11-24T12:17:54-04:00'
+title: "Another dreary day, but @count"
+date: 2009-11-24T12:17:54-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/11/24/another-dreary-day-but-count/'
 permalink: /2009/11/24/another-dreary-day-but-count/
 aktt_notify_twitter:

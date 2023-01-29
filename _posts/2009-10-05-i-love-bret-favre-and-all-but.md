@@ -1,9 +1,9 @@
 ---
 id: 1053
-title: 'I love Bret Favre and all, but'
-date: '2009-10-05T21:43:18-04:00'
+title: "I love Bret Favre and all, but"
+date: 2009-10-05T21:43:18-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/10/05/i-love-bret-favre-and-all-but/'
 permalink: /2009/10/05/i-love-bret-favre-and-all-but/
 aktt_notify_twitter:

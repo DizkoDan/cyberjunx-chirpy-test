@@ -1,9 +1,9 @@
 ---
 id: 503
-title: 'Watching harold and kumar esca'
-date: '2008-08-06T21:14:52-04:00'
+title: "Watching harold and kumar esca"
+date: 2008-08-06T21:14:52-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2008/08/06/watching-harold-and-kumar-esca/'
 permalink: /2008/08/06/watching-harold-and-kumar-esca/
 ljID:

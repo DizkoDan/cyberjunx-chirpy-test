@@ -1,9 +1,9 @@
 ---
 id: 922
-title: 'They are on layaway!'
-date: '2009-04-18T20:40:59-04:00'
+title: "They are on layaway!"
+date: 2009-04-18T20:40:59-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/04/18/they-are-on-layaway/'
 permalink: /2009/04/18/they-are-on-layaway/
 aktt_notify_twitter:

@@ -1,9 +1,9 @@
 ---
 id: 865
-title: 'Laughing at the fact that my o'
-date: '2009-03-02T09:19:16-04:00'
+title: "Laughing at the fact that my o"
+date: 2009-03-02T09:19:16-04:00
 author: DizkoDan
-layout: post
+layout: single
 guid: 'http://www.cyberjunx.com/blog/archives/2009/03/02/laughing-at-the-fact-that-my-o/'
 permalink: /2009/03/02/laughing-at-the-fact-that-my-o/
 aktt_notify_twitter:
